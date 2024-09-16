@@ -58,6 +58,6 @@ for key in classes:
         event = to_event(key, title, lesson)
         cal.add_component(event)
 
-f = open("strefazajec.ical", "wb")
+f = open("strefazajec.ics", "wb")
 f.write(cal.to_ical())
 f.close()
