@@ -22,12 +22,11 @@ def to_datetime(text):
     return dparser.parse(text, fuzzy=True)
 
 def to_timedelta(text):
-    m = re.findall(r'\d+', text)
-    hours = int(m[0])
-    minutes = 0
-    if (len(m) == 2):
-        minutes = int(m[1])
-    return timedelta(hours=hours, minutes=minutes)
+    h = re.findall(r'(\d+) godz.', text)
+    m = re.findall(r'(\d+) min.', text)
+    h = int(h[0]) if len(h) > 0 else 0
+    m = int(m[0]) if len(m) > 0 else 0
+    return timedelta(hours=h, minutes=m)
 
 def to_event(title_short, title_full, lesson):
     tds = lesson.find_all("td")
