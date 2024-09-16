@@ -1,7 +1,7 @@
 from datetime import timedelta
 import re
 from bs4 import BeautifulSoup
-from icalendar import Calendar, Event
+from icalendar import Alarm, Calendar, Event
 import requests
 import dateutil.parser as dparser
 import dateparser
@@ -42,6 +42,10 @@ def to_event(title_short, title_full, lesson):
     event.add('description', title_full)
     event.add('dtstart', dtstart)
     event.add('dtend', dtend)
+    alarm = Alarm()
+    alarm.add('action', 'audio')
+    alarm.add('trigger', dtstart - timedelta(minutes=30))
+    event.add_component(alarm)
     return event
 
 cal = Calendar()
