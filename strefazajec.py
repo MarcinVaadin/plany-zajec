@@ -38,7 +38,7 @@ def to_event(title_short, title_full, lesson):
     dtstart = to_datetime(date)
     dtend = dtstart + to_timedelta(duration)
     event = Event()
-    event.add('name', title_short)
+    event.add('summary', title_short)
     event.add('description', title_full)
     event.add('dtstart', dtstart)
     event.add('dtend', dtend)
