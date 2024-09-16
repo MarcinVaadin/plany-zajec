@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
 import requests
 import dateutil.parser as dparser
+import dateparser
 
 classes = {
     'Minecraft' : 'https://www.strefazajec.pl/course/view/id/65496',
@@ -19,7 +20,7 @@ def strip(text):
     return re.sub(r'\s+', ' ', text.strip())
 
 def to_datetime(text):
-    return dparser.parse(text, fuzzy=True)
+    return dateparser.parse(text, languages=['pl'])
 
 def to_timedelta(text):
     h = re.findall(r'(\d+) godz.', text)
