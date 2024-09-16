@@ -52,7 +52,7 @@ for key in classes:
     content = load(classes[key])
     
     soup = BeautifulSoup(content, 'html.parser')
-    title = soup.select_one("h1[class!=logo]")
+    title = soup.select_one("h1[class!=logo]").text
 
     for lesson in soup.find_all("tr", {"class":"lesson_record"}):
         event = to_event(key, title, lesson)
