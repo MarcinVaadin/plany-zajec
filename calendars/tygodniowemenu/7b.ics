@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kalendarz Szkolny//example.com//
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240916T134000
+DTEND:20240916T140000
+DESCRIPTION:Zupa z fasolki szparagowej zabielana na wywarze warzywno – m
+ ięsnym (zawiera seler\, mleko)\n\nKurczak w sosie słodko -kwaśnym z war
+ zywami i smażonym ryżem . Dieta wegetariańska : Cieciorka w sosie słod
+ ko-kwaśnym z warzywami i smażonym ryżem . Woda .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240917T134000
+DTEND:20240917T140000
+DESCRIPTION:Zupa kapuśniak z kiełbasą i ziemniakami na wywarze warzywno
+ - mięsnym (zawieraseler ) .\n\nKotlet mielony z mięsa wieprzowego ( zawi
+ era pszenicę \, jajka) \,ziemniaki z zieleniną \, ogórek zielony z jogu
+ rtem ( zawiera mleko). Dieta wegetariańska : Kotlet warzywny ( zawiera ps
+ zenice \, jajka)\, ogórek zielony z jogurtem ( zawiera mleko). Kompot owo
+ cowy / woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240918T134000
+DTEND:20240918T140000
+DESCRIPTION:Zupa grochowa z ziemniakami na wywarze warzywnym (zawiera sele
+ r ).\n\nNaleśniki z białym serem (zawiera pszenica \, mleko\, jajko) z m
+ usem truskawkowym .Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240919T134000
+DTEND:20240919T140000
+DESCRIPTION:Zupa pieczarkowa zabielana na wywarze warzywno – mięsnym z 
+ makaronem (zawiera seler\, mleko\, pszenice).\n\nSznycel drobiowy w chrupi
+ ącej panierce ( zawiera pszenice \,jajko)\, ziemniaki z zieleniną \, sur
+ ówka z czerwonej kapusty . Dieta wegetariańska: Sznycel wegetariański w
+  chrupiącej panierce ( zawiera pszenice \, soja \, jajko)\, ziemniaki z z
+ ieleniną \, surówka z czerwonej kapusty . Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240920T134000
+DTEND:20240920T140000
+DESCRIPTION:Zupa krem z pomidorów zabielana na wywarze warzywnym (zawiera
+  seler\, mleko)\n\nPaluszki rybne z mintaja w chrupiącej panierce (zawier
+ a jajko\, pszenica\, ryba)\,ziemniaki z zieleniną \, marchewka z groszkie
+ m ( zawiera pszenice ) . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240909T134000
+DTEND:20240909T140000
+DESCRIPTION:Barszcz ukraiński zabielany na wywarze mięsno warzywnym (zaw
+ iera seler\,mleko).\n\nPierogi z mięsem okraszone cebulką (zawiera pszen
+ icę\, seler\, soja)\, surówka Dieta wegetariańska : Pierogi ze szpinaki
+ em okraszone cebulką (zawiera pszenicę\, seler)\, surówka ze świeżych
+  warzyw. Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240910T134000
+DTEND:20240910T140000
+DESCRIPTION:Zupa jarzynowa zabielana z ziemniakami na wywarze warzywno- mi
+ ęsnym ze świeżą nataką pietruszki (zawiera seler\,mleko).\n\nKlopsiki
+  wieprzowo -wołowe (zawiera jajko\, pszenica) w sosie pomidorowym z kapus
+ tą (zawiera pszenica) ryż gotowany na sypko. Dieta wegetariańska : Klop
+ siki z cieciorki (zawiera jajko\, pszenica) w sosie pomidorowym z kapustą
+  (zawiera pszenica)\, ryż gotowany na sypko. Kompot wiśniowo – jabłko
+ wy/ woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240911T134000
+DTEND:20240911T140000
+DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
+ sowym (zawiera seler\, mleko).\n\nKluski leniwe (zawiera jajka\, pszenicę
+ ) z bułką tartą(zawiera pszenica) \, polane masłem \,sałatka owocowa 
+ z brzoskwini i winogron . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240912T134000
+DTEND:20240912T140000
+DESCRIPTION:Zupa zacierkowa z ziemniakami na wywarze mięsno warzywnym ze 
+ świeżą natką pietruszki (zawiera seler\, jajko\, pszenicę).\n\nPieczo
+ ne udo z kurczaka\, ziemniaki z zieleniną buraki zasmażane (zawiera psze
+ nicę). Dieta wegetariańska : Panierowany kotlet z cukinii (zawiera pszen
+ icę\,jajka)\,ziemniaki z zieleniną \, buraki zasmażane (zawiera pszenic
+ ę). Kompot wieloowocowy/ woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240913T134000
+DTEND:20240913T140000
+DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
+ era seler\, mleko\, jajko).\n\nFilet z morszczuka w chrupiącej panierce (
+ zawiera jajko\, pszenica\, ryba)\, surówka z kapusty kiszonej z marchewk
+ ą i jabłkiem . Woda.
+END:VEVENT
+END:VCALENDAR
