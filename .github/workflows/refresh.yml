@@ -1,4 +1,4 @@
-name: Odśwież kalendarze
+name: Refresh calendars
 
 on:
   workflow_dispatch:
@@ -10,15 +10,19 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
-    - run: |
+      with:
+        python-version: '3.12.2'
+    - name: Install Python packages
+      run: |
         pip3 install bs4
         pip3 install requests
         pip3 install icalendar
         pip3 install dateparser
     - run: python3 scripts/calendars.py
-    - run: git add *
-    - run: |
+    - name: Commit & push
+      run: |
+          git add *
           git config --global user.name 'gh-bot'
-          git config --global user.email 'marcinvaadin@users.noreply.github.com'
+          git config --global user.email 'gh-bot@users.noreply.github.com'
           git commit -am "Calendars refresh"
           git push
