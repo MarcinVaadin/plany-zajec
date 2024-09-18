@@ -2,6 +2,8 @@ name: Refresh calendars
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
     
 
 jobs:
@@ -10,8 +12,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
-      with:
-        python-version: '3.12.2'
     - name: Install Python packages
       run: |
         pip3 install bs4
