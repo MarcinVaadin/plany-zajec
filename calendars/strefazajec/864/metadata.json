@@ -41,18 +41,6 @@
             "title": "ZAJĘCIA CHÓRALNE dla dorosłych,poniedziałek i czwartek, godz.19.00, APROBATA"
         },
         {
-            "id": "64949",
-            "ics": "/calendars/strefazajec/864/64949/64949.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64949",
-            "title": "Arytmetyka mentalna, 5-6 lat, wtorek godz.17.00-18.00"
-        },
-        {
-            "id": "64918",
-            "ics": "/calendars/strefazajec/864/64918/64918.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64918",
-            "title": "Arytmetyka mentalna, 7-10 lat, wtorek godz. 13.40:15.10"
-        },
-        {
             "id": "64323",
             "ics": "/calendars/strefazajec/864/64323/64323.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64323",
@@ -155,34 +143,10 @@
             "title": "Balet dla dzieci 7 lat+ piątek godz.17:45-18.45( 60min)"
         },
         {
-            "id": "65075",
-            "ics": "/calendars/strefazajec/864/65075/65075.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/65075",
-            "title": "Matplaneta Fermat , 5-6 lat godzina 15:45-16.55 piątek"
-        },
-        {
-            "id": "65023",
-            "ics": "/calendars/strefazajec/864/65023/65023.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/65023",
-            "title": "Matplaneta PASCAL, 7 -8 lat, piątek godz. 14.05-15.35"
-        },
-        {
-            "id": "65048",
-            "ics": "/calendars/strefazajec/864/65048/65048.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/65048",
-            "title": "Matplaneta Pitagoras, III-IV klasa 15:00-16:40 środa"
-        },
-        {
             "id": "64324",
             "ics": "/calendars/strefazajec/864/64324/64324.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64324",
             "title": "Solo latino dorośli (grupa zaawansowana) czwartek godz. 19:00-20:30"
-        },
-        {
-            "id": "64200",
-            "ics": "/calendars/strefazajec/864/64200/64200.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64200",
-            "title": "Szachy I-V klasa, piątek, godz. 16.50-17.50"
         },
         {
             "id": "65541",
@@ -227,16 +191,46 @@
             "title": "Lekcja pokazowa: Angielski z native speakerem- kl. I-III, kl. IV-V, kl. IV-VII, kl. VIII poniedziałek"
         },
         {
+            "id": "64949",
+            "ics": "/calendars/strefazajec/864/64949/64949.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/64949",
+            "title": "Arytmetyka mentalna, 5-6 lat, wtorek godz.17.00-18.00"
+        },
+        {
+            "id": "64918",
+            "ics": "/calendars/strefazajec/864/64918/64918.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/64918",
+            "title": "Arytmetyka mentalna, 7-10 lat, wtorek godz. 13.40-15.10"
+        },
+        {
             "id": "66448",
             "ics": "/calendars/strefazajec/864/66448/66448.ics",
             "url": "https://www.strefazajec.pl/course/view/id/66448",
             "title": "Lekcja pokazowa taniec towarzyski dla par dorośli, wtorek 24 września 2024r., godz. 19:30-20:30"
         },
         {
+            "id": "65048",
+            "ics": "/calendars/strefazajec/864/65048/65048.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/65048",
+            "title": "Matplaneta Pitagoras, III-IV klasa 15:00-16:40 środa"
+        },
+        {
             "id": "65497",
             "ics": "/calendars/strefazajec/864/65497/65497.ics",
             "url": "https://www.strefazajec.pl/course/view/id/65497",
             "title": "GotujMania zajęcia kulinarne 7-18 lat, piątek, godz. 17:00-18:30"
+        },
+        {
+            "id": "65075",
+            "ics": "/calendars/strefazajec/864/65075/65075.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/65075",
+            "title": "Matplaneta Fermat , 5-6 lat godzina 15:45-16.55 piątek"
+        },
+        {
+            "id": "65023",
+            "ics": "/calendars/strefazajec/864/65023/65023.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/65023",
+            "title": "Matplaneta PASCAL, 7 -8 lat, piątek godz. 14.05-15.35"
         },
         {
             "id": "64545",
