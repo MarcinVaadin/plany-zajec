@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import timedelta
 from icalendar import Calendar, Event
 import os
+import json
 
 url_przerwy = 'https://szkola-zielonki.pl/stolowka/'
 url_menu = 'https://szkola-zielonki.pl/tygodniowe-menu/'
@@ -105,6 +106,10 @@ def to_ics(clazz, events, target_dir):
     f.close()
     print('DONE: ' + f.name)
 
+def save_metadata(metadata, target_dir):
+    with open(target_dir + '/metadata.json', 'w') as f:
+        json.dump(metadata, f, ensure_ascii=False, indent=4)
+
 def tygodniowemenu(target_dir):
     content = load(url_menu)
     soup = BeautifulSoup(content, 'html.parser')
@@ -114,5 +119,12 @@ def tygodniowemenu(target_dir):
 
     os.makedirs(target_dir, 0o777, True)
 
+    list = []
     for clazz in breaks_for_classes:
         to_ics(clazz, get_events(breaks_for_classes[clazz], menu), target_dir)
+        list.append({
+            'name': clazz,
+            'ics': target_dir + '/' + clazz + '.ics'
+        })
+    save_metadata(list, target_dir)
+    return list

@@ -18,9 +18,9 @@ def find_courses(soup, target_dir):
         id = get_course_id(href)
         list.append({
             'id': id,
-            'ics': '/' + target_dir + '/' + id + '/' + id + '.ics',
+            'ics': target_dir + '/' + id + '/' + id + '.ics',
             'url': base_url + href, 
-            'title': title,
+            'title': title.title(),
         })
     return list
 
@@ -71,7 +71,6 @@ def parse_to_ics(course, target_dir):
     f.close()
     print('DONE: ' + f.name)
 
-# pobiera metadane o organizatorze
 def save_metadata(metadata, target_dir):
     with open(target_dir + '/metadata.json', 'w') as f:
         json.dump(metadata, f, ensure_ascii=False, indent=4)
@@ -88,12 +87,17 @@ def get_pages(soup):
     paginator = soup.select_one("div[class=paginator]")
     return re.findall(r'\d+', paginator.text)
 
+def get_sort_key(c):
+    return c['title']
+
 # Otwiera danego organizatora i szuka zajec
-def strefazajec(url, target_dir):
+def strefazajec(organization, target_dir):
+    id = organization['id']
+    url = organization['url']
+
     content = load(url)
     soup = BeautifulSoup(content, 'html.parser')
-    
-    id = get_id(url)
+
     name = soup.select_one('div.comapny_info h2').text
     address = soup.select_one('div.comapny_info p').text
     
@@ -110,6 +114,7 @@ def strefazajec(url, target_dir):
             soup = BeautifulSoup(content, 'html.parser')
             list += find_courses(soup, target_dir)
 
+    list.sort(key=get_sort_key)
     metadata = {
         'id': id,
         'url': url,
@@ -121,3 +126,5 @@ def strefazajec(url, target_dir):
 
     for course in list:
          parse_to_ics(course, target_dir)
+    
+    return metadata

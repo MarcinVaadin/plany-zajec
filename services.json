@@ -1,5 +1,8 @@
 {
     "strefazajec": [
-        "https://www.strefazajec.pl/company/DK-Stare-Babice-id864.html"
+        {
+            "id": "864",
+            "url": "https://www.strefazajec.pl/company/DK-Stare-Babice-id864.html"
+        }
     ]
 }

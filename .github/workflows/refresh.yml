@@ -18,7 +18,7 @@ jobs:
         pip3 install requests
         pip3 install icalendar
         pip3 install dateparser
-    - run: python3 scripts/calendars.py
+    - run: python3 src/calendars.py
     - name: Commit & push
       run: |
           git add *
