@@ -14,13 +14,13 @@ if (!fs.existsSync(target_dir)) {
 
 const metadata = new Array()
 
-const client = new Librus();
 json['synergia'].forEach(el => {
     const ics = target_dir + '/' + el.id + '.ics'
     metadata.push({
         'id': el.id,
         'ics': ics
     })
+    const client = new Librus();
     client.authorize(process.env[el.user_env], process.env[el.pass_env]).then(function () {
         client._request("GET", "https://synergia.librus.pl/eksporty/ical/eksportuj/planUcznia").then((data) => 
             fs.writeFileSync(ics, data.text())
