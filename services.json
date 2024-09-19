@@ -10,11 +10,6 @@
             "id": "2B",
             "user_env": "LIBRUS_USER_2B",
             "pass_env": "LIBRUS_PASS_2B"
-        },
-        {
-            "id": "5D",
-            "user_env": "LIBRUS_USER_5D",
-            "pass_env": "LIBRUS_PASS_5D"
         }
     ]
 }
