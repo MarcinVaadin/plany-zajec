@@ -12,3 +12,10 @@ jobs:
     - name: Install Node packages
       run: npm install
     - run: npm run synergia
+    - name: Commit & push
+      run: |
+          git add *
+          git config --global user.name 'gh-bot'
+          git config --global user.email 'gh-bot@users.noreply.github.com'
+          git commit -am "Calendars refresh"
+          git push
