@@ -1,4 +1,5 @@
 import json
+import subprocess
 from strefazajec import strefazajec
 from stolowkazielonki import tygodniowemenu
 
@@ -9,11 +10,18 @@ def load_services():
         return json.load(file)
 
 def link(name, href):
-    return "[" + name + "](" + raw_base_url + '/' + href + ")\n"
+    return "[" + name + "](" + raw_base_url + href + ")\n"
 
 services = load_services()
 
 with open("KALENDARZE.md", 'w') as f:
+    # synergia
+    f.write("# Plany lekcji SP w Zielonkach-Parceli\n\n")
+    p = subprocess.Popen(['npm', '--silent', 'run', 'synergia'], stdout=subprocess.PIPE)
+    result = json.loads(p.stdout.read())
+    for clazz in result:
+        f.write('- ' + link(clazz['id'], clazz['ics']))
+
     # strefazajec.pl
     f.write("# Strefa Zajęć\n\n")
     for organization in services['strefazajec']:
