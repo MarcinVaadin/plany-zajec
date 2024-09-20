@@ -24,10 +24,10 @@ def get_calendar(login, password):
 def synergia(config, target_dir):
     metadata = [ ]
     for clazz in config:
-        login = os.environ[clazz['login_env']]
+        user = os.environ[clazz['user_env']]
         password = os.environ[clazz['pass_env']]
         ics = target_dir + '/' + clazz['id'] + '.ics'
-        calendar = get_calendar(login, password)
+        calendar = get_calendar(user, password)
         f = open(ics , 'w')
         f.write(calendar)
         f.close()
