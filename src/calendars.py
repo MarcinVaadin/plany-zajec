@@ -2,6 +2,7 @@ import json
 import subprocess
 from strefazajec import strefazajec
 from stolowkazielonki import tygodniowemenu
+from synergia import synergia
 
 raw_base_url = "https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/"
 
@@ -17,9 +18,8 @@ services = load_services()
 with open("KALENDARZE.md", 'w') as f:
     # synergia
     f.write("# Plany lekcji SP w Zielonkach-Parceli\n\n")
-    p = subprocess.Popen(['npm', '--silent', 'run', 'synergia'], stdout=subprocess.PIPE)
-    result = json.loads(p.stdout.read())
-    for clazz in result:
+    metadata = synergia(services['synergia'], 'calendars/synergia')
+    for clazz in metadata:
         f.write('- ' + link(clazz['id'], clazz['ics']))
 
     # strefazajec.pl

@@ -3,7 +3,6 @@ import re
 from bs4 import BeautifulSoup
 from icalendar import Alarm, Calendar, Event
 import os
-import json
 from utils import *
 
 base_url = 'https://www.strefazajec.pl'
@@ -70,10 +69,6 @@ def parse_to_ics(course, target_dir):
     f.write(cal.to_ical())
     f.close()
     print('DONE: ' + f.name)
-
-def save_metadata(metadata, target_dir):
-    with open(target_dir + '/metadata.json', 'w') as f:
-        json.dump(metadata, f, ensure_ascii=False, indent=4)
 
 def get_id(url):
     m = re.search(r'.*[^\d](\d+)\.html$', url)
