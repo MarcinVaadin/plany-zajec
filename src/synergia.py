@@ -22,6 +22,7 @@ def get_calendar(login, password):
     return response.text
 
 def synergia(config, target_dir):
+    os.makedirs(target_dir, 0o777, True)
     metadata = [ ]
     for clazz in config:
         user = os.environ[clazz['user_env']]
