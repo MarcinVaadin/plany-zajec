@@ -123,7 +123,7 @@ def tygodniowemenu(target_dir):
     for clazz in breaks_for_classes:
         to_ics(clazz, get_events(breaks_for_classes[clazz], menu), target_dir)
         list.append({
-            'name': clazz,
+            'name': clazz.upper(),
             'ics': target_dir + '/' + clazz + '.ics'
         })
     save_metadata(list, target_dir)

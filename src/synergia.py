@@ -33,7 +33,7 @@ def synergia(config, target_dir):
         f.write(calendar)
         f.close()
         metadata.append({
-            'id': clazz['id'],
+            'name': clazz['id'].upper(),
             'ics': ics
         })
         print('DONE: ' + f.name)

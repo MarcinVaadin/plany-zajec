@@ -20,7 +20,7 @@ with open("KALENDARZE.md", 'w') as f:
     f.write("# Plany lekcji SP w Zielonkach-Parceli\n\n")
     metadata = synergia(services['synergia'], 'calendars/synergia')
     for clazz in metadata:
-        f.write('- ' + link(clazz['id'], clazz['ics']))
+        f.write('- ' + link(clazz['name'], clazz['ics']))
 
     # strefazajec.pl
     f.write("# Strefa Zajęć\n\n")
