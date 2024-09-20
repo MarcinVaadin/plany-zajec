@@ -35,6 +35,7 @@ def synergia(config, target_dir):
             'id': clazz['id'],
             'ics': ics
         })
+        print('DONE: ' + f.name)
     save_metadata(metadata, target_dir)
         
     return metadata

@@ -6,10 +6,10 @@ on:
     - cron: "0 0 * * *"
 
 env:
-  LIBRUS_USER_2B=${{ secrets.LIBRUS_USER_2B }}
-  LIBRUS_PASS_2B=${{ secrets.LIBRUS_PASS_2B }}
-  LIBRUS_USER_5D=${{ secrets.LIBRUS_USER_5D }}
-  LIBRUS_PASS_5D=${{ secrets.LIBRUS_PASS_5D }}
+  LIBRUS_USER_2B: ${{ secrets.LIBRUS_USER_2B }}
+  LIBRUS_PASS_2B: ${{ secrets.LIBRUS_PASS_2B }}
+  LIBRUS_USER_5D: ${{ secrets.LIBRUS_USER_5D }}
+  LIBRUS_PASS_5D: ${{ secrets.LIBRUS_PASS_5D }}
 
 jobs:
   refresh:
