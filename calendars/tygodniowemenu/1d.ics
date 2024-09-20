@@ -3,6 +3,54 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20240923T113000
+DTEND:20240923T115000
+DESCRIPTION:Zupa ziemniaczana na wywarze warzywno – mięsnym.(zawierasel
+ er).\n\nSpaghetti razowe (zawiera pszenice)\, warzywne z mięsem wieprzowy
+ m (zawiera seler) pomidorami\, z serem żółtym (zawiera mleko). Dieta we
+ getariańska : Spaghetti razowe (zawiera pszenice)\, warzywne (zawiera sel
+ er) z pomidorami\, z serem żółtym (zawiera mleko). Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240924T113000
+DTEND:20240924T115000
+DESCRIPTION:Rosół na wywarze warzywno- mięsnym z makaronem (zawiera: se
+ ler\, pszenica\, jajka).\n\nKrokiety z mięsem wieprzowym ( zawiera pszeni
+ cę \, jajka\, mleko) surówka z białej kapusty z marchewką i porem. Die
+ ta wegetariańska : Krokiety wegetariańskie (zawiera pszenicę \, jajka\,
+  mleko) surówka z białej kapusty z marchewką i porem. Kompot owocowy / 
+ woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240925T113000
+DTEND:20240925T115000
+DESCRIPTION:Zupa jarzynowa zabielana z ziemniakami i cieciorką na wywarze
+  warzywnym (zawiera seler\, mleko ).\n\nRacuchy drożdżowe z jabłkiem (z
+ awiera pszenica \, mleko\, jajko) polane jogurtem .Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240926T113000
+DTEND:20240926T115000
+DESCRIPTION:Zupa z kaszą jaglaną i komosą ryżową na wywarze warzywno 
+ mięsnym (zawiera: seler).\n\nSztuka pieczonego mięsa wieprzowego w sosie
+  własnym ( zawiera pszenice )\, ziemniaki z zieleniną\, surówka z ogór
+ ka kiszonego z cebulą. Dieta wegetariańska: Kotlet warzywny ( zawiera ps
+ zenice\, jajka)\, ziemniaki z zieleniną\, surówka z ogórka kiszonego z 
+ cebulą. Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20240927T113000
+DTEND:20240927T115000
+DESCRIPTION:Zupa krem z białych warzyw na wywarze warzywnym (zawieraseler
+ \, mleko)\n\nMintaj panierowany pod pierzynką z warzyw w sosie pomidorowy
+ m (zawiera pszenice\, seler\, ryba)\, ziemniaki . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20240916T113000
 DTEND:20240916T115000
 DESCRIPTION:Zupa z fasolki szparagowej zabielana na wywarze warzywno – m
@@ -48,56 +96,5 @@ DESCRIPTION:Zupa krem z pomidorów zabielana na wywarze warzywnym (zawiera
   seler\, mleko)\n\nPaluszki rybne z mintaja w chrupiącej panierce (zawier
  a jajko\, pszenica\, ryba)\,ziemniaki z zieleniną \, marchewka z groszkie
  m ( zawiera pszenice ) . Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240909T113000
-DTEND:20240909T115000
-DESCRIPTION:Barszcz ukraiński zabielany na wywarze mięsno warzywnym (zaw
- iera seler\,mleko).\n\nPierogi z mięsem okraszone cebulką (zawiera pszen
- icę\, seler\, soja)\, surówka Dieta wegetariańska : Pierogi ze szpinaki
- em okraszone cebulką (zawiera pszenicę\, seler)\, surówka ze świeżych
-  warzyw. Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240910T113000
-DTEND:20240910T115000
-DESCRIPTION:Zupa jarzynowa zabielana z ziemniakami na wywarze warzywno- mi
- ęsnym ze świeżą nataką pietruszki (zawiera seler\,mleko).\n\nKlopsiki
-  wieprzowo -wołowe (zawiera jajko\, pszenica) w sosie pomidorowym z kapus
- tą (zawiera pszenica) ryż gotowany na sypko. Dieta wegetariańska : Klop
- siki z cieciorki (zawiera jajko\, pszenica) w sosie pomidorowym z kapustą
-  (zawiera pszenica)\, ryż gotowany na sypko. Kompot wiśniowo – jabłko
- wy/ woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240911T113000
-DTEND:20240911T115000
-DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
- sowym (zawiera seler\, mleko).\n\nKluski leniwe (zawiera jajka\, pszenicę
- ) z bułką tartą(zawiera pszenica) \, polane masłem \,sałatka owocowa 
- z brzoskwini i winogron . Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240912T113000
-DTEND:20240912T115000
-DESCRIPTION:Zupa zacierkowa z ziemniakami na wywarze mięsno warzywnym ze 
- świeżą natką pietruszki (zawiera seler\, jajko\, pszenicę).\n\nPieczo
- ne udo z kurczaka\, ziemniaki z zieleniną buraki zasmażane (zawiera psze
- nicę). Dieta wegetariańska : Panierowany kotlet z cukinii (zawiera pszen
- icę\,jajka)\,ziemniaki z zieleniną \, buraki zasmażane (zawiera pszenic
- ę). Kompot wieloowocowy/ woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240913T113000
-DTEND:20240913T115000
-DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
- era seler\, mleko\, jajko).\n\nFilet z morszczuka w chrupiącej panierce (
- zawiera jajko\, pszenica\, ryba)\, surówka z kapusty kiszonej z marchewk
- ą i jabłkiem . Woda.
 END:VEVENT
 END:VCALENDAR
