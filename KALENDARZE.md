@@ -54,6 +54,7 @@
 - [Lekcja Pokazowa: Kolorowy Świat Emocji 4-6 Lat Sobota, 21 Września 10.00-10.45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66166/66166.ics)
 - [Matplaneta Fermat , 5-6 Lat Godzina 12.50-13.55 Piątek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65075/65075.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 14.05-15.35](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65023/65023.ics)
+- [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 15.40-17.15](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66792/66792.ics)
 - [Matplaneta Pitagoras, Iii-Iv Klasa 15:00-16:40 Środa](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65048/65048.ics)
 - [Mała Akademia Dzieci 3-5 Lat, Poniedziałek, 16:00-16:45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64876/64876.ics)
 - [Nasza Stolarka To Młotek I Wkrętarka- Warsztaty Stolarskie Dla Dzieci 7-10 Lat, Piątek, Godz. 17:00-19:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66066/66066.ics)
