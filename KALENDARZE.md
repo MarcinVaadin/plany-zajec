@@ -91,7 +91,6 @@
 - [Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Czwartek Godz. 20:30-22:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64509/64509.ics)
 - [Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Piątek Godz. 19:00-20:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65541/65541.ics)
 - [Warsztaty Chirurgiczno-Anatomiczne 12-21 Lat, Sobota Godz. 11:30-12:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65505/65505.ics)
-- [Warsztaty Nie Wyrzucaj Zmień W Rękodzieło (14 Lat+) Wtorek Godz.18:00-19:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64833/64833.ics)
 - [Warsztaty Pokazowe: Nie Wyrzucaj Zmień W Rękodzieło (14 Lat+) Wtorek 17.09 Godz.18:00-19:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66094/66094.ics)
 - [Zajęcia Chóralne Dla Dorosłych, Poniedziałek I Czwartek, Godz.19.30, Aprobata](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64315/64315.ics)
 - [Zajęcia Chóralne Dla Dzieci 6-9 Lat, Poniedziałek, Godz.15.30-16:45, Aprobata Kids](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64152/64152.ics)
