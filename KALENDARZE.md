@@ -7,7 +7,6 @@
 ## Dom Kultury Stare Babice
 
 - [Angielski Z Native Speakerem- Kl. I-Iii, Kl. Iv-V, Kl. Iv-Vii, Kl. Viii Poniedziałek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64842/64842.ics)
-- [Arytmetyka Mentalna, 5-6 Lat, Wtorek Godz.17.00-18.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64949/64949.ics)
 - [Arytmetyka Mentalna, 7-10 Lat, Wtorek Godz. 13.40-15.10](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64918/64918.ics)
 - [Balet Dla Dzieci 3-4 Lat Piątek Godz.17:00-17:45 (45Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64364/64364.ics)
 - [Balet Dla Dzieci 5-7 Lat Poniedziałek Godz.16:45-17.30 (45Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64211/64211.ics)
@@ -76,6 +75,7 @@
 - [Spotkania Ze Sztuką 14 Lat+ Czwartek Godz.18.00-19.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64940/64940.ics)
 - [Studio Wokalne,Piątek Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63846/63846.ics)
 - [Studio Wokalne,Środa, Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63844/63844.ics)
+- [Szachy Dla Początkujacych-Od Zera I-V Klasa,Wtorek, Godz. 15.15-16.15](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/67033/67033.ics)
 - [Szachy I-V Klasa,Wtorek, Godz. 12.55-13.55](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65821/65821.ics)
 - [Szachy I-V Klasa,Wtorek, Godz. 14.05-15.05](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65822/65822.ics)
 - [Taniec Baby-Dance Happy Dance Dla 2-3 Latków Z Opiekunem, Sobota, Godz. 9:30 10:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64187/64187.ics)
@@ -89,7 +89,6 @@
 - [Taniec Towarzyski Dla Par Dorośli (Grupa Zaawansowana), Wtorek Godz. 20:30-22:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64782/64782.ics)
 - [Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Czwartek Godz. 20:30-22:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64509/64509.ics)
 - [Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Piątek Godz. 19:00-20:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65541/65541.ics)
-- [Warsztaty Chirurgiczno-Anatomiczne 12-21 Lat, Sobota Godz. 11:30-12:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65505/65505.ics)
 - [Warsztaty Makramy, Środa, 30.10 I 6.11, Godz. 17.30-20.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66995/66995.ics)
 - [Warsztaty Pokazowe: Nie Wyrzucaj Zmień W Rękodzieło (14 Lat+) Wtorek 17.09 Godz.18:00-19:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66094/66094.ics)
 - [Zajęcia Chóralne Dla Dorosłych, Poniedziałek I Czwartek, Godz.19.30, Aprobata](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64315/64315.ics)

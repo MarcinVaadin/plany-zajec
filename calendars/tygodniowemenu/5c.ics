@@ -3,6 +3,56 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20241007T113000
+DTEND:20241007T115000
+DESCRIPTION:Zupa pieczarkowa zabielana z ziemniakami na wywarze warzywno- 
+ mięsnym (zawiera: seler\, mleko).\n\nKiełbasa z mięsa wieprzowego grill
+ owana w piecu\, sałata ze świeżych warzyw ( sałata lodowa\, pomidorki 
+ koktajlowe\, rzodkiewka\, sos vinegret)\, bułka pszenna ( zawiera pszenic
+ ę). Dieta wegetariańska : Kiełbasa z mięsa wieprzowego grillowana w pi
+ ecu\, sałata ze świeżych warzyw (sałata lodowa\, pomidorki koktajlowe\
+ , rzodkiewka\, sos vinegret)\, bułka pszenna ( zawiera pszenicę). Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241008T113000
+DTEND:20241008T115000
+DESCRIPTION:Zupa fasolowa z boczkiem wędzonym na wywarze warzywno– mię
+ snym.(zawiera: seler).\n\nMięso mielone wieprzowe zawijane w liść kapus
+ ty\, z sosem pomidorowym\, ziemniaki z zieleniną. Dieta wegetariańska : 
+ Cieciorka z warzywami zawijana w liść kapusty\, z sosem pomidorowym\, zi
+ emniaki z zieleniną. Lemoniada cytrynowo – imbirowa / woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241009T113000
+DTEND:20241009T115000
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
+ r\, pszenica ).\n\nTwarogowy biały ser (zawiera mleko) z makaronem z mąk
+ i durum (zawiera pszenicę\, jajko) polane sosem truskawkowym.Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241010T113000
+DTEND:20241010T115000
+DESCRIPTION:Zupa zacierkowa na wywarze warzywno–mięsnym (zawiera: seler
+ \, pszenica\, jajka).\n\nGulasz z udźca indyka w sosie własnym ( zawiera
+  pszenice)\, warzywa gotowane na parze \, ziemniaki z zieleniną. Dieta we
+ getariańska: Gulasz warzywny z groszkiem w sosie własnym (zawiera pszeni
+ ce)\, warzywa gotowane na parze \, ziemniaki z zieleniną. Kompot owocowy 
+ / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241011T113000
+DTEND:20241011T115000
+DESCRIPTION:Zupa szczawiowa z jajkiem i ziemniakami zabielana na wywarze w
+ arzywnym z (zawiera: seler\, mleko\, jajko).\n\nMorszczuk pieczony w chrup
+ iącej panierce\, surówka z kapusty czerwonej z marchewką\, ryż zasmaż
+ any z warzywami. Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20240930T113000
 DTEND:20240930T115000
 DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
@@ -51,53 +101,5 @@ DTEND:20241004T115000
 DESCRIPTION:Zupa z łososia zabielana na wywarze warzywnym z (zawiera: sel
  er\, mleko\, ryba).\n\nJajko sadzone\, ziemniaki\, fasolka szparagowa goto
  wana na parze. Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240923T113000
-DTEND:20240923T115000
-DESCRIPTION:Zupa ziemniaczana na wywarze warzywno – mięsnym.(zawierasel
- er).\n\nSpaghetti razowe (zawiera pszenice)\, warzywne z mięsem wieprzowy
- m (zawiera seler) pomidorami\, z serem żółtym (zawiera mleko). Dieta we
- getariańska : Spaghetti razowe (zawiera pszenice)\, warzywne (zawiera sel
- er) z pomidorami\, z serem żółtym (zawiera mleko). Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240924T113000
-DTEND:20240924T115000
-DESCRIPTION:Rosół na wywarze warzywno- mięsnym z makaronem (zawiera: se
- ler\, pszenica\, jajka).\n\nKrokiety z mięsem wieprzowym ( zawiera pszeni
- cę \, jajka\, mleko) surówka z białej kapusty z marchewką i porem. Die
- ta wegetariańska : Krokiety wegetariańskie (zawiera pszenicę \, jajka\,
-  mleko) surówka z białej kapusty z marchewką i porem. Kompot owocowy / 
- woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240925T113000
-DTEND:20240925T115000
-DESCRIPTION:Zupa jarzynowa zabielana z ziemniakami i cieciorką na wywarze
-  warzywnym (zawiera seler\, mleko ).\n\nRacuchy drożdżowe z jabłkiem (z
- awiera pszenica \, mleko\, jajko) polane jogurtem .Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240926T113000
-DTEND:20240926T115000
-DESCRIPTION:Zupa z kaszą jaglaną i komosą ryżową na wywarze warzywno 
- mięsnym (zawiera: seler).\n\nSztuka pieczonego mięsa wieprzowego w sosie
-  własnym ( zawiera pszenice )\, ziemniaki z zieleniną\, surówka z ogór
- ka kiszonego z cebulą. Dieta wegetariańska: Kotlet warzywny ( zawiera ps
- zenice\, jajka)\, ziemniaki z zieleniną\, surówka z ogórka kiszonego z 
- cebulą. Kompot owocowy / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240927T113000
-DTEND:20240927T115000
-DESCRIPTION:Zupa krem z białych warzyw na wywarze warzywnym (zawieraseler
- \, mleko)\n\nMintaj panierowany pod pierzynką z warzyw w sosie pomidorowy
- m (zawiera pszenice\, seler\, ryba)\, ziemniaki . Woda.
 END:VEVENT
 END:VCALENDAR

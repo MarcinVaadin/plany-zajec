@@ -11,12 +11,6 @@
             "title": "Angielski Z Native Speakerem- Kl. I-Iii, Kl. Iv-V, Kl. Iv-Vii, Kl. Viii Poniedziałek"
         },
         {
-            "id": "64949",
-            "ics": "calendars/strefazajec/864/64949/64949.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64949",
-            "title": "Arytmetyka Mentalna, 5-6 Lat, Wtorek Godz.17.00-18.00"
-        },
-        {
             "id": "64918",
             "ics": "calendars/strefazajec/864/64918/64918.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64918",
@@ -425,6 +419,12 @@
             "title": "Studio Wokalne,Środa, Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20"
         },
         {
+            "id": "67033",
+            "ics": "calendars/strefazajec/864/67033/67033.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/67033",
+            "title": "Szachy Dla Początkujacych-Od Zera I-V Klasa,Wtorek, Godz. 15.15-16.15"
+        },
+        {
             "id": "65821",
             "ics": "calendars/strefazajec/864/65821/65821.ics",
             "url": "https://www.strefazajec.pl/course/view/id/65821",
@@ -501,12 +501,6 @@
             "ics": "calendars/strefazajec/864/65541/65541.ics",
             "url": "https://www.strefazajec.pl/course/view/id/65541",
             "title": "Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Piątek Godz. 19:00-20:30"
-        },
-        {
-            "id": "65505",
-            "ics": "calendars/strefazajec/864/65505/65505.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/65505",
-            "title": "Warsztaty Chirurgiczno-Anatomiczne 12-21 Lat, Sobota Godz. 11:30-12:30"
         },
         {
             "id": "66995",
