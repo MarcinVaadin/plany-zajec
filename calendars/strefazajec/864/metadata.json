@@ -248,31 +248,13 @@
             "id": "64967",
             "ics": "calendars/strefazajec/864/64967/64967.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64967",
-            "title": "Kreatywne Szycie 9-16 Lat, Kontynuacja, Wtorek, Godz. 15.30-17.00"
+            "title": "Kreatywne Szycie 9-16 Lat, Kontynuacja, Wtorek, Godz. 15.00-16.30"
         },
         {
             "id": "64415",
             "ics": "calendars/strefazajec/864/64415/64415.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64415",
             "title": "Kreatywne Szycie 9-16 Lat, Kontynuacja, Środa, Godz. 15.30-17.00"
-        },
-        {
-            "id": "66448",
-            "ics": "calendars/strefazajec/864/66448/66448.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/66448",
-            "title": "Lekcja Pokazowa Taniec Towarzyski Dla Par Dorośli, Wtorek 24 Września 2024R., Godz. 19:30-20:30"
-        },
-        {
-            "id": "66114",
-            "ics": "calendars/strefazajec/864/66114/66114.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/66114",
-            "title": "Lekcja Pokazowa: Angielski Z Native Speakerem- Kl. I-Iii, Kl. Iv-V, Kl. Iv-Vii, Kl. Viii Poniedziałek"
-        },
-        {
-            "id": "66166",
-            "ics": "calendars/strefazajec/864/66166/66166.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/66166",
-            "title": "Lekcja Pokazowa: Kolorowy Świat Emocji 4-6 Lat Sobota, 21 Września 10.00-10.45"
         },
         {
             "id": "65075",
@@ -357,12 +339,6 @@
             "ics": "calendars/strefazajec/864/65496/65496.ics",
             "url": "https://www.strefazajec.pl/course/view/id/65496",
             "title": "Programowanie W Minecraft (Zaawansowany) 6-10 Lat, Wtorek Godz. 16:40-17:40"
-        },
-        {
-            "id": "64611",
-            "ics": "calendars/strefazajec/864/64611/64611.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64611",
-            "title": "Przesłuchanie Do Studia Wokalnego 18.09.2024 Godz.15:30"
         },
         {
             "id": "64523",
@@ -524,13 +500,19 @@
             "id": "64152",
             "ics": "calendars/strefazajec/864/64152/64152.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64152",
-            "title": "Zajęcia Chóralne Dla Dzieci 6-9 Lat, Poniedziałek, Godz.16.00-17:15, Aprobata Kids"
+            "title": "Zajęcia Chóralne Dla Dzieci 6-9 Lat, Poniedziałek, Godz.15.30-16:45, Aprobata Kids"
         },
         {
             "id": "64318",
             "ics": "calendars/strefazajec/864/64318/64318.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64318",
             "title": "Zajęcia Chóralne Dla Młodzieży 10-16 Lat, Poniedziałek, Godz.18.00-19:15, Apropos"
+        },
+        {
+            "id": "67040",
+            "ics": "calendars/strefazajec/864/67040/67040.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/67040",
+            "title": "Zajęcia Pokazowe Breakdance Dla Dzieci 7-10 Lat, Wtorek, Godz. 17:00-18:00"
         },
         {
             "id": "64045",
