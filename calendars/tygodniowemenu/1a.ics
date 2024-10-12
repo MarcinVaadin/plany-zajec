@@ -3,6 +3,50 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20241014T113000
+DTEND:20241014T115000
+DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawierasele
+ r\, jajka\, pszenica).\n\nStrogonow wołowy z warzywami \, surówka ze św
+ ieżych warzyw (mix sałat\, pomidorki koktajlowe\, rzodkiewka\, sos vineg
+ ret)\, kasza gryczana.Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241015T113000
+DTEND:20241015T115000
+DESCRIPTION:Krupnik z kaszą mazurską na wywarze warzywno– mięsnym.(za
+ wiera: seler\, pszenica).\n\nSznycel drobiowy w chrupiącej panierce\,(zaw
+ iera pszenica\, jajka) surówka wielowarzywna\, ziemniaki z zieleniną. Di
+ eta wegetariańska : Cukinia w chrupiącej panierce (zawiera pszenica\, ja
+ jko)\, surówka wielowarzywna\, ziemniaki z zieleniną.Kompot/ woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241016T113000
+DTEND:20241016T115000
+DESCRIPTION:Zupa jarzynowa z cieciorką na wywarze warzywnym (zawiera sele
+ r\, mleko).\n\nKluski leniwe z serem (zawiera mleko\, pszenica) z surówka
+  ze świeżej marchewki z pestkami słonecznika (zawiera mleko).Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241017T113000
+DTEND:20241017T115000
+DESCRIPTION:Barszcz biały z kiełbasą na wywarze warzywno– mięsnym (z
+ awiera seler\, pszenica\, mleko).\n\nKurczak w sosie słodko -kwaśnym z w
+ arzywami i smażonym ryżem . Dieta wegetariańska : Cieciorka w sosie sł
+ odko-kwaśnym z warzywami i smażonym ryżem .Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241018T113000
+DTEND:20241018T115000
+DESCRIPTION:Krem z dyni na wywarze warzywnym (zawiera: seler\, mleko\, psz
+ enica).\n\nMintaj pieczony w chrupiącej panierce\, surówka z kapusty kis
+ zonej z marchewką\, ziemniaki z zieleniną.Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20241007T113000
 DTEND:20241007T115000
 DESCRIPTION:Zupa pieczarkowa zabielana z ziemniakami na wywarze warzywno- 
@@ -50,56 +94,5 @@ DESCRIPTION:Zupa szczawiowa z jajkiem i ziemniakami zabielana na wywarze w
  arzywnym z (zawiera: seler\, mleko\, jajko).\n\nMorszczuk pieczony w chrup
  iącej panierce\, surówka z kapusty czerwonej z marchewką\, ryż zasmaż
  any z warzywami. Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20240930T113000
-DTEND:20240930T115000
-DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
- awiera: seler\, mleko).\n\nPieczone podudzie z kurczaka\, ziemniaki z ziel
- eniną \, surówka wieloowarzywna. Dieta wegetariańska : Kotlety z tofu (
-  zawiera pszenicę \, jajka\, soja)\, ziemniaki z zieleniną \, surówka w
- ieloowarzywna. Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241001T113000
-DTEND:20241001T115000
-DESCRIPTION:Zupa ogórkowa zabielana z ziemniakami na wywarze warzywno- mi
- ęsnym (zawiera: seler\, mleko).\n\nKąski z udźca indyka w sosie własny
- m ( zawiera pszenicę)\, placek ziemniaczany ( zawiera pszenicę \, jajka)
- \, surówka z kapusty pekińskiej Dieta wegetariańska : Cieciorka w sosie
-  pomidorowym z warzywami (zawiera pszenicę)\, placek ziemniaczany ( zawie
- ra pszenicę \, jajka)\, surówka z kapusty pekińskiej Kompot owocowy / w
- oda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241002T113000
-DTEND:20241002T115000
-DESCRIPTION:Zupa kapuśniak ze słodkiej kapusty z ziemniakami i kaszą p
- ęczak na wywarze warzywnym (zawiera seler\, pszenica ).\n\nPierogi z bia
- łym serem (zawiera pszenica \,mleko\, jajko) polane sosem jagodowo – jo
- gurtowym..Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241003T113000
-DTEND:20241003T115000
-DESCRIPTION:Zupa literkowa na wywarze warzywno – mięsnym (zawieraseler\
- , pszenica\, jajka).\n\nKlopsy z mięsa wieprzowego ( zawiera pszenice\, j
- ajka ) w sosie porowym ( zawiera pszenice\, mleko)\, kasza bulgur (zawiera
-  pszenice)\, brokuł gotowany na parze. Dieta wegetariańska: Klopsy warzy
- wne ( zawiera pszenice\, jajka ) w sosie porowym ( zawiera pszenice\, mlek
- o)\, kasza bulgur (zawiera pszenice)\, brokuł gotowany na parze. Kompot o
- wocowy / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241004T113000
-DTEND:20241004T115000
-DESCRIPTION:Zupa z łososia zabielana na wywarze warzywnym z (zawiera: sel
- er\, mleko\, ryba).\n\nJajko sadzone\, ziemniaki\, fasolka szparagowa goto
- wana na parze. Woda.
 END:VEVENT
 END:VCALENDAR
