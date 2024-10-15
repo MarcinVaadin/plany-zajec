@@ -50,7 +50,7 @@
 - [Kreatywne Szycie 9-16 Lat, Kontynuacja, Środa, Godz. 15.30-17.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64415/64415.ics)
 - [Matplaneta Fermat , 5-6 Lat Godzina 12.50-13.55 Piątek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65075/65075.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 14.05-15.35](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65023/65023.ics)
-- [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 15.40-17.15](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66792/66792.ics)
+- [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 15.00-16.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66792/66792.ics)
 - [Matplaneta Pitagoras, Iii-Iv Klasa 15:15-16:40 Środa](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65048/65048.ics)
 - [Mała Akademia Dzieci 3-5 Lat, Poniedziałek, 16:00-16:45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64876/64876.ics)
 - [Nasza Stolarka To Młotek I Wkrętarka- Warsztaty Stolarskie Dla Dzieci 7-10 Lat, Piątek, Godz. 17:00-19:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66066/66066.ics)
@@ -90,7 +90,6 @@
 - [Zajęcia Chóralne Dla Dorosłych, Poniedziałek I Czwartek, Godz.19.30, Aprobata](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64315/64315.ics)
 - [Zajęcia Chóralne Dla Dzieci 6-9 Lat, Poniedziałek, Godz.15.30-16:45, Aprobata Kids](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64152/64152.ics)
 - [Zajęcia Chóralne Dla Młodzieży 10-16 Lat, Poniedziałek, Godz.18.00-19:15, Apropos](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64318/64318.ics)
-- [Zajęcia Pokazowe Breakdance Dla Dzieci 7-10 Lat, Wtorek, Godz. 17:00-18:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/67040/67040.ics)
 - [Zespół Dance To The Beat Happy Dance Starsza Młodzież 11-17 Lat Środa Godz.18:30-19:45+Sobota Godz.12:30-13:45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64045/64045.ics)
 - [Zespół Dance To The Beat Junior Happy Dance 8-12 Lat Środa Godz. 17:30-18:30 I Sobota 11:30-12:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64072/64072.ics)
 # Tygodniowe menu szkoły w Zielonkach-Parceli
