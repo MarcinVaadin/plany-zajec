@@ -3,6 +3,50 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20241028T113000
+DTEND:20241028T115000
+DESCRIPTION:Barszcz czerwony zabielany z ziemniakami na wywarze warzywno- 
+ mięsnym (zawiera seler\, mleko).\n\nPierogi z mięsem okraszone cebulką 
+ (zawiera pszenicę\, seler\, soja)\, surówka z białej kapusty i marchewk
+ i . Dieta wegetariańska : Pierogi ze szpinakiem okraszone cebulką (zawie
+ ra pszenicę\, seler)\, surówka z białej kapusty i marchewki . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241029T113000
+DTEND:20241029T115000
+DESCRIPTION:Zupa pieczarkowa zabielana z ziemniakami na wywarze warzywno- 
+ mięsnym(zawiera seler\, mleko).\n\nGulasz z udźca indyka w sosie własny
+ m ( zawiera pszenice)\, warzywa gotowane na parze \, ziemniaki z zielenin
+ ą. Dieta wegetariańska: Gulasz warzywny z groszkiem w sosie własnym ( z
+ awiera pszenice)\, warzywa gotowane na parze \, ziemniaki z zieleniną. Ko
+ mpot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241030T113000
+DTEND:20241030T115000
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
+ r\, pszenica ).\n\nTwarogowy biały ser (zawiera mleko) z makaronem z mąk
+ i durum (zawiera pszenicę\, jajko) polane sosem truskawkowym.Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241031T113000
+DTEND:20241031T115000
+DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera sel
+ er\, jajka\, pszenica).\n\nKotlet schabowy w panierce ( zawiera jajko\, ps
+ zenicę )\, surówka ze świeżych warzyw\, ziemniaki z zieleniną .Napój
+  brzoskwiniowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241101T113000
+DTEND:20241101T115000
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20241021T113000
 DTEND:20241021T115000
 DESCRIPTION:Kapuśniak ze słodkiej kapusty na wywarze warzywno- mięsnym 
@@ -47,49 +91,5 @@ DESCRIPTION:Krem z pomidorów zabielany na wywarze warzywnym (zawiera: sel
  er\, mleko\, pszenica).\n\nKotlety jajeczne (zawiera:pszenice\, jajka)\, s
  urówka z kapusty pekińskiej z kukurydzą i ogórkiem\, ziemniaki z ziele
  niną.Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241014T113000
-DTEND:20241014T115000
-DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera: se
- ler\, jajka\, pszenica).\n\nStrogonow wołowy z warzywami \, surówka ze 
- świeżych warzyw (mix sałat\, pomidorki koktajlowe\, rzodkiewka\, sos vi
- negret)\, kasza gryczana.Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241015T113000
-DTEND:20241015T115000
-DESCRIPTION:Krupnik z kaszą mazurską na wywarze warzywno– mięsnym.(za
- wiera: seler\, pszenica).\n\nSznycel drobiowy w chrupiącej panierce\,(zaw
- iera pszenica\, jajka) surówka wielowarzywna\, ziemniaki z zieleniną. Di
- eta wegetariańska : Cukinia w chrupiącej panierce (zawiera pszenica\, ja
- jko)\, surówka wielowarzywna\, ziemniaki z zieleniną.Kompot/ woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241016T113000
-DTEND:20241016T115000
-DESCRIPTION:Zupa jarzynowa z cieciorką na wywarze warzywnym (zawiera sele
- r\, mleko).\n\nKluski leniwe z serem (zawiera mleko\, pszenica) z surówka
-  ze świeżej marchewki z pestkami słonecznika (zawiera mleko).Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241017T113000
-DTEND:20241017T115000
-DESCRIPTION:Barszcz biały z kiełbasą na wywarze warzywno– mięsnym (z
- awiera seler\, pszenica\, mleko).\n\nKurczak w sosie słodko -kwaśnym z w
- arzywami i smażonym ryżem . Dieta wegetariańska : Cieciorka w sosie sł
- odko-kwaśnym z warzywami i smażonym ryżem .Kompot owocowy / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241018T113000
-DTEND:20241018T115000
-DESCRIPTION:Krem z dyni na wywarze warzywnym (zawiera: seler\, mleko\, psz
- enica).\n\nMintaj pieczony w chrupiącej panierce\, surówka z kapusty kis
- zonej z marchewką\, ziemniaki z zieleniną.Woda.
 END:VEVENT
 END:VCALENDAR
