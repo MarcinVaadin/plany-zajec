@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kalendarz Szkolny//example.com//
+BEGIN:VEVENT
+SUMMARY:Autoportret w technice malarstwa i kolażu- warsztaty artystyczne\
+ , sobota\, 23 listopada 2024 r.\, godz. 10.00 – 13.00
+DTSTART:20241123T100000
+DTEND:20241123T130000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20241123T093000
+END:VALARM
+END:VEVENT
+END:VCALENDAR
