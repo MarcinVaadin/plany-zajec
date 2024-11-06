@@ -5,21 +5,21 @@ BEGIN:VEVENT
 SUMMARY:Obiad
 DTSTART:20241104T123500
 DTEND:20241104T125500
-DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym(zawiera seler
- \, pszenica\, jajka).\n\nLeczo warzywne z mięsem z indyka \, kasza kuskus
-  (zawiera pszenicę ). Dieta wegetariańska : Leczo warzywne z fasolą cze
- rwoną \, kasza kuskus ( zawiera pszenicę). Woda .
+DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym (zawiera sele
+ r\, pszenica\, jajka).\n\nLeczo warzywne z mięsem z indyka \, kasza kusku
+ s (zawiera pszenicę). Dieta wegetariańska: Leczo warzywne z fasolą czer
+ woną \, kasza kuskus (zawiera pszenicę). Woda .
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
 DTSTART:20241105T123500
 DTEND:20241105T125500
 DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
- awiera seler\, mleko).\n\nKotlet mielony z mięsa wieprzowego ( zawiera ps
- zenicę \, jajka) \,ziemniaki z zieleniną \, ogórek zielony z jogurtem (
-  zawiera mleko). Dieta wegetariańska: Kotlet warzywny ( zawiera pszenice 
- \, jajka)\, ogórek zielony z jogurtem ( zawiera mleko). Kompot owocowy / 
- woda
+ awiera seler\, mleko).\n\nKotlet mielony z mięsa wieprzowego (zawiera psz
+ enicę \, jajka)\, ziemniaki z zieleniną \, ogórek zielony z jogurtem ( 
+ zawiera mleko). Dieta wegetariańska: Kotlet warzywny ( zawiera pszenice \
+ , jajka)\, ogórek zielony z jogurtem ( zawiera mleko). Kompot owocowy / w
+ oda
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
@@ -35,18 +35,18 @@ DTSTART:20241107T123500
 DTEND:20241107T125500
 DESCRIPTION:Zupa pomidorowa z ryżem na wywarze warzywno- mięsnym (zawier
  a seler\, mleko).\n\nSztuka pieczonego mięsa wieprzowego w sosie własnym
-  ( zawiera pszenice )\, kasza gryczana \, surówka z ogórka kiszonego z c
- ebulą. Dieta wegetariańska: Kotlet warzywny ( zawiera pszenice\, jajka)\
- , kasza gryczana\, surówka z ogórka kiszonego z cebulą. Lemoniada imbir
- owa / woda.
+  (zawiera pszenice )\, kasza gryczana \, surówka z ogórka kiszonego z ce
+ bulą. Dieta wegetariańska: Kotlet warzywny ( zawiera pszenice\, jajka)\,
+  kasza gryczana\, surówka z ogórka kiszonego z cebulą. Lemoniada imbiro
+ wa / woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
 DTSTART:20241108T123500
 DTEND:20241108T125500
-DESCRIPTION:Zupa neapolitańska z makaronem na wywarze warzywnym ( zawiera
-  pszenice\, jajka\,seler mleko).\n\nMintaj panierowany pod pierzynką z wa
- rzyw w sosie pomidorowym ( zawiera pszenice\, seler\, ryba)\, ziemniaki . 
- Woda.
+DESCRIPTION:Zupa neapolitańska z makaronem na wywarze warzywnym (zawiera 
+ pszenice\, jajka\, seler mleko).\n\nMintaj panierowany pod pierzynką z wa
+ rzyw w sosie pomidorowym (zawiera pszenice\, seler\, ryba)\, ziemniaki . W
+ oda.
 END:VEVENT
 END:VCALENDAR
