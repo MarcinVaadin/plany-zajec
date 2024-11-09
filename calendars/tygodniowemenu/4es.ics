@@ -3,6 +3,51 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20241111T113000
+DTEND:20241111T115000
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241112T113000
+DTEND:20241112T115000
+DESCRIPTION:Krupnik z kaszą jęczmienną na wywarze warzywno – mięsnym
+ .(zawiera seler\, pszenica).\n\nKlopsy z mięsa wieprzowego ( zawiera psze
+ nice\, jajka ) w sosie koperkowym \, ziemniaki z zieleniną \, surówka z 
+ czerwonej kapusty. Dieta wegetariańska: Klopsy warzywne ( zawiera pszenic
+ e\, jajka ) w sosie koperkowym ( zawiera pszenice\,mleko) \, ziemniaki z z
+ ieleniną \,surówka z czerwonej kapusty. Napój owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241113T113000
+DTEND:20241113T115000
+DESCRIPTION:Zupa szczawiowa z jajkiem i ziemniakami zabielana na wywarze w
+ arzywnym (zawiera seler\, mleko\, jajko).\n\nRyż gotowany na sypko z jab
+ łkiem prażonym z cynamonem\, polane jogurtemWoda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241114T113000
+DTEND:20241114T115000
+DESCRIPTION:Żurek z kiełbasą i ziemniakami na wywarze warzywno mięsnym
+  (zawiera seler\,mleko\, pszenicę).\n\nKrokiety z mięsem z kurczaka a’
+ la kebab (zawiera pszenice\, jajko\, mleko)\, surówka z marchewki z pestk
+ ami słonecznika. Dieta wegetariańska: Krokiety ze szpinakiem i fetą (za
+ wiera pszenice\,jajko\,mleko)\, surówka z marchewki z pestkami słoneczni
+ ka. Kompot wiśniowy/Woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241115T113000
+DTEND:20241115T115000
+DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
+ sowym (zawiera seler\, mleko)\n\nPaluszki rybne z mintaja w chrupiącej pa
+ nierce (zawiera jajko\, pszenica\, ryba)\,ziemniaki z zieleniną \, marche
+ wka z groszkiem ( zawiera pszenice ) . Woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20241104T113000
 DTEND:20241104T115000
 DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym (zawiera sele

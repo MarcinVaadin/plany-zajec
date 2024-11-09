@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kalendarz Szkolny//example.com//
+BEGIN:VEVENT
+SUMMARY:Rodzinne warsztaty tradycyjnych ozdób bożonarodzeniowych  z opł
+ atków\, sobota\, 14 grudnia 2024 r.\, god. 10.00-12.00
+DTSTART:20241214T100000
+DTEND:20241214T120000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20241214T093000
+END:VALARM
+END:VEVENT
+END:VCALENDAR
