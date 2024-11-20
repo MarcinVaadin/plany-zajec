@@ -84,7 +84,6 @@
 - [Taniec Towarzyski Dla Par Dorośli (Grupa Zaawansowana), Wtorek Godz. 20:30-22:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64782/64782.ics)
 - [Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Czwartek Godz. 20:30-22:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64509/64509.ics)
 - [Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Piątek Godz. 19:00-20:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65541/65541.ics)
-- [Warsztaty Wokalne-Muzyczny Smok, Sobota 16.11.2024 Dk Stare Babice](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/67209/67209.ics)
 - [Warsztaty Wykonywania Wianków Świątecznych 14 Lat+, Piątek, 13 Grudnia 2024R.,Godz. 18.00-20.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/67721/67721.ics)
 - [Zajęcia Chóralne Dla Dorosłych, Poniedziałek I Czwartek, Godz.19.30, Aprobata](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64315/64315.ics)
 - [Zajęcia Chóralne Dla Dzieci 6-9 Lat, Poniedziałek, Godz.15.30-16:45, Aprobata Kids](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64152/64152.ics)
