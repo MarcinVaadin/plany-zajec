@@ -3,6 +3,56 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20241125T123500
+DTEND:20241125T125500
+DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
+ awiera seler\, mleko)\n\nKurczak w sosie słodko -kwaśnym z warzywami i r
+ yżem . Dieta wegetariańska: Cieciorka w sosie słodko-kwaśnym z warzywa
+ mi i ryżem.Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241126T123500
+DTEND:20241126T125500
+DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera sel
+ er\, jajka\, pszenica).\n\nKiełbasa z mięsa wieprzowego grilowana w piec
+ u\, sałata ze świeżych warzyw ( sałata lodowa\, pomidorki koktajlowe\,
+  rzodkiewka\, sos vinegret )\, bułka pszenna ( zawiera pszenicę). Dieta 
+ wegetariańska : Kiełbasa z mięsa wieprzowego grilowana w piecu\, sałat
+ a ze świeżych warzyw (sałata lodowa\, pomidorki koktajlowe\, rzodkiewka
+ \, sos vinegret)\, bułka pszenna ( zawiera pszenicę). Kompot owocowy / w
+ oda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241127T123500
+DTEND:20241127T125500
+DESCRIPTION:Zupa kapuśniak ze słodkiej kapusty z ziemniakami i kaszą p
+ ęczak na wywarze warzywnym (zawiera seler\, pszenica )\n\nTwarogowy biał
+ y ser (zawiera mleko) z makaronem z mąki durum (zawiera pszenicę\, jajko
+ ) polane sosem truskawkowym.Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241128T123500
+DTEND:20241128T125500
+DESCRIPTION:Zupa pieczarkowa zabielana na wywarze warzywno – mięsnym z 
+ ziemniakami (zawiera seler\, mleko\, pszenice).\n\nKotlet drobiowy w chrup
+ iącej panierce\,(zawiera pszenica\, jajka ) surówka meksykańska \,ziemn
+ iaki z zieleniną. Dieta wegetariańska : Kotlet sojowy (zawiera pszenica\
+ , jajko\, soja) surówka meksykańska \, ziemniaki z zieleniną. Lemoniada
+  imbirowa / woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241129T123500
+DTEND:20241129T125500
+DESCRIPTION:Zupa z łososia zabielana na wywarze warzywnym z ziemniakami (
+ zawiera seler\, mleko\, ryba).\n\nPierogi z białym serem i ziemniakami (z
+ wiera jajko\,pszenice\,mleko )z cebulką \, surówka warzywna . Woda .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20241118T123500
 DTEND:20241118T125500
 DESCRIPTION:Zupa koperkowa zabielana na wywarze warzywno– mięsnym.(zawi
