@@ -3,6 +3,54 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20241202T113000
+DTEND:20241202T115000
+DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym(zawiera seler
+ \, pszenice\, jajka).\n\nGulasz z udźca indyka w sosie własnym ( zawiera
+  pszenice)\, warzywa gotowane na parze \, ziemniaki z zieleniną. Dieta we
+ getariańska: Gulasz warzywny z cieciorką w sosie własnym ( zawiera psze
+ nice)\, warzywa gotowane na parze \, ziemniaki z zieleniną. Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241203T113000
+DTEND:20241203T115000
+DESCRIPTION:Zupa z fasolki szparagowej zabielana na wywarze warzywno – m
+ ięsnym (zawiera seler\, mleko)\n\nHamburgery z mięsem wieprzowo – woł
+ owym ( zawiera jajko\,pszenice) z warzywami i bułką pszenną z sezamem (
+  zawiera pszenice \, sezam). Dieta wegetariańska: Hamburgery wegetariańs
+ kie (zawiera seler \, jajko\,pszenice)z warzywami i bułka pszenną z seza
+ mem ( zawiera pszenice \, sezam). Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241204T113000
+DTEND:20241204T115000
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
+ r\, pszenice ).\n\nRacuchy drożdżowe z jabłkiem (zawiera pszenica \, ml
+ eko\, jajko) polane jogurtem .Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241205T113000
+DTEND:20241205T115000
+DESCRIPTION:Krupnik z kaszą jęczmienną na wywarze warzywno – mięsnym
+  (zawiera seler\, pszenice).\n\nKluski śląskie z mięsem (zawiera pszeni
+ cę\, jajko) okraszone cebulką \, surówka warzywna. Dieta wegetariańska
+  : Kluski śląskie z sosem warzywnym (zawiera pszenicę\, jajko)\, surów
+ ka warzywna Napój owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241206T113000
+DTEND:20241206T115000
+DESCRIPTION:Zupa pomidorowa z makaronem \, zabielana na wywarze warzywnym 
+ (zawiera seler\, mleko\, pszenice\, jajko)\n\nPaluszki rybne z mintaja w c
+ hrupiącej panierce (zawiera jajko\, pszenice\, ryba)\,ziemniaki z zieleni
+ ną \, marchewka zasmażana ( zawiera pszenice). Woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20241125T113000
 DTEND:20241125T115000
 DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
@@ -50,54 +98,5 @@ DTEND:20241129T115000
 DESCRIPTION:Zupa z łososia zabielana na wywarze warzywnym z ziemniakami (
  zawiera seler\, mleko\, ryba).\n\nPierogi z białym serem i ziemniakami (z
  wiera jajko\,pszenice\,mleko )z cebulką \, surówka warzywna . Woda .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241118T113000
-DTEND:20241118T115000
-DESCRIPTION:Zupa koperkowa zabielana na wywarze warzywno– mięsnym.(zawi
- era: seler\, mleko).\n\nSpaghetti razowe (zawiera pszenice)\, warzywne z m
- ięsem wieprzowym (zawiera: seler) pomidorami\, z serem żółtym (zawiera
- : mleko).Dieta wegetariańska : Spaghetti razowe (zawiera pszenice)\, warz
- ywne (zawiera seler) z pomidorami\, z serem żółtym (zawiera mleko). Wod
- a.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241119T113000
-DTEND:20241119T115000
-DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
- iera: seler\, pszenica\, mleko)\n\nPieczone podudzie z kurczaka\, surówka
-  z kapusty pekińskiej \, ziemniaki z zieleniną. Dieta wegetariańska : K
- otlety z tofu (zawiera pszenicę \, jajka\, soja)\, surówka z kapusty pek
- ińskiej\, ziemniaki z zieleniną. Kompot owocowy / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241120T113000
-DTEND:20241120T115000
-DESCRIPTION:Grochówka na wywarze warzywnym (zawiera: seler\, pszenica).\n
- \nNaleśniki z białym serem (zawiera: pszenica \, mleko\, jajko) z musem 
- brzoskwiniowym.Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241121T113000
-DTEND:20241121T115000
-DESCRIPTION:Barszcz czerwony zabielany z ziemniakami na wywarze warzywno- 
- mięsnym (zawiera: seler\, mleko)\n\nStrogonow wołowy z warzywami (zawier
- a: pszenice)\, kopytka (zawiera: pszenice\, jajko) ogórek kwaszony. Dieta
-  wegetariańska: Strogonow wegetariański z warzywami (zawiera: pszenice) 
- \,kopytka (zawiera: pszenice\, jajko) ogórek kwaszony . Kompot owocowy/wo
- da
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241122T113000
-DTEND:20241122T115000
-DESCRIPTION:Zupa jarzynowa zabielana z ziemniakami na wywarze warzywnym ze
-  świeżą natką pietruszki (zawiera seler\, mleko).\n\nMorszczuk pieczon
- y w chrupiącej panierce\, surówka warzywna\, ryż zasmażany z warzywami
- . Woda.
 END:VEVENT
 END:VCALENDAR
