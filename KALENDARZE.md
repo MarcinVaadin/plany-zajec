@@ -11,7 +11,6 @@
 - [Balet Dla Dzieci 5-7 Lat Poniedziałek Godz.16:45-17.30 (45Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64211/64211.ics)
 - [Balet Dla Dzieci 7 Lat+ Piątek Godz.17:45-18.45( 60Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64365/64365.ics)
 - [Balet Dla Dzieci 7 Lat+ Poniedziałek Godz.17:45-18.45( 60Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64243/64243.ics)
-- [Bombki I Zawieszki Choinkowe W Stylu Eko- Rodzinne Warsztaty Dla Małych I Dużych, Sobota 7.12.2024 Godz. 10.00-12.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/67782/67782.ics)
 - [Breakdance 10+ Wtorek, Godz. 18:00-19:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64545/64545.ics)
 - [Breakdance Dla Dzieci 7-9 Lat, Wtorek, Godz. 15:30-16:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64802/64802.ics)
 - [Breakdance Dla Dzieci 7-9 Lat, Wtorek, Godz. 17:00-18:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64544/64544.ics)
