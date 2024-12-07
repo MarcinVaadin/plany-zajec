@@ -3,6 +3,53 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20241209T134000
+DTEND:20241209T140000
+DESCRIPTION:Zupa literkowa na wywarze warzywno – mięsnym.(zawiera seler
+ \, pszenica\, jajka).\n\nLeczo warzywne z mięsem z indyka \, kasza kuskus
+  (zawiera pszenicę ). Dieta wegetariańska : Leczo warzywne z fasolą cze
+ rwoną \, kasza kuskus ( zawiera pszenicę). Woda .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241210T134000
+DTEND:20241210T140000
+DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
+ iera seler\, pszenica\, mleko).\n\nPieczone podudzie z kurczaka\, surówka
+  colesław \, ziemniaki z zieleniną. Dieta wegetariańska : Kotlety z tof
+ u ( zawiera pszenicę \, jajka\, soja)\, surówka colesław\, ziemniaki z 
+ zieleniną. Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241211T134000
+DTEND:20241211T140000
+DESCRIPTION:Grochówka na wywarze warzywnym (zawiera seler\, pszenica).\n\
+ nKluski leniwe z serem (zawiera mleko\, pszenicę) z surówka ze świeżej
+  marchewki z pestkami słonecznika (zawiera mleko).Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241212T134000
+DTEND:20241212T140000
+DESCRIPTION:Żurek z kiełbasą i ziemniakami na wywarze warzywno mięsnym
+  (zawiera seler\,mleko\, pszenicę)\n\nKotlet mielony z mięsa wieprzowego
+  ( zawiera pszenicę \, jajka) \,ziemniaki z zieleniną \, ogórek zielony
+  z jogurtem ( zawiera mleko). Dieta wegetariańska : Kotlet warzywny ( zaw
+ iera pszenicę \, jajka)\, ogórek zielony z jogurtem ( zawiera mleko). Ko
+ mpot owocowy / woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20241213T113000
+DTEND:20241213T115000
+DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
+ era seler\, mleko\, jajko).\n\nFilet z mintaja pieczony w chrupiącej pani
+ erce\, surówka z kapusty kiszonej z marchewką\, ziemniaki z zieleniną.W
+ oda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20241202T134000
 DTEND:20241202T140000
 DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym(zawiera seler
@@ -48,55 +95,5 @@ DESCRIPTION:Zupa pomidorowa z makaronem \, zabielana na wywarze warzywnym
  (zawiera seler\, mleko\, pszenice\, jajko)\n\nPaluszki rybne z mintaja w c
  hrupiącej panierce (zawiera jajko\, pszenice\, ryba)\,ziemniaki z zieleni
  ną \, marchewka zasmażana ( zawiera pszenice). Woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241125T134000
-DTEND:20241125T140000
-DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
- awiera seler\, mleko)\n\nKurczak w sosie słodko -kwaśnym z warzywami i r
- yżem . Dieta wegetariańska: Cieciorka w sosie słodko-kwaśnym z warzywa
- mi i ryżem.Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241126T134000
-DTEND:20241126T140000
-DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera sel
- er\, jajka\, pszenica).\n\nKiełbasa z mięsa wieprzowego grilowana w piec
- u\, sałata ze świeżych warzyw ( sałata lodowa\, pomidorki koktajlowe\,
-  rzodkiewka\, sos vinegret )\, bułka pszenna ( zawiera pszenicę). Dieta 
- wegetariańska : Kiełbasa wegetariańska (zawiera soja )grilowana w piecu
- \, sałata ze świeżych warzyw (sałata lodowa\, pomidorki koktajlowe\, r
- zodkiewka\, sos vinegret)\, bułka pszenna ( zawiera pszenicę). Kompot ow
- ocowy / woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241127T134000
-DTEND:20241127T140000
-DESCRIPTION:Zupa kapuśniak ze słodkiej kapusty z ziemniakami i kaszą p
- ęczak na wywarze warzywnym (zawiera seler\, pszenica )\n\nTwarogowy biał
- y ser (zawiera mleko) z makaronem z mąki durum (zawiera pszenicę\, jajko
- ) polane sosem truskawkowym.Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241128T134000
-DTEND:20241128T140000
-DESCRIPTION:Zupa pieczarkowa zabielana na wywarze warzywno – mięsnym z 
- ziemniakami (zawiera seler\, mleko\, pszenice).\n\nKotlet drobiowy w chrup
- iącej panierce\,(zawiera pszenica\, jajka ) surówka meksykańska \,ziemn
- iaki z zieleniną. Dieta wegetariańska : Kotlet sojowy (zawiera pszenica\
- , jajko\, soja) surówka meksykańska \, ziemniaki z zieleniną. Lemoniada
-  imbirowa / woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20241129T113000
-DTEND:20241129T115000
-DESCRIPTION:Zupa z łososia zabielana na wywarze warzywnym z ziemniakami (
- zawiera seler\, mleko\, ryba).\n\nPierogi z białym serem i ziemniakami (z
- wiera jajko\,pszenice\,mleko )z cebulką \, surówka warzywna . Woda .
 END:VEVENT
 END:VCALENDAR
