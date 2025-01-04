@@ -3,49 +3,46 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20241216T134000
-DTEND:20241216T140000
-DESCRIPTION:Zupa jarzynowa zabielana na wywarze warzywnym (zawiera seler\,
-  mleko ).\n\nSpaghetti razowe (zawiera pszenicę)\, warzywne z mięsem wie
- przowym (zawiera seler) pomidorami\, z serem żółtym (zawiera mleko) Die
- ta wegetariańsk: Spaghetti razowe (zawiera pszenicę)\, warzywne (zawiera
-  seler) z pomidorami\, z serem żółtym (zawiera mleko). Woda.
+DTSTART:20250106T134000
+DTEND:20250106T140000
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20241217T134000
-DTEND:20241217T140000
-DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera sel
- er\, jajka\, pszenicę).\n\nPulpety z mięsa indyczego ( zawiera pszenicę
- \, jajka) w sosie koperkowym \, ziemniaki z zieleniną \, brokuł gotowany
-  na parze. Dieta wegetariańska:Pulpety warzywne( zawiera pszenicę\, jajk
- a) w sosie koperkowym ( zawiera pszenicę\,mleko) \, ziemniaki z zielenin
- ą \,brokuł gotowany na parze. Lemoniada imbirowa / woda.
+DTSTART:20250107T134000
+DTEND:20250107T140000
+DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
+ iera seler\, pszenica\, mleko)\n\nGulasz z udźca indyka w sosie własnym 
+ ( zawiera pszenice)\, surówka warzywna\, ziemniaki z zieleniną. Dieta we
+ getariańska: Gulasz warzywny z cieciorką w sosie własnym ( zawiera psze
+ nice)\,surówka warzywna \, ziemniaki z zieleniną. Napój owocowy/woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20241218T134000
-DTEND:20241218T140000
-DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
- sowym (zawiera seler\, mleko).\n\nNaleśniki z białym serem (zawiera psze
- nicę \, mleko\, jajko) z musem truskawkowym .Woda.
+DTSTART:20250108T134000
+DTEND:20250108T140000
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
+ r\, pszenice ).\n\nTwarogowy biały ser (zawiera mleko) z makaronem z mąk
+ i durum (zawiera pszenicę\, jajko) polane sosem truskawkowym.Woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20241219T134000
-DTEND:20241219T140000
-DESCRIPTION:Zupa ryżówka z ziemniakami na wywarze warzywno- mięsnym (za
- wieraseler\, mleko).\n\nSztuka pieczonego mięsa wieprzowego w sosie włas
- nym ( zawiera pszenicę )\, kasza gryczana\, ogórek kwaszony. Dieta weget
- ariańska: Kotlet warzywny ( zawiera pszenicę\, jajka)\, kasza gryczana\,
- ogórek kwaszony . Napój owocowy / woda.
+DTSTART:20250109T134000
+DTEND:20250109T140000
+DESCRIPTION:Zupa pieczarkowa zabielana na wywarze warzywno – mięsnym z 
+ ziemniakami (zawiera seler\, mleko\, pszenice).\n\nKotlet mielony z mięsa
+ wieprzowego ( zawiera pszenicę \, jajka)\,ziemniaki z zieleniną \, ogór
+ ek zielony z jogurtem ( zawiera mleko). Dieta wegetariańska : Kotlet wege
+ tariański (zawiera pszenicę \, jajka\, soja)\, ogórek zielony z jogurte
+ m ( zawiera mleko). Kompot owocowy / woda
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20241220T134000
-DTEND:20241220T140000
-DESCRIPTION:Barszcz ukraiński na wywarze warzywnym (zawiera seler\, mleko
- ).\n\nPierogi z kapustą i pieczarkami (zawiera jajko\, pszenice) warzywa 
- gotowane na parze. Woda .
+DTSTART:20250110T134000
+DTEND:20250110T140000
+DESCRIPTION:Zupa jarzynowa zabielana z ziemniakami na wywarze warzywnym ze
+  świeżą nataką pietruszki (zawiera seler\,mleko).\n\nPaluszki rybne z 
+ mintaja w chrupiącej panierce (zawiera jajko\, pszenica\, ryba)\,ziemniak
+ i z zieleniną \, marchewka z groszkiem ( zawiera pszenice). Woda.
 END:VEVENT
 END:VCALENDAR
