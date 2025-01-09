@@ -197,6 +197,12 @@
             "title": "Kreaktywne Szycie, Dorośli, Gr. Początkująca, Poniedziałek, Godz. 18.00-20.00"
         },
         {
+            "id": "68901",
+            "ics": "calendars/strefazajec/864/68901/68901.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/68901",
+            "title": "Kreaktywne Szycie, Dorośli, Gr. Początkująca, Poniedziałek, Godz. 9.00-11.00"
+        },
+        {
             "id": "64467",
             "ics": "calendars/strefazajec/864/64467/64467.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64467",
@@ -213,6 +219,12 @@
             "ics": "calendars/strefazajec/864/64483/64483.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64483",
             "title": "Kreaktywne Szycie, Dorośli, Gr. Średniozaawansowana-Kontynuacja, Środa, Godz. 18.00-20.00"
+        },
+        {
+            "id": "66934",
+            "ics": "calendars/strefazajec/864/66934/66934.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/66934",
+            "title": "Kreatywne Szycie 8-16 Lat Początkująca, Godz.15.30 Poniedziałek"
         },
         {
             "id": "64967",
