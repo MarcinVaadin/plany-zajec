@@ -36,10 +36,10 @@ DTSTART:20250116T113000
 DTEND:20250116T115000
 DESCRIPTION:Zupa literkowa na wywarze warzywno – mięsnym (zawiera seler
  \, pszenica\, jajka).\n\nKlopsy z mięsa wieprzowego( zawiera pszenice\, j
- ajka) w sosie pieczarkowym\, ziemniaki z zieleniną \, surówka warzywna. 
- Dieta wegetariańska: Klopsy warzywne ( zawiera pszenice\, jajka) w sosie 
- pieczarkowym ( zawiera pszenice\,mleko) \, ziemniaki z zieleniną \,surów
- ka warzywna. Kompot owocowy / woda.
+ ajka) w sosie pieczarkowym\, kasza kuskus (zawiera pszenicę) \, surówka 
+ warzywna. Dieta wegetariańska: Klopsy warzywne ( zawiera pszenice\, jajka
+ ) w sosie pieczarkowym ( zawiera pszenice\,mleko) kasza kuskus (zawiera ps
+ zenicę) \,surówka warzywna. Kompot owocowy / woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
@@ -47,6 +47,6 @@ DTSTART:20250117T113000
 DTEND:20250117T115000
 DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
  era seler\, mleko\, jajko).\n\nMorszczuk pieczony w chrupiącej panierce\,
-  surówka warzywna\, ryż zasmażany z warzywami. Woda.
+  surówka warzywna\,ziemniaki z zieleniną .Woda.
 END:VEVENT
 END:VCALENDAR
