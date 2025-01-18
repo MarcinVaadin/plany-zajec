@@ -3,6 +3,52 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250120T134000
+DTEND:20250120T140000
+DESCRIPTION:Zupa kapuśniak z kiełbasą i ziemniakami na wywarze warzywno
+ - mięsnym (zawiera seler). .\n\nPierogi z mięsem okraszone cebulką (zaw
+ iera pszenicę\, seler\, soja)\, surówka meksykańska. Dieta wegetariańs
+ ka : Pierogi ze szpinakiem i serem feta okraszone cebulką (zawiera pszeni
+ cę\, seler\, )\, surówka meksykańska. Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250121T134000
+DTEND:20250121T140000
+DESCRIPTION:.Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(
+ zawieraseler\, mleko).\n\nSznycel drobiowy w złocistej panierce\,(zawiera
+  pszenica\, jajka) surówka z czerwonej kapusty\, ziemniaki z zieleniną. 
+ Dieta wegetariańska: Sznycel wegetariański w złocistej panierce (zawier
+ a pszenica\, jajko\, soja)\, surówka z czerwonej kapusty\, ziemniaki z zi
+ eleniną. Kompot owocowy/ woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250122T134000
+DTEND:20250122T140000
+DESCRIPTION:Grochówka na wywarze warzywnym (zawiera seler\, pszenica).\n\
+ nRacuchy drożdżowe z jabłkiem (zawiera pszenica \, mleko\, jajko) polan
+ e jogurtem .Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250123T134000
+DTEND:20250123T140000
+DESCRIPTION:Krupnik z kaszą jęczmienną na wywarze warzywno – mięsnym
+  (zawieraseler\, pszenice).\n\nKurczak w sosie słodko -kwaśnym z warzywa
+ mi i ryżem . Dieta wegetariańska : Cieciorka w sosie słodko-kwaśnym z 
+ warzywami i ryżem. Kompot owocowy / woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250124T134000
+DTEND:20250124T140000
+DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
+ sowym (zawiera seler\, mleko).\n\nFilet z mintaja pieczony w panierce\, fa
+ solka szparagowa gotowana na parze\, ziemniaki z zieleniną.Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250113T134000
 DTEND:20250113T140000
 DESCRIPTION:Zupa koperkowa zabielana na wywarze warzywno – mięsnym.(zaw
@@ -37,9 +83,9 @@ DTEND:20250116T140000
 DESCRIPTION:Zupa literkowa na wywarze warzywno – mięsnym (zawiera seler
  \, pszenica\, jajka).\n\nKlopsy z mięsa wieprzowego( zawiera pszenice\, j
  ajka) w sosie pieczarkowym\, kasza kuskus (zawiera pszenicę) \, surówka 
- warzywna. Dieta wegetariańska: Klopsy warzywne ( zawiera pszenice\, jajka
- ) w sosie pieczarkowym ( zawiera pszenice\,mleko) kasza kuskus (zawiera ps
- zenicę) \,surówka warzywna. Kompot owocowy / woda.
+ warzywna.Dieta wegetariańska: Klopsy warzywne ( zawiera pszenice\, jajka)
+  w sosie pieczarkowym ( zawiera pszenice\,mleko) kasza kuskus (zawiera psz
+ enicę) \,surówka warzywna. Kompot owocowy / woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
