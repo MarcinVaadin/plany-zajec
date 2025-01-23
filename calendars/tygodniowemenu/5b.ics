@@ -16,11 +16,11 @@ SUMMARY:Obiad
 DTSTART:20250121T113000
 DTEND:20250121T115000
 DESCRIPTION:.Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(
- zawieraseler\, mleko).\n\nSznycel drobiowy w złocistej panierce\,(zawiera
-  pszenica\, jajka) surówka z czerwonej kapusty\, ziemniaki z zieleniną. 
- Dieta wegetariańska: Sznycel wegetariański w złocistej panierce (zawier
- a pszenica\, jajko\, soja)\, surówka z czerwonej kapusty\, ziemniaki z zi
- eleniną. Kompot owocowy/ woda
+ zawiera seler\, mleko).\n\nSznycel drobiowy w złocistej panierce\,(zawier
+ a pszenica\, jajka) surówka z czerwonej kapusty\, ziemniaki z zieleniną.
+  Dieta wegetariańska: Sznycel wegetariański w złocistej panierce (zawie
+ ra pszenica\, jajko\, soja)\, surówka z czerwonej kapusty\, ziemniaki z z
+ ieleniną. Kompot owocowy/ woda
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
@@ -44,55 +44,8 @@ SUMMARY:Obiad
 DTSTART:20250124T113000
 DTEND:20250124T115000
 DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
- sowym (zawiera seler\, mleko).\n\nFilet z mintaja pieczony w panierce\, fa
- solka szparagowa gotowana na parze\, ziemniaki z zieleniną.Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250113T113000
-DTEND:20250113T115000
-DESCRIPTION:Zupa koperkowa zabielana na wywarze warzywno – mięsnym.(zaw
- iera seler\, mleko).\n\nSpaghetti razowe (zawiera pszenice)\, warzywne z m
- ięsem wieprzowym (zawiera seler) pomidorami\, z serem żółtym (zawiera 
- mleko). Dieta wegetariańska: Spaghetti razowe (zawiera pszenice)\, warzyw
- ne (zawiera seler) z pomidorami\, z serem żółtym (zawiera mleko). Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250114T113000
-DTEND:20250114T115000
-DESCRIPTION:Barszcz czerwony zabielany z ziemniakami na wywarze warzywno- 
- mięsnym (zawiera seler\, mleko)\n\nPieczone podudzie z kurczaka\, surówk
- a z kapusty pekińskiej \, ziemniaki z zieleniną. Dieta wegetariańska : 
- Kotlety z tofu ( zawiera pszenicę \, jajka\, soja)\, surówka z kapusty p
- ekińskiej\, ziemniaki z zieleniną. Lemoniada imbirowa / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250115T113000
-DTEND:20250115T115000
-DESCRIPTION:Zupa kapuśniak ze słodkiej kapusty z ziemniakami i kaszą p
- ęczak na wywarze warzywnym (zawiera seler\, pszenica )\n\nNaleśniki z bi
- ałym serem (zawiera pszenica \, mleko\, jajko) z musem brzoskwiniowym.Wod
- a.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250116T113000
-DTEND:20250116T115000
-DESCRIPTION:Zupa literkowa na wywarze warzywno – mięsnym (zawiera seler
- \, pszenica\, jajka).\n\nKlopsy z mięsa wieprzowego( zawiera pszenice\, j
- ajka) w sosie pieczarkowym\, kasza kuskus (zawiera pszenicę) \, surówka 
- warzywna.Dieta wegetariańska: Klopsy warzywne ( zawiera pszenice\, jajka)
-  w sosie pieczarkowym ( zawiera pszenice\,mleko) kasza kuskus (zawiera psz
- enicę) \,surówka warzywna. Kompot owocowy / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250117T113000
-DTEND:20250117T115000
-DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
- era seler\, mleko\, jajko).\n\nMorszczuk pieczony w chrupiącej panierce\,
-  surówka warzywna\,ziemniaki z zieleniną .Woda.
+ sowym (zawiera seler\, mleko).\n\nPaluszki rybne z mintaja w chrupiącej p
+ anierce\, fasolka szparagowa gotowana na parze\, ziemniaki z zieleniną.Wo
+ da.
 END:VEVENT
 END:VCALENDAR

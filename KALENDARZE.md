@@ -39,6 +39,7 @@
 - [Kreaktywne Szycie, Dorośli, Gr. Początkująca, Poniedziałek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64456/64456.ics)
 - [Kreaktywne Szycie, Dorośli, Gr. Początkująca, Poniedziałek, Godz. 9.00-11.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/68901/68901.ics)
 - [Kreaktywne Szycie, Dorośli, Gr. Zaawansowana, Czwartek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64467/64467.ics)
+- [Kreaktywne Szycie, Dorośli, Gr. Średniozaawansowana, Poniedziałek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69460/69460.ics)
 - [Kreaktywne Szycie, Dorośli, Gr. Średniozaawansowana,Wtorek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64502/64502.ics)
 - [Kreaktywne Szycie, Dorośli, Gr. Średniozaawansowana-Kontynuacja, Środa, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64483/64483.ics)
 - [Kreatywne Szycie 9-16 Lat, Kontynuacja, Wtorek, Godz. 15.00-16.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64967/64967.ics)
@@ -89,7 +90,11 @@
 - [Zespół Dance To The Beat Happy Dance Starsza Młodzież 11-17 Lat Środa Godz.18:30-19:45+Sobota Godz.12:30-13:45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64045/64045.ics)
 - [Zespół Dance To The Beat Junior Happy Dance 8-12 Lat Środa Godz. 17:30-18:30 I Sobota 11:30-12:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64072/64072.ics)
 - [Zimowe Warsztaty Taneczne Z Happy Dance Studio (11-15 Lat)03-05.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69348/69348.ics)
+- [Zimowe Warsztaty Taneczne Z Happy Dance Studio (11-15 Lat)11-12.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69446/69446.ics)
 - [Zimowe Warsztaty Taneczne Z Happy Dance Studio Dzieci 7-10Lat 03-05.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69357/69357.ics)
+- [Zimowe Warsztaty Taneczne Z Happy Dance Studio Dzieci 7-10Lat 11-12.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69443/69443.ics)
+- [Zimowe Warsztaty Taneczne Z Happy Dance Studio Przedszkolaki 03-05.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69354/69354.ics)
+- [Zimowe Warsztaty Taneczne Z Happy Dance Studio Przedszkolaki 11-12.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69442/69442.ics)
 # Tygodniowe menu szkoły w Zielonkach-Parceli
 
 - [1A](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/tygodniowemenu/1a.ics)
