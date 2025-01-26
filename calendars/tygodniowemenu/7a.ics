@@ -3,6 +3,56 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250127T134000
+DTEND:20250127T140000
+DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym(zawiera seler
+ \, pszenice\, jajka).\n\nPulpeciki z indyka z warzywami (zawiera pszenice 
+ \,seler)\, placek ziemniaczany (zawiera pszenice\, jajka) Dieta wegetaria
+ ńska : Potrawka z cieciorką i warzywami (zawiera pszenice\,seler)\,place
+ k ziemniaczany (zawiera pszenice\, jajka).Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250128T134000
+DTEND:20250128T140000
+DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera sel
+ er\, jajka\, pszenice).\n\nKiełbasa z mięsa wieprzowego grilowana w piec
+ u\, sałata ze świeżych warzyw ( sałata lodowa\, pomidorki koktajlowe\,
+  rzodkiewka\, sos vinegret)\, bułka pszenna ( zawiera pszenice). Dieta we
+ getariańska : Kiełbasa wegetariańska ( zawiera soja) grilowana w piecu\
+ , sałata ze świeżych warzyw (sałata lodowa\, pomidorki koktajlowe\, rz
+ odkiewka\, sos vinegret)\, bułka pszenna ( zawiera pszenice.) Kompot owoc
+ owy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250129T134000
+DTEND:20250129T140000
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
+ r\, pszenice ).\n\nRyż gotowany na sypko z jabłkiem prażonym z cynamone
+ m\, polane jogurtemWoda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250130T134000
+DTEND:20250130T140000
+DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
+ iera seler\, pszenice\, mleko).\n\nKotlet mielony z mięsa wieprzowego ( z
+ awiera pszenice \, jajka) \, buraczki na ciepło ( zawiera pszenice ) \, z
+ iemniaki z zieleniną . Dieta wegetariańska : Kotlet wegetariański ( zaw
+ iera pszenice \, jajka\, soja)\, buraczki na ciepło ( zawiera pszenice)\,
+  ziemniaki z zieleniną . Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250131T134000
+DTEND:20250131T140000
+DESCRIPTION:Zupa z łososia zabielana na wywarze warzywnym z ziemniakami (
+ zawiera seler\, mleko\, ryba).\n\nPierogi z białym serem i ziemniakami (z
+ awiera jajko\,pszenice\,mleko )z cebulką \, surówka warzywna . Woda .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250120T134000
 DTEND:20250120T140000
 DESCRIPTION:Zupa kapuśniak z kiełbasą i ziemniakami na wywarze warzywno
