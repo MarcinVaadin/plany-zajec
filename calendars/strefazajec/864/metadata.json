@@ -185,12 +185,6 @@
             "title": "Klub Gier Planszowych-Czwartek 18:00-21:00"
         },
         {
-            "id": "64456",
-            "ics": "calendars/strefazajec/864/64456/64456.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64456",
-            "title": "Kreaktywne Szycie, Dorośli, Gr. Początkująca, Poniedziałek, Godz. 18.00-20.00"
-        },
-        {
             "id": "68901",
             "ics": "calendars/strefazajec/864/68901/68901.ics",
             "url": "https://www.strefazajec.pl/course/view/id/68901",
@@ -201,6 +195,12 @@
             "ics": "calendars/strefazajec/864/64467/64467.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64467",
             "title": "Kreaktywne Szycie, Dorośli, Gr. Zaawansowana, Czwartek, Godz. 18.00-20.00"
+        },
+        {
+            "id": "64456",
+            "ics": "calendars/strefazajec/864/64456/64456.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/64456",
+            "title": "Kreaktywne Szycie, Dorośli, Gr. Średniozaawansowana, Poniedziałek, Godz. 18.00-20.00"
         },
         {
             "id": "69460",
