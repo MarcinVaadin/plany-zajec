@@ -3,6 +3,47 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250203T113000
+DTEND:20250203T115000
+DESCRIPTION:Zupa pomidorowa z ryżem na wywarze warzywno- mięsnym (zawier
+ a: seler\, mleko).\n\nZiemniaki z zieleniną\, kotlet schabowy (zawiera ja
+ jka\, pszenica) \,ogórek świeży z jogurtem (zawiera mleko). Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250204T113000
+DTEND:20250204T115000
+DESCRIPTION:Zupa kalafiorowa z ziemniakami (zawiera: seler\, mleko) na wyw
+ arze warzywno–mięsnym.\n\nHamburger wieprzowo wołowy (zawiera pszenice
+ \, jajka)\, bułka pszenna z sezamem (zawiera pszenicę)\, pomidor\, ogór
+ ek kiszony\, sałata. Kompot / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250205T113000
+DTEND:20250205T115000
+DESCRIPTION:Zupa jarzynowa z cieciorką na wywarze warzywnym. (zawiera sel
+ er\, mleko).\n\nKluski leniwe (zawiera jajka\, pszenicę) z bułką tartą
+  (zawiera pszenica)\, surówka z marchewką i jabłkiem. Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250206T113000
+DTEND:20250206T115000
+DESCRIPTION:Zupa literowa z na wywarze warzywno – mięsnym (zawiera: sel
+ er\, pszenica\, jajka).\n\nPizza (zawiera: pszenice)\, szynka wiejska\, se
+ r żółty (zawiera mleko). Sos pomidorowy. Lemoniada / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250207T113000
+DTEND:20250207T115000
+DESCRIPTION:Krem z dyni z grzankami na wywarze warzywnym (zawiera: seler\,
+  mleko\, pszenica).\n\nZiemniaki z zieleniną\, morszczuk w chrupiącej pa
+ nierce (zawiera jajko\, pszenica)\, warzywa na parze . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250127T113000
 DTEND:20250127T115000
 DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym(zawiera seler
@@ -50,52 +91,5 @@ DTEND:20250131T115000
 DESCRIPTION:Zupa z łososia zabielana na wywarze warzywnym z ziemniakami (
  zawiera seler\, mleko\, ryba).\n\nPierogi z białym serem i ziemniakami (z
  awiera jajko\,pszenice\,mleko )z cebulką \, surówka warzywna . Woda .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250120T113000
-DTEND:20250120T115000
-DESCRIPTION:Zupa kapuśniak z kiełbasą i ziemniakami na wywarze warzywno
- - mięsnym (zawiera seler). .\n\nPierogi z mięsem okraszone cebulką (zaw
- iera pszenicę\, seler\, soja)\, surówka meksykańska. Dieta wegetariańs
- ka : Pierogi ze szpinakiem i serem feta okraszone cebulką (zawiera pszeni
- cę\, seler\, )\, surówka meksykańska. Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250121T113000
-DTEND:20250121T115000
-DESCRIPTION:.Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(
- zawiera seler\, mleko).\n\nSznycel drobiowy w złocistej panierce\,(zawier
- a pszenica\, jajka) surówka z czerwonej kapusty\, ziemniaki z zieleniną.
-  Dieta wegetariańska: Sznycel wegetariański w złocistej panierce (zawie
- ra pszenica\, jajko\, soja)\, surówka z czerwonej kapusty\, ziemniaki z z
- ieleniną. Kompot owocowy/ woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250122T113000
-DTEND:20250122T115000
-DESCRIPTION:Grochówka na wywarze warzywnym (zawiera seler\, pszenica).\n\
- nRacuchy drożdżowe z jabłkiem (zawiera pszenica \, mleko\, jajko) polan
- e jogurtem .Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250123T113000
-DTEND:20250123T115000
-DESCRIPTION:Krupnik z kaszą jęczmienną na wywarze warzywno – mięsnym
-  (zawieraseler\, pszenice).\n\nKurczak w sosie słodko -kwaśnym z warzywa
- mi i ryżem . Dieta wegetariańska : Cieciorka w sosie słodko-kwaśnym z 
- warzywami i ryżem. Kompot owocowy / woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250124T113000
-DTEND:20250124T115000
-DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
- sowym (zawiera seler\, mleko).\n\nPaluszki rybne z mintaja w chrupiącej p
- anierce\, fasolka szparagowa gotowana na parze\, ziemniaki z zieleniną.Wo
- da.
 END:VEVENT
 END:VCALENDAR
