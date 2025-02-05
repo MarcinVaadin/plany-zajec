@@ -89,7 +89,6 @@
 - [Zajęcia Chóralne Dla Młodzieży 10-16 Lat, Poniedziałek, Godz.18.00-19:15, Apropos](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64318/64318.ics)
 - [Zespół Dance To The Beat Happy Dance Starsza Młodzież 11-17 Lat Środa Godz.18:30-19:45+Sobota Godz.12:30-13:45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64045/64045.ics)
 - [Zespół Dance To The Beat Junior Happy Dance 8-12 Lat Środa Godz. 17:30-18:30 I Sobota 11:30-12:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64072/64072.ics)
-- [Zimowe Warsztaty Taneczne Z Happy Dance Studio (11-15 Lat)03-04.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69348/69348.ics)
 - [Zimowe Warsztaty Taneczne Z Happy Dance Studio (11-15 Lat)11-12.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69446/69446.ics)
 - [Zimowe Warsztaty Taneczne Z Happy Dance Studio Dzieci 7-10Lat 03-05.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69357/69357.ics)
 - [Zimowe Warsztaty Taneczne Z Happy Dance Studio Dzieci 7-10Lat 11-12.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69443/69443.ics)
