@@ -46,6 +46,7 @@
 - [Kreatywne Szycie 9-16 Lat, Kontynuacja, Środa, Godz. 15.30-17.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64415/64415.ics)
 - [Kreatywne Szycie Dzieci 8-16 Lat Początkująca, Godz.15.30 Poniedziałek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66934/66934.ics)
 - [Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6-8 Lat, Ii Gr. 9-12 Lat, Iii Gr.13-15Lat](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69805/69805.ics)
+- [Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6-8 Lat, Ii Gr. 9-12 Lat, Iii Gr.13-15Lat](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69830/69830.ics)
 - [Matplaneta Fermat , 5-6 Lat Godzina 12.50-13.55 Piątek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65075/65075.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 14.05-15.35](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65023/65023.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 15.00-16.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66792/66792.ics)
