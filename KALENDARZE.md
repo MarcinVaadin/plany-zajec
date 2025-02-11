@@ -45,8 +45,8 @@
 - [Kreatywne Szycie 9-16 Lat, Kontynuacja, Wtorek, Godz. 15.00-16.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64967/64967.ics)
 - [Kreatywne Szycie 9-16 Lat, Kontynuacja, Środa, Godz. 15.30-17.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64415/64415.ics)
 - [Kreatywne Szycie Dzieci 8-16 Lat Początkująca, Godz.15.30 Poniedziałek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66934/66934.ics)
-- [Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6-8 Lat, Ii Gr. 9-12 Lat, Iii Gr.13-15Lat](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69805/69805.ics)
 - [Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6-8 Lat, Ii Gr. 9-12 Lat, Iii Gr.13-15Lat](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69830/69830.ics)
+- [Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6-8 Lat, Ii Gr. 9-12 Lat, Iii Gr.13-15Lat](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69805/69805.ics)
 - [Matplaneta Fermat , 5-6 Lat Godzina 12.50-13.55 Piątek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65075/65075.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 14.05-15.35](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65023/65023.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 15.00-16.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66792/66792.ics)
@@ -91,11 +91,9 @@
 - [Zajęcia Chóralne Dla Młodzieży 10-16 Lat, Poniedziałek, Godz.18.00-19:15, Apropos](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64318/64318.ics)
 - [Zespół Dance To The Beat Happy Dance Starsza Młodzież 11-17 Lat Środa Godz.18:30-19:45+Sobota Godz.12:30-13:45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64045/64045.ics)
 - [Zespół Dance To The Beat Junior Happy Dance 8-12 Lat Środa Godz. 17:30-18:30 I Sobota 11:30-12:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64072/64072.ics)
-- [Zimowe Warsztaty Taneczne Z Happy Dance Studio (11-15 Lat)11-12.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69446/69446.ics)
 - [Zimowe Warsztaty Taneczne Z Happy Dance Studio Dzieci 7-10Lat 03-05.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69357/69357.ics)
 - [Zimowe Warsztaty Taneczne Z Happy Dance Studio Dzieci 7-10Lat 11-12.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69443/69443.ics)
 - [Zimowe Warsztaty Taneczne Z Happy Dance Studio Przedszkolaki 03-05.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69354/69354.ics)
-- [Zimowe Warsztaty Taneczne Z Happy Dance Studio Przedszkolaki 11-12.02.2025](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69442/69442.ics)
 # Tygodniowe menu szkoły w Zielonkach-Parceli
 
 - [1A](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/tygodniowemenu/1a.ics)
