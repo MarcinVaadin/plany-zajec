@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kalendarz Szkolny//example.com//
+BEGIN:VEVENT
+SUMMARY:MAGIA TEATRU  -- POKAZOWE  zajęcia teatralne dla dzieci i młodzi
+ eży- środa 3 grupy wiekowe : I gr. 6-8 lat\, II gr. 9-12 lat\, III gr.13
+ -15lat
+DTSTART:20250226T170000
+DTEND:20250226T183000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20250226T163000
+END:VALARM
+END:VEVENT
+END:VCALENDAR
