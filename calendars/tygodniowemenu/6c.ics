@@ -17,18 +17,18 @@ DTSTART:20250225T134000
 DTEND:20250225T140000
 DESCRIPTION:Zupa ryżówka z ziemniakami na wywarze warzywno- mięsnym (za
  wieraseler\, mleko).\n\nPieczone podudzie z kurczaka \, buraczki na ciepł
- o ( zawiera pszenice ) \, ziemniaki z zieleniną . Dieta wegetariańska : 
- Kotlet z tofu ( zawiera pszenice \, jajka\, soja)\, buraczki na ciepło ( 
- zawiera pszenice)\, ziemniaki z zieleniną . Kompot owocowy / woda.
+ o ( zawiera pszenice )\, ziemniaki z zieleniną . Dieta wegetariańska : K
+ otlet z tofu ( zawiera pszenice \, jajka\, soja)\, buraczki na ciepło ( z
+ awiera pszenice)\, ziemniaki z zieleniną . Kompot owocowy / woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
 DTSTART:20250226T134000
 DTEND:20250226T140000
 DESCRIPTION:Zupa kapuśniak ze słodkiej kapusty z ziemniakami i kaszą p
- ęczak na wywarze warzywnym (zawiera seler\, pszenica )\n\nPierogi z biał
- ym serem (zawiera pszenica \,mleko\, jajko) polane sosem jagodowo – jogu
- rtowym..Woda.
+ ęczak na wywarze warzywnym (zawiera seler\, pszenica)\n\nPierogi z biały
+ m serem (zawiera pszenica \,mleko\, jajko) polane sosem jagodowo – jogur
+ towym..Woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
@@ -36,10 +36,10 @@ DTSTART:20250227T134000
 DTEND:20250227T140000
 DESCRIPTION:Żurek z kiełbasą i ziemniakami na wywarze warzywno mięsnym
   (zawiera seler\,mleko\, pszenicę)\n\nStrogonow wołowy z warzywami (zawi
- era pszenice)\, kopytka( zawiera pszenice\,jajko) ogórek kwaszony Dieta w
- egetariańska : Strogonow wegetariański z warzywami (zawiera pszenice) \,
- kopytka ( zawiera pszenice\, jajko) ogórek kwaszony . Kompot owocowy /wod
- a.
+ era pszenice)\, kopytka( zawiera pszenice\, jajko) ogórek kwaszony Dieta 
+ wegetariańska : Strogonow wegetariański z warzywami (zawiera pszenice) \
+ ,kopytka ( zawiera pszenice\, jajko) ogórek kwaszony . Kompot owocowy /wo
+ da.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
@@ -47,8 +47,8 @@ DTSTART:20250228T113000
 DTEND:20250228T115000
 DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
  era seler\, mleko\, jajko).\n\nPaluszki rybne z mintaja w chrupiącej pani
- erce (zawiera jajko\, pszenice\, ryba)\,ziemniaki z zieleniną \,surówka 
- z kapusty kiszonej z marchewką . Woda
+ erce (zawiera jajko\, pszenice\, ryba)\, ziemniaki z zieleniną \,surówka
+  z kapusty kiszonej z marchewką . Woda
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
