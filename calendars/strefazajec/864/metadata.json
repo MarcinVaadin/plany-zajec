@@ -185,28 +185,10 @@
             "title": "Klub Gier Planszowych-Czwartek 18:00-21:00"
         },
         {
-            "id": "64467",
-            "ics": "calendars/strefazajec/864/64467/64467.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64467",
-            "title": "Kreaktywne Szycie, Dorośli, Gr. Zaawansowana, Czwartek, Godz. 18.00-20.00"
-        },
-        {
             "id": "64456",
             "ics": "calendars/strefazajec/864/64456/64456.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64456",
             "title": "Kreaktywne Szycie, Dorośli, Gr. Średniozaawansowana, Poniedziałek, Godz. 18.00-20.00"
-        },
-        {
-            "id": "69460",
-            "ics": "calendars/strefazajec/864/69460/69460.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/69460",
-            "title": "Kreaktywne Szycie, Dorośli, Gr. Średniozaawansowana, Poniedziałek, Godz. 18.00-20.00"
-        },
-        {
-            "id": "64502",
-            "ics": "calendars/strefazajec/864/64502/64502.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64502",
-            "title": "Kreaktywne Szycie, Dorośli, Gr. Średniozaawansowana,Wtorek, Godz. 18.00-20.00"
         },
         {
             "id": "64967",
@@ -219,6 +201,24 @@
             "ics": "calendars/strefazajec/864/64415/64415.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64415",
             "title": "Kreatywne Szycie 9-16 Lat, Kontynuacja, Środa, Godz. 15.30-17.00"
+        },
+        {
+            "id": "64467",
+            "ics": "calendars/strefazajec/864/64467/64467.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/64467",
+            "title": "Kreatywne Szycie, Dorośli, Gr. Zaawansowana, Czwartek, Godz. 18.00-20.00"
+        },
+        {
+            "id": "69460",
+            "ics": "calendars/strefazajec/864/69460/69460.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/69460",
+            "title": "Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana, Poniedziałek, Godz. 18.00-20.00"
+        },
+        {
+            "id": "64502",
+            "ics": "calendars/strefazajec/864/64502/64502.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/64502",
+            "title": "Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana,Wtorek, Godz. 18.00-20.00"
         },
         {
             "id": "64483",
