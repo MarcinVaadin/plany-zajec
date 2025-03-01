@@ -3,6 +3,53 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250303T134000
+DTEND:20250303T140000
+DESCRIPTION:Zupa literowa na wywarze warzywno–mięsnym.(zawiera: seler\,
+  pszenica\, jajka).\n\nKurczak w sosie słodko -kwaśnym z warzywami i ry
+ żem podanym na sypko. Dieta wegetariańska : Cieciorka w sosie słodko-kw
+ aśnym z warzywami i ryżem podanym na sypko. Woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250304T134000
+DTEND:20250304T140000
+DESCRIPTION:Barszcz czerwony zabielany z ziemniakami na wywarze warzywno- 
+ mięsnym (zawiera: seler\, mleko).\n\nKotlet mielony z mięsa wieprzowo 
+ – wołowego ( zawiera pszenicę \, jajka)\, ziemniaki z zieleniną \, og
+ órek zielony z jogurtem (zawiera mleko). Dieta wegetariańska : Kotlet wa
+ rzywny (zawiera pszenice \, jajka)\, ogórek zielony z jogurtem (zawiera m
+ leko). Lemoniada imbirowa / woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250305T134000
+DTEND:20250305T140000
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
+ r\, pszenica).\n\nNaleśniki (zawiera jajka\, pszenice) z białym serem (z
+ awiera mleko)\, polany sosem truskawkowym . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250306T134000
+DTEND:20250306T140000
+DESCRIPTION:Zupa pieczarkowa zabielana na wywarze warzywno–mięsnym z ma
+ karonem (zawiera: seler\, mleko\, pszenice).\n\nSztuka pieczonego mięsa w
+ ieprzowego w sosie własnym (zawiera pszenice)\, kasza kuskus \, surówka 
+ z kapusty białej i marchewki. Dieta wegetariańska:Kotlet warzywny (zawie
+ ra pszenice\, jajka)\, kasza kuskus\, surówka z kapusty białej i marchew
+ ki. Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250307T113000
+DTEND:20250307T115000
+DESCRIPTION:Zupa jarzynowa zabielana z ziemniakami na wywarze warzywnym (z
+ awiera seler\, mleko).\n\nRyba w chrupiącej panierce (zawiera jajko\, psz
+ enica\, ryba) \, marchewka z groszkiem \, ziemniaki z zieleniną.Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250224T134000
 DTEND:20250224T140000
 DESCRIPTION:Zupa koperkowa zabielana na wywarze warzywno – mięsnym.(zaw
@@ -49,53 +96,5 @@ DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
  era seler\, mleko\, jajko).\n\nPaluszki rybne z mintaja w chrupiącej pani
  erce (zawiera jajko\, pszenice\, ryba)\, ziemniaki z zieleniną \,surówka
   z kapusty kiszonej z marchewką . Woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250217T134000
-DTEND:20250217T140000
-DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym(zawiera seler
- \, pszenica\, jajka).\n\nGulasz z udźca indyka w sosie własnym ( zawiera
-  pszenice)\, surówka warzywna\, kasza gryczana. Dieta wegetariańska: Gul
- asz warzywny z cieciorką w sosie własnym ( zawiera pszenice)\,surówka w
- arzywna \, kasza gryczana. Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250218T134000
-DTEND:20250218T140000
-DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
- awiera seler\, mleko).\n\nKotlet schabowy w złocistej panierce ( zawiera 
- pszenice \,jajko) \, surówka warzywna \, ziemniaki. Dieta wegetariańska:
-  Sznycel wegetariański w złocistej panierce ( zawiera pszenice \, soja \
- , jajko)\,surówka warzywna\,ziemniaki. Lemoniada imbirowa/ woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250219T134000
-DTEND:20250219T140000
-DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
- sowym (zawiera seler\, mleko).\n\nMakaron kolorowy (zawiera jajka\, pszeni
- ce) z twarogiem (zawiera mleko)\, polany sosem truskawkowym. Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250220T134000
-DTEND:20250220T140000
-DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
- iera seler\, pszenica\, mleko).\n\nPulpety wieprzowe ( zawiera pszenice\, 
- jajka ) w sosie porowym ( zawiera pszenice\,mleko)\,warzywa gotowane na pa
- rze\, ziemniaki. Dieta wegetariańska: Pulpety warzywne ( zawiera pszenice
- \, jajka ) w sosie porowym ( zawiera pszenice\,mleko)\, warzywa gotowane n
- a parze\, ziemniaki. Kompot owocowy / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250221T113000
-DTEND:20250221T115000
-DESCRIPTION:Zupa pomidorowa z makaronem \, zabielana na wywarze warzywnym 
- (zawiera seler\, mleko\, pszenice\, jajko)\n\nMorszczuk pieczony w chrupi
- ącej panierce\, surówka z kapusty czerwonej \, ryż zasmażany z warzywa
- mi. Woda.
 END:VEVENT
 END:VCALENDAR
