@@ -69,7 +69,6 @@
 - [Studio Wokalne,Czwartek Grupa I:16:30-17:30, Grupa Ii:17:30-18:30, Grupa Iii: 18:30-19:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/70226/70226.ics)
 - [Studio Wokalne,Piątek Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63846/63846.ics)
 - [Studio Wokalne,Środa, Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63844/63844.ics)
-- [Szachy Dla Początkujacych-Od Zera I-V Klasa,Wtorek, Godz. 15.15-16.15](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/67033/67033.ics)
 - [Szachy I-V Klasa,Wtorek, Godz. 12.55-13.55](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65821/65821.ics)
 - [Szachy I-V Klasa,Wtorek, Godz. 14.05-15.05](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65822/65822.ics)
 - [Taniec Baby-Dance Happy Dance Dla 2-3 Latków Z Opiekunem, Sobota, Godz. 9:30 10:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64187/64187.ics)
