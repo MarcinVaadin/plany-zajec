@@ -62,6 +62,7 @@
 - [Roboprzedszkole - Robotyka Dla Przedszkolaków 5-6 Lat, Sobota Godz. 11:45-12:45 (1X/Miesiącu)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64523/64523.ics)
 - [Robotyka Wedo2, 4-6 Lat, Środa Godz. 16:40-17:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65499/65499.ics)
 - [Robotyka Wedo2, 6-8 Lat, Środa Godz. 15:30-16:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65507/65507.ics)
+- [Rodzinne Warsztaty Zdobienia Pisanek, Sobota, 5 Kwietnia 2025 R., Godz. 10.00-13.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/70394/70394.ics)
 - [Rysunek I Malarstwo Młodzież 12-17 Lat, Poniedziałek, Godz. 18:00-19:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64155/64155.ics)
 - [Solo Latino Dorośli (Grupa Początkująca) Wtorek Godz. 18:30-19:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64323/64323.ics)
 - [Solo Latino Dorośli (Grupa Zaawansowana) Czwartek Godz. 19:00-20:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64324/64324.ics)
