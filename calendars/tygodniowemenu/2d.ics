@@ -3,6 +3,55 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250310T123500
+DTEND:20250310T125500
+DESCRIPTION:Krupnik z kaszą mazurską na wywarze warzywno – mięsnym (z
+ awiera seler\, pszenica).\n\nGulasz z udźca indyka w sosie własnym (zawi
+ era pszenice)\, surówka z kapusty pekińskiej \, papryki \,ogórka kiszon
+ ego\, placki ziemniaczane (zawiera pszenice\, jajka). Dieta wegetariańska
+ : Gulasz warzywny z cieciorką w sosie własnym ( zawiera pszenice)\, sur
+ ówka z kapusty pekińskiej \, papryki \, ogórka kiszonego\, placki ziemn
+ iaczane (zawiera pszenice\, jajka) . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250311T123500
+DTEND:20250311T125500
+DESCRIPTION:Zupa z fasolki szparagowej z ziemniakami na wywarze warzywno- 
+ mięsnym (zawiera: seler\, mleko )\n\nSznycel drobiowy w kukurydzianej pan
+ ierce\,(zawiera jajka)\, burak na ciepło (zawiera pszenicę)\, ziemniaki 
+ z zieleniną. Dieta wegetariańska :Cukinia w chrupiącej panierce (zawier
+ a pszenica\, jajko)\, burak na ciepło (zawiera pszenicę)\, ziemniaki z z
+ ieleniną.Kompot owocowy/ woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250312T123500
+DTEND:20250312T125500
+DESCRIPTION:Zupa meksykańska z ziemniakami na wywarze warzywnym (zawiera:
+  seler).\n\nKluski leniwe (zawiera pszenica \,mleko\, jajko) z sałatką o
+ wocową (winogrono\, ananas\, brzoskwinia). Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250313T123500
+DTEND:20250313T125500
+DESCRIPTION:Zupa kapuśniak z kiełbasą i ziemniakami na wywarze warzywno
+ - mięsnym (zawiera seler )\n\nHamburgery z mięsem wieprzowo wołowym (za
+ wiera jajko\, pszenica\, sezam ) i warzywami. Dieta wegetariańska : Hambu
+ rgery wegetariańskie (zawiera jajko\, pszenicę\, sezam) z warzywami . Le
+ moniada imbirowa/ woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250314T123500
+DTEND:20250314T125500
+DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywnym z ziemniakami (z
+ awiera: seler\, mleko ).\n\nŁosoś wędzony z pomidorami w sosie śmietan
+ owym podany z makaronem kokardki (zwiera jajko\, pszenice) Woda .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250303T123500
 DTEND:20250303T125500
 DESCRIPTION:Zupa literowa na wywarze warzywno–mięsnym.(zawiera: seler\,
