@@ -66,7 +66,6 @@
 - [Rysunek I Malarstwo Młodzież 12-17 Lat, Poniedziałek, Godz. 18:00-19:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64155/64155.ics)
 - [Solo Latino Dorośli (Grupa Początkująca) Wtorek Godz. 18:30-19:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64323/64323.ics)
 - [Solo Latino Dorośli (Grupa Zaawansowana) Czwartek Godz. 19:00-20:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64324/64324.ics)
-- [Spotkania Ze Sztuką 14 Lat+ Czwartek Godz.18.00-19.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64940/64940.ics)
 - [Studio Wokalne,Czwartek Grupa I:16:30-17:30, Grupa Ii:17:30-18:30, Grupa Iii: 18:30-19:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/70226/70226.ics)
 - [Studio Wokalne,Piątek Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63846/63846.ics)
 - [Studio Wokalne,Środa, Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63844/63844.ics)
