@@ -3,6 +3,54 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250317T123500
+DTEND:20250317T125500
+DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
+ awiera seler\, mleko).\n\nPierogi kebab (zawiera pszenicę)\, surówka z b
+ iałej kapusty . Dieta wegetariańska : Pierogi ze szpinakiem i serem feta
+  (zawiera pszenicę\, mleko)\, surówka z białej kapusty . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250318T123500
+DTEND:20250318T125500
+DESCRIPTION:Zupa zacierkowa na wywarze warzywno- mięsnym (zawiera seler\,
+  pszenica\, jajko).\n\nPulpety z mięsa indyczego ( zawiera pszenicę\, ja
+ jka ) w sosie pomidorowym \, ziemniaki z zieleniną\, ogórki kwaszone . D
+ ieta wegetariańska: Pulpety warzywne ( zawiera pszenicę\, jajka) w sosie
+  pomidorowym ( zawiera pszenicę\,mleko) \, ziemniaki z zieleniną \, ogó
+ rki kwaszone . Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250319T123500
+DTEND:20250319T125500
+DESCRIPTION:Zupa grochówka na wywarze warzywnym (zawiera seler\, pszenica
+ ).\n\nRacuchy drożdżowe z jabłkiem (zawiera pszenica\, mleko\, jajko) p
+ olane jogurtem .Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250320T123500
+DTEND:20250320T125500
+DESCRIPTION:Zupa pieczarkowa zabielana z ziemniakami na wywarze warzywno- 
+ mięsnym (zawiera seler\, mleko).\n\nKiełbasa z mięsa wieprzowego grilow
+ ana w piecu\, sałatka ze świeżych warzyw\, bułka pszenna ( zawiera psz
+ enicę). Dieta wegetariańska : Kiełbasa wegetariańska grilowana w piecu
+ \, sałatka ze świeżych warzyw\, bułka pszenna ( zawiera pszenicę). Ko
+ mpot owocowy/ woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250321T123500
+DTEND:20250321T125500
+DESCRIPTION:Zupa neapolitańska z makaronem na wywarze warzywnym ( zawiera
+  seler \, mleko)\n\nMiruna w chrupiącej panierce (zawiera ryba\,pszenice\
+ , jajko) \, ziemniaki z zieleniną \, surówka z kapusty kiszonej z marche
+ wką . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250310T123500
 DTEND:20250310T125500
 DESCRIPTION:Krupnik z kaszą mazurską na wywarze warzywno – mięsnym (z
@@ -49,101 +97,5 @@ DTEND:20250314T125500
 DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywnym z ziemniakami (z
  awiera: seler\, mleko ).\n\nŁosoś wędzony z pomidorami w sosie śmietan
  owym podany z makaronem kokardki (zwiera jajko\, pszenice) Woda .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250303T123500
-DTEND:20250303T125500
-DESCRIPTION:Zupa literowa na wywarze warzywno–mięsnym.(zawiera: seler\,
-  pszenica\, jajka).\n\nKurczak w sosie słodko -kwaśnym z warzywami i ry
- żem podanym na sypko. Dieta wegetariańska : Cieciorka w sosie słodko-kw
- aśnym z warzywami i ryżem podanym na sypko. Woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250304T123500
-DTEND:20250304T125500
-DESCRIPTION:Barszcz czerwony zabielany z ziemniakami na wywarze warzywno- 
- mięsnym (zawiera: seler\, mleko).\n\nKotlet mielony z mięsa wieprzowo 
- – wołowego ( zawiera pszenicę \, jajka)\, ziemniaki z zieleniną \, og
- órek zielony z jogurtem (zawiera mleko). Dieta wegetariańska : Kotlet wa
- rzywny (zawiera pszenice \, jajka)\, ogórek zielony z jogurtem (zawiera m
- leko). Lemoniada imbirowa / woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250305T123500
-DTEND:20250305T125500
-DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
- r\, pszenica).\n\nNaleśniki (zawiera jajka\, pszenice) z białym serem (z
- awiera mleko)\, polany sosem truskawkowym . Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250306T123500
-DTEND:20250306T125500
-DESCRIPTION:Zupa pieczarkowa zabielana na wywarze warzywno–mięsnym z ma
- karonem (zawiera: seler\, mleko\, pszenice).\n\nSztuka pieczonego mięsa w
- ieprzowego w sosie własnym (zawiera pszenice)\, kasza kuskus \, surówka 
- z kapusty białej i marchewki. Dieta wegetariańska:Kotlet warzywny (zawie
- ra pszenice\, jajka)\, kasza kuskus\, surówka z kapusty białej i marchew
- ki. Kompot owocowy / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250307T123500
-DTEND:20250307T125500
-DESCRIPTION:Zupa jarzynowa zabielana z ziemniakami na wywarze warzywnym (z
- awiera seler\, mleko).\n\nRyba w chrupiącej panierce (zawiera jajko\, psz
- enica\, ryba) \, marchewka z groszkiem \, ziemniaki z zieleniną.Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250224T123500
-DTEND:20250224T125500
-DESCRIPTION:Zupa koperkowa zabielana na wywarze warzywno – mięsnym.(zaw
- iera seler\, mleko).\n\nSpaghetti razowe (zawiera pszenice)\, warzywne z m
- ięsem wieprzowym (zawiera seler) pomidorami\, z serem żółtym (zawiera 
- mleko). Dieta wegetariańska : Spaghetti razowe (zawiera pszenice)\, warzy
- wne (zawiera seler) z pomidorami\, z serem żółtym (zawiera mleko).Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250225T123500
-DTEND:20250225T125500
-DESCRIPTION:Zupa ryżówka z ziemniakami na wywarze warzywno- mięsnym (za
- wieraseler\, mleko).\n\nPieczone podudzie z kurczaka \, buraczki na ciepł
- o ( zawiera pszenice )\, ziemniaki z zieleniną . Dieta wegetariańska : K
- otlet z tofu ( zawiera pszenice \, jajka\, soja)\, buraczki na ciepło ( z
- awiera pszenice)\, ziemniaki z zieleniną . Kompot owocowy / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250226T123500
-DTEND:20250226T125500
-DESCRIPTION:Zupa kapuśniak ze słodkiej kapusty z ziemniakami i kaszą p
- ęczak na wywarze warzywnym (zawiera seler\, pszenica)\n\nPierogi z biały
- m serem (zawiera pszenica \,mleko\, jajko) polane sosem jagodowo – jogur
- towym..Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250227T123500
-DTEND:20250227T125500
-DESCRIPTION:Żurek z kiełbasą i ziemniakami na wywarze warzywno mięsnym
-  (zawiera seler\,mleko\, pszenicę)\n\nStrogonow wołowy z warzywami (zawi
- era pszenice)\, kopytka( zawiera pszenice\, jajko) ogórek kwaszony Dieta 
- wegetariańska : Strogonow wegetariański z warzywami (zawiera pszenice) \
- ,kopytka ( zawiera pszenice\, jajko) ogórek kwaszony . Kompot owocowy /wo
- da.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250228T123500
-DTEND:20250228T125500
-DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
- era seler\, mleko\, jajko).\n\nPaluszki rybne z mintaja w chrupiącej pani
- erce (zawiera jajko\, pszenice\, ryba)\, ziemniaki z zieleniną \,surówka
-  z kapusty kiszonej z marchewką . Woda
 END:VEVENT
 END:VCALENDAR
