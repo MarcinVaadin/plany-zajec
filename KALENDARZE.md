@@ -43,7 +43,6 @@
 - [Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana, Poniedziałek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69460/69460.ics)
 - [Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana,Wtorek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64502/64502.ics)
 - [Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana-Kontynuacja, Środa, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64483/64483.ics)
-- [Magia Teatru --Bezpłatne Pokazowe Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 26.02](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69829/69829.ics)
 - [Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6-8 Lat, Ii Gr. 9-12 Lat, Iii Gr.13-15Lat](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69805/69805.ics)
 - [Matplaneta Fermat , 5-6 Lat Godzina 12.50-13.55 Piątek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65075/65075.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 14.05-15.35](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65023/65023.ics)
