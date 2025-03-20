@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kalendarz Szkolny//example.com//
+BEGIN:VEVENT
+SUMMARY:Autoportret w technice malarstwa i kolażu- warsztaty artystyczne\
+ , sobota\, 24 maja 2025 r.\, godz. 10.00 – 13.00
+DTSTART:20250524T100000
+DTEND:20250524T130000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20250524T093000
+END:VALARM
+END:VEVENT
+END:VCALENDAR

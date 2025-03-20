@@ -7,6 +7,7 @@
 ## Dom Kultury Stare Babice
 
 - [Angielski Z Native Speakerem- Kl. I-Iii, Kl. Iv-V, Kl. Iv-Vii, Kl. Viii Poniedziałek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64842/64842.ics)
+- [Autoportret W Technice Malarstwa I Kolażu- Warsztaty Artystyczne, Sobota, 24 Maja 2025 R., Godz. 10.00 – 13.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/70751/70751.ics)
 - [Balet Dla Dzieci 3-4 Lat Piątek Godz.17:00-17:45 (45Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64364/64364.ics)
 - [Balet Dla Dzieci 5-7 Lat Poniedziałek Godz.16:45-17.30 (45Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64211/64211.ics)
 - [Balet Dla Dzieci 7 Lat+ Piątek Godz.17:45-18.45( 60Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64365/64365.ics)
