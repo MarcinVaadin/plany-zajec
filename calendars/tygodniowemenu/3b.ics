@@ -3,6 +3,55 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250324T123500
+DTEND:20250324T125500
+DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
+ era seler\, mleko\, jajko).\n\nGulasz z udźca indyka w sosie własnym ( z
+ awiera pszenice) \, zielone kopytka( zawiera pszenice \, jajka)\, brokuł 
+ gotowany na parze. Dieta wegetariańska: Gulasz wegetariański z zielonym 
+ groszkiem w sosie własnym ( zawiera pszenice)\, zielone kopytka (zawiera 
+ pszenice\, jajka)\, brokuł gotowany na parze. Napój owocowy / woda. .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250325T123500
+DTEND:20250325T125500
+DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera sel
+ er\, jajka\, pszenica).\n\nPieczone podudzie z kurczaka\, ziemniaki z ziel
+ eniną \, surówka z kapusty pekińskiej. Dieta wegetariańska : Kotlety z
+  tofu ( zawiera pszenicę \, jajka\, soja)\, ziemniaki z zieleniną \, sur
+ ówka z kapusty pekińskiej . Kompot owocowy/Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250326T123500
+DTEND:20250326T125500
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
+ r\, pszenica ).\n\nMakaron kolorowy (zawiera jajka\, pszenice) z twarogiem
+  (zawiera mleko)\, polany sosem truskawkowym. Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250327T123500
+DTEND:20250327T125500
+DESCRIPTION:Zupa jarzynowa zabielana na wywarze warzywnym (zawiera seler\,
+  mleko ).\n\nKotlet schabowy w złocistej panierce ( zawiera pszenice \,ja
+ jko\,) \, surówka z czerwonej kapusty\, ziemniaki. Dieta wegetariańska: 
+ Sznycel wegetariański w złocistej panierce ( zawiera pszenice \, soja \,
+  jajko)\,surówka z czerwonej kapusty\, ziemniaki. Lemoniada imbirowa/ wod
+ a.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250328T123500
+DTEND:20250328T125500
+DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
+ sowym (zawiera seler\, mleko).\n\nMorszczuk pieczony w chrupiącej panierc
+ e\, marchewka z groszkiem ( zawiera pszenice)\, ziemniaki z zieleniną . W
+ oda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250317T123500
 DTEND:20250317T125500
 DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
