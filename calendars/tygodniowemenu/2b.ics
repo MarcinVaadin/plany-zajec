@@ -3,6 +3,53 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250331T123500
+DTEND:20250331T125500
+DESCRIPTION:Zupa literkowa na wywarze warzywno –mięsnym (zawiera seler\
+ , pszenica\, jajka).\n\nLeczo warzywne z mięsem z indyka \, kasza kuskus 
+ (zawiera pszenicę). Dieta wegetariańska : Leczo warzywne z fasolą czerw
+ oną \, kasza kuskus (zawiera pszenicę). Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250401T123500
+DTEND:20250401T125500
+DESCRIPTION:Barszcz czerwony zabielany z ziemniakami na wywarze warzywno- 
+ mięsnym (zawiera seler\, mleko)\n\nKotlet mielony z mięsa wieprzowego (z
+ awiera pszenicę \, jajka)\, ziemniaki z zieleniną\, ogórek zielony z jo
+ gurtem (zawiera mleko). Dieta wegetariańska : Kotlet sojowy (zawiera psze
+ nicę \, jajka\, soja) \,ogórek zielony z jogurtem ( zawiera mleko). Komp
+ ot owocowy / woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250402T123500
+DTEND:20250402T125500
+DESCRIPTION:Zupa meksykańska z ziemniakami na wywarze warzywnym (zawiera 
+ seler).\n\nRyż gotowany na sypko z jabłkiem prażonym z cynamonem\, pola
+ ne jogurtemWoda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250403T123500
+DTEND:20250403T125500
+DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
+ iera seler\, mleko).\n\nSpaghetti razowe (zawiera pszenicę)\, warzywne z 
+ mięsem wieprzowym (zawiera seler) pomidorami\, z serem żółtym (zawiera
+  mleko). Dieta wegetariańska : Spaghetti razowe (zawiera pszenicę)\, war
+ zywne (zawiera seler) z pomidorami\, z serem żółtym (zawiera mleko). Ko
+ mpot owocowy/Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250404T123500
+DTEND:20250404T125500
+DESCRIPTION:Zupa z łososia zabielana na wywarze warzywnym z ziemniakami (
+ zawiera seler\, mleko\, ryba).\n\nPierogi z białym serem i ziemniakami (z
+ awiera jajko\, pszenice\, mleko )z cebulką \, surówka warzywna .Woda .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250324T123500
 DTEND:20250324T125500
 DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
@@ -49,53 +96,5 @@ DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
  sowym (zawiera seler\, mleko).\n\nMorszczuk pieczony w chrupiącej panierc
  e\, marchewka z groszkiem ( zawiera pszenice)\, ziemniaki z zieleniną . W
  oda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250317T123500
-DTEND:20250317T125500
-DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
- awiera seler\, mleko).\n\nPierogi kebab (zawiera pszenicę)\, surówka z b
- iałej kapusty . Dieta wegetariańska : Pierogi ze szpinakiem i serem feta
-  (zawiera pszenicę\, mleko)\, surówka z białej kapusty . Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250318T123500
-DTEND:20250318T125500
-DESCRIPTION:Zupa zacierkowa na wywarze warzywno- mięsnym (zawiera seler\,
-  pszenica\, jajko).\n\nPulpety z mięsa indyczego ( zawiera pszenicę\, ja
- jka ) w sosie pomidorowym \, ziemniaki z zieleniną\, ogórki kwaszone . D
- ieta wegetariańska: Pulpety warzywne ( zawiera pszenicę\, jajka) w sosie
-  pomidorowym ( zawiera pszenicę\,mleko) \, ziemniaki z zieleniną \, ogó
- rki kwaszone . Kompot owocowy / woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250319T123500
-DTEND:20250319T125500
-DESCRIPTION:Zupa grochówka na wywarze warzywnym (zawiera seler\, pszenica
- ).\n\nRacuchy drożdżowe z jabłkiem (zawiera pszenica\, mleko\, jajko) p
- olane jogurtem .Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250320T123500
-DTEND:20250320T125500
-DESCRIPTION:Zupa pieczarkowa zabielana z ziemniakami na wywarze warzywno- 
- mięsnym (zawiera seler\, mleko).\n\nKiełbasa z mięsa wieprzowego grilow
- ana w piecu\, sałatka ze świeżych warzyw\, bułka pszenna ( zawiera psz
- enicę). Dieta wegetariańska : Kiełbasa wegetariańska grilowana w piecu
- \, sałatka ze świeżych warzyw\, bułka pszenna ( zawiera pszenicę). Ko
- mpot owocowy/ woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250321T123500
-DTEND:20250321T125500
-DESCRIPTION:Zupa neapolitańska z makaronem na wywarze warzywnym ( zawiera
-  seler \, mleko)\n\nPaluszki rybne w chrupiącej panierce (zawiera ryba\,p
- szenice\, jajko) \, ziemniaki z zieleniną \, surówka z kapusty kiszonej 
- z marchewką . Woda.
 END:VEVENT
 END:VCALENDAR
