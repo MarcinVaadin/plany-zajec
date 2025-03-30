@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20241004T170000
-DTEND:20241004T190000
+DTEND:20241004T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20241004T163000
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20241018T170000
-DTEND:20241018T190000
+DTEND:20241018T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20241018T163000
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20241115T170000
-DTEND:20241115T190000
+DTEND:20241115T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20241115T163000
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20241129T170000
-DTEND:20241129T190000
+DTEND:20241129T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20241129T163000
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20241220T170000
-DTEND:20241220T190000
+DTEND:20241220T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20241220T163000
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20250117T170000
-DTEND:20250117T190000
+DTEND:20250117T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20250117T163000
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20250131T170000
-DTEND:20250131T190000
+DTEND:20250131T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20250131T163000
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20250321T170000
-DTEND:20250321T190000
+DTEND:20250321T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20250321T163000
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20250322T100000
-DTEND:20250322T120000
+DTEND:20250322T130000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20250322T093000
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20250404T170000
-DTEND:20250404T190000
+DTEND:20250404T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20250404T163000
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20250516T170000
-DTEND:20250516T190000
+DTEND:20250516T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20250516T163000
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Nasza stolarka to młotek i wkrętarka- warsztaty stolarskie dla d
  zieci 7-10 lat\, piątek\, godz. 17:00-19:00
 DTSTART:20250530T170000
-DTEND:20250530T190000
+DTEND:20250530T200000
 BEGIN:VALARM
 ACTION:audio
 TRIGGER:20250530T163000
