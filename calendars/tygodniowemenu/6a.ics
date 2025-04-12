@@ -3,6 +3,48 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250414T134000
+DTEND:20250414T140000
+DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno–mięsnym.(zaw
+ iera: seler\, mleko).\n\nPierogi z mięsem okraszone cebulką (zawiera: ps
+ zenicę\, seler\, soja)\, surówka z marchewki z pestkami słonecznika . D
+ ieta wegetariańska : Pierogi ze szpinakiem okraszone cebulką (zawiera: p
+ szenicę\, seler)\, surówka z marchewki z pestkami słonecznika . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250415T134000
+DTEND:20250415T140000
+DESCRIPTION:Zupa krupnik z kaszą jęczmienną na wywarze warzywno–mięs
+ nym.(zawiera: seler\, pszenica).\n\nSztuka pieczonego mięsa wieprzowego w
+  sosie własnym ( zawiera pszenice) \, ziemniaki z zieleniną \, surówka 
+ z kapusty pekińskiej . Dieta wegetariańska: Kotlet warzywny ( zawiera ps
+ zenice\, jajka)\, ziemniaki z zieleniną \, surówka z kapusty pekińskiej
+  . Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250416T134000
+DTEND:20250416T140000
+DESCRIPTION:Zupa kapuśniak ze słodkiej kapusty z ziemniakami i kaszą p
+ ęczak na wywarze warzywnym (zawiera seler\, pszenica).\n\nRacuchy drożd
+ żowe z jabłkiem (zawiera pszenica\, mleko\, jajko) polane jogurtem .Woda
+ .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250417T134000
+DTEND:20250417T140000
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250418T134000
+DTEND:20250418T140000
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250407T134000
 DTEND:20250407T140000
 DESCRIPTION:Zupa koperkowa zabielana na wywarze warzywno – mięsnym.(zaw
