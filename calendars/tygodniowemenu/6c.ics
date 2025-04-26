@@ -3,6 +3,46 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250428T134000
+DTEND:20250428T140000
+DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
+ iera seler\, mleko).\n\nKiełbasa z mięsa wieprzowego grilowa na w piecu\
+ , sałatka ze świeżych warzyw\, bułka pszenna (zawiera pszenicę). Diet
+ a wegetariańska : Kiełbasa wegetariańska grilowa na w piecu\, sałatka 
+ ze świeżych warzyw\, bułka pszenna (zawiera pszenicę).Woda .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250429T134000
+DTEND:20250429T140000
+DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera sel
+ er\, jajka\, pszenica).\n\nPieczone podudzie z kurczaka\, surówka warzywn
+ a\, ziemniaki z zieleniną . Dieta wegetariańska : Kotlety z tofu (zawier
+ a pszenicę \, jajka\, soja)\, surówka warzywna\, ziemniaki z zieleniną 
+ .Kompot owocowy/Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250430T134000
+DTEND:20250430T140000
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
+ r\, pszenica).\n\nKluski leniwe (zawiera pszenica \,mleko\, jajko) surówk
+ a z marchewki z pestkami słonecznika.Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250501T134000
+DTEND:20250501T140000
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250502T113000
+DTEND:20250502T115000
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250421T134000
 DTEND:20250421T140000
 DESCRIPTION:\n\n
