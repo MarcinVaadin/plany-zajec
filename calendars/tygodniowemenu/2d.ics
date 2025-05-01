@@ -3,81 +3,52 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250428T123500
-DTEND:20250428T125500
-DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
- iera seler\, mleko).\n\nKiełbasa z mięsa wieprzowego grilowa na w piecu\
- , sałatka ze świeżych warzyw\, bułka pszenna (zawiera pszenicę). Diet
- a wegetariańska : Kiełbasa wegetariańska grilowa na w piecu\, sałatka 
- ze świeżych warzyw\, bułka pszenna (zawiera pszenicę).Woda .
+DTSTART:20250505T123500
+DTEND:20250505T125500
+DESCRIPTION:Zupa zacierkowa na wywarze warzywno –mięsnym (zawiera: sele
+ r\, pszenice\, jajka).\n\nGulasz z udźca indyka w sosie własnym ( zawier
+ a pszenice)\, surówka z białej kapusty\, kasza jęczmienna (zawiera psze
+ nice) Dieta wegetariańska: Gulasz warzywny z cieciorką w sosie własnym 
+ (zawiera pszenice)\,surówka z białej kapusty\, kasza jęczmienna (zawier
+ a pszenice). Woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250429T123500
-DTEND:20250429T125500
-DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera sel
- er\, jajka\, pszenica).\n\nPieczone podudzie z kurczaka\, surówka warzywn
- a\, ziemniaki z zieleniną . Dieta wegetariańska : Kotlety z tofu (zawier
- a pszenicę \, jajka\, soja)\, surówka warzywna\, ziemniaki z zieleniną 
- .Kompot owocowy/Woda.
+DTSTART:20250506T123500
+DTEND:20250506T125500
+DESCRIPTION:Zupa pomidorowa z ryżem \, zabielana na wywarze warzywno-mię
+ snym (zawiera: seler\, mleko).\n\nKotlet schabowy w złocistej panierce (z
+ awiera pszenice \,jajko )\, surówka warzywna\, ziemniaki z zieleniną. Di
+ eta wegetariańska: Sznycel wegetariański w złocistej panierce (zawiera 
+ pszenice \, soja \, jajko)\, surówka warzywna\, ziemniaki z zieleniną. K
+ ompot wiśniowy / woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250430T123500
-DTEND:20250430T125500
-DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
- r\, pszenica).\n\nKluski leniwe (zawiera pszenica \,mleko\, jajko) surówk
- a z marchewki z pestkami słonecznika.Woda.
+DTSTART:20250507T123500
+DTEND:20250507T125500
+DESCRIPTION:Zupa grochówka na wywarze warzywnym (zawiera seler\, pszenica
+ ).\n\nRyż gotowany na sypko z jabłkiem prażonym z cynamonem\, polane jo
+ gurtemWoda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250501T123500
-DTEND:20250501T125500
-DESCRIPTION:\n\n
+DTSTART:20250508T123500
+DTEND:20250508T125500
+DESCRIPTION:Żurek z kiełbasą i ziemniakami na wywarze warzywno mięsnym
+  (zawiera seler\,mleko\, pszenica)\n\nStrogonow wołowy z warzywami (zawie
+ ra: pszenice)\, kluski śląskie (zawiera pszenice\, jajko) ogórek kwaszo
+ ny. Dieta wegetariańska : Strogonow wegetariański z warzywami (zawiera: 
+ pszenice) \,kluski śląskie (zawiera pszenice\, jajko) ogórek kwaszony .
+  Kompot owocowy /woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250502T123500
-DTEND:20250502T125500
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250421T123500
-DTEND:20250421T125500
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250422T123500
-DTEND:20250422T125500
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250423T123500
-DTEND:20250423T125500
-DESCRIPTION:Zupa jarzynowa zabielana z ziemniakami i cieciorką na wywarze
-  warzywnym (zawiera seler\, mleko).\n\nMakaron kolorowy (zawiera jajka\, p
- szenice) z twarogiem (zawiera mleko)\, polany sosem truskawkowym. Woda.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250424T123500
-DTEND:20250424T125500
-DESCRIPTION:Barszcz ukraiński na wywarze warzywno -mięsnym (zawiera sele
- r\, mleko).\n\nKlopsy z mięsa wieprzowego (zawiera pszenice\, jajka) w so
- sie porowym (zawiera pszenice)\, ziemniaki z zieleniną\, brokuł gotowany
-  na parze. Dieta wegetariańska: Klopsy warzywne (zawiera pszenice\, jajka
- ) w sosie porowym (zawiera pszenice)\, ziemniaki z zieleniną\, brokuł go
- towany na parze. Kompot owocowy / woda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obiad
-DTSTART:20250425T123500
-DTEND:20250425T125500
-DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
- sowym (zawiera seler\, mleko).\n\nMorszczuk pieczony w chrupiącej panierc
- e\, mini marchewka (zawiera pszenice)\, ziemniaki z zieleniną . Woda.
+DTSTART:20250509T123500
+DTEND:20250509T125500
+DESCRIPTION:Zupa szczawiowa zabielana z jajkiem na wywarze warzywnym (zawi
+ era: seler\, mleko\, jajko)\n\nPaluszki rybne z mintaja w chrupiącej pani
+ erce (zawiera jajko\, pszenice\, ryba)\, ziemniaki z zieleniną\, fasolka 
+ szparagowa . Woda.
 END:VEVENT
 END:VCALENDAR
