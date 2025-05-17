@@ -11,12 +11,6 @@
             "title": "Angielski Z Native Speakerem- Kl. I-Iii, Kl. Iv-V, Kl. Iv-Vii, Kl. Viii Poniedziałek"
         },
         {
-            "id": "70751",
-            "ics": "calendars/strefazajec/864/70751/70751.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/70751",
-            "title": "Autoportret W Technice Malarstwa I Kolażu- Warsztaty Artystyczne, Sobota, 24 Maja 2025 R., Godz. 10.00 – 13.00"
-        },
-        {
             "id": "64364",
             "ics": "calendars/strefazajec/864/64364/64364.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64364",
@@ -231,6 +225,30 @@
             "ics": "calendars/strefazajec/864/64483/64483.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64483",
             "title": "Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana-Kontynuacja, Środa, Godz. 18.00-20.00"
+        },
+        {
+            "id": "71417",
+            "ics": "calendars/strefazajec/864/71417/71417.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/71417",
+            "title": "Lato W Gminie Turnus 1 - 7-11.07.2025 Pasjonujące Wakacje"
+        },
+        {
+            "id": "71419",
+            "ics": "calendars/strefazajec/864/71419/71419.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/71419",
+            "title": "Lato W Gminie Turnus 2 - 14-18.07.2025 Podróże Małe I Duże"
+        },
+        {
+            "id": "71420",
+            "ics": "calendars/strefazajec/864/71420/71420.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/71420",
+            "title": "Lato W Gminie Turnus 3 - 21-25.07.2025 Akademia Sportu I Zdrowia"
+        },
+        {
+            "id": "71423",
+            "ics": "calendars/strefazajec/864/71423/71423.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/71423",
+            "title": "Lato W Gminie Turnus 4 - 28.07-01.08.2025 Teatralno-Filmowe Przygody"
         },
         {
             "id": "69805",

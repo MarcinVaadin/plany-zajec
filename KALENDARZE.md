@@ -7,7 +7,6 @@
 ## Dom Kultury Stare Babice
 
 - [Angielski Z Native Speakerem- Kl. I-Iii, Kl. Iv-V, Kl. Iv-Vii, Kl. Viii Poniedziałek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64842/64842.ics)
-- [Autoportret W Technice Malarstwa I Kolażu- Warsztaty Artystyczne, Sobota, 24 Maja 2025 R., Godz. 10.00 – 13.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/70751/70751.ics)
 - [Balet Dla Dzieci 3-4 Lat Piątek Godz.17:00-17:45 (45Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64364/64364.ics)
 - [Balet Dla Dzieci 5-7 Lat Poniedziałek Godz.16:45-17.30 (45Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64211/64211.ics)
 - [Balet Dla Dzieci 7 Lat+ Piątek Godz.17:45-18.45( 60Min)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64365/64365.ics)
@@ -44,6 +43,10 @@
 - [Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana, Poniedziałek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69460/69460.ics)
 - [Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana,Wtorek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64502/64502.ics)
 - [Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana-Kontynuacja, Środa, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64483/64483.ics)
+- [Lato W Gminie Turnus 1 - 7-11.07.2025 Pasjonujące Wakacje](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71417/71417.ics)
+- [Lato W Gminie Turnus 2 - 14-18.07.2025 Podróże Małe I Duże](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71419/71419.ics)
+- [Lato W Gminie Turnus 3 - 21-25.07.2025 Akademia Sportu I Zdrowia](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71420/71420.ics)
+- [Lato W Gminie Turnus 4 - 28.07-01.08.2025 Teatralno-Filmowe Przygody](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71423/71423.ics)
 - [Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6-8 Lat, Ii Gr. 9-12 Lat, Iii Gr.13-15Lat](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69805/69805.ics)
 - [Matplaneta Fermat , 5-6 Lat Godzina 12.50-13.55 Piątek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65075/65075.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 14.05-15.35](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65023/65023.ics)

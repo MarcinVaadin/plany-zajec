@@ -3,46 +3,49 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250512T123500
-DTEND:20250512T125500
-DESCRIPTION:Zupa ryżowa na wywarze warzywno – mięsnym.(zawiera: seler)
- .\n\nSpaghetti razowe (zawiera pszenicę)\, warzywne z mięsem wieprzowym 
- (zawiera seler) pomidorami\, z serem żółtym (zawiera mleko). Dieta wege
- tariańska : Spaghetti razowe (zawiera pszenicę)\, warzywne (zawiera sele
- r) z pomidorami\, z serem żółtym (zawiera mleko). Woda.
+DTSTART:20250519T123500
+DTEND:20250519T125500
+DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
+ awiera seler\, mleko).\n\nPotrawka z kurczaka z warzywami podana z makaron
+ em (zawiera pszenice \, jajko) Dieta wegetariańska: Potrawka z czerwonej 
+ fasoli i warzyw podana z makaronem( zawiera pszenice \, jajka). Woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250513T123500
-DTEND:20250513T125500
-DESCRIPTION:Zupa literkowa na wywarze warzywno – mięsnym(zawiera seler\
- , pszenica\, jajka).\n\nKotlet pożarski z mięsa drobiowego ( zawiera psz
- enicę \, jajka)\, ziemniaki z zieleniną\, kolba kukurydzy.Napój owocowy
-  / woda
+DTSTART:20250520T123500
+DTEND:20250520T125500
+DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
+ iera seler\, mleko).\n\nKotlet mielony z mięsa wieprzowego ( zawiera psze
+ nicę \, jajka) \,ziemniaki z zieleniną \,buraczki na ciepło. Dieta wege
+ tariańska : Kotlet sojowy ( zawiera pszenice \, jajka\,soje) ziemniaki z 
+ zieleniną \,buraczki na ciepło. Kompot owocowy / woda
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250514T123500
-DTEND:20250514T125500
-DESCRIPTION:Zupa meksykańska z ziemniakami na wywarze warzywnym (zawiera 
- seler).\n\nMakaron kolorowy (zawiera jajka\, pszenice) z twarogiem (zawier
- a mleko)\, polany sosem truskawkowym.Woda.
+DTSTART:20250521T123500
+DTEND:20250521T125500
+DESCRIPTION:Zupa kapuśniak ze słodkiej kapusty z ziemniakami i kaszą p
+ ęczak na wywarze warzywnym (zawiera seler\, pszenica ).\n\nNaleśniki (za
+ wiera jajka\, pszenice) z białym serem (zawiera mleko)\, polany sosem brz
+ oskwiniowym . Woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250515T123500
-DTEND:20250515T125500
-DESCRIPTION:Zupa pieczarkowa zabielana z ziemniakami na wywarze warzywno- 
- mięsnym (zawiera seler\, mleko).\n\nKlopsiki (zawiera pszenicę\, jajka) 
- wieprzowe w sosie śmietanowo koperkowym\, ziemniaki\, surówka ze śwież
- ych warzyw.Kompot owocowy/ woda.
+DTSTART:20250522T123500
+DTEND:20250522T125500
+DESCRIPTION:Zupa z fasolki szparagowej z ziemniakami na wywarze warzywno- 
+ mięsnym (zawiera seler\, mleko ) .\n\nPulpety z mięsa indyczego ( zawier
+ a pszenicę\, jajka ) w sosie pomidorowym \, ziemniaki z zieleniną\, sur
+ ówka warzywna. Dieta wegetariańska: Pulpety warzywne ( zawiera pszenicę
+ \, jajka) w sosie pomidorowym ( zawiera pszenicę\,mleko) \, ziemniaki z z
+ ieleniną \, surówka warzywna. Kompot owocowy / woda.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obiad
-DTSTART:20250516T123500
-DTEND:20250516T125500
-DESCRIPTION:Zupa krem z brokułu na wywarze warzywnym (zawiera: seler\, ml
- eko).\n\nRyba morszczuk pieczona w chrupiącej panierce\, ryż\, surówka 
- wiosenna z kapusty . Woda.
+DTSTART:20250523T123500
+DTEND:20250523T125500
+DESCRIPTION:Zupa z łososia zabielana na wywarze warzywnym z ziemniakami (
+ zawiera seler\, mleko\, ryba).\n\nPierogi z białym serem i ziemniakami (z
+ awiera jajko\, pszenice\, mleko z cebulką \, surówka warzywna . Woda .
 END:VEVENT
 END:VCALENDAR
