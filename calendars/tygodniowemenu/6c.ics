@@ -3,6 +3,55 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250526T134000
+DTEND:20250526T140000
+DESCRIPTION:Botwinka z ziemniakami na wywarze warzywno- mięsnym (zawiera 
+ seler\, mleko).\n\nGulasz z udźca indyka w sosie własnym ( zawiera pszen
+ ice)\, surówka z białej kapusty \, kasza gryczana ( zawiera pszenice) Di
+ eta wegetariańska: Gulasz warzywny z cieciorką w sosie własnym ( zawier
+ a pszenice)\,surówka z białej kapusty \, kasza gryczana ( zawiera pszeni
+ ce). Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250527T134000
+DTEND:20250527T140000
+DESCRIPTION:Zupa koperkowa zabielana na wywarze warzywno – mięsnym.(zaw
+ iera seler\, mleko).\n\nSznycel drobiowy w panierce z panko (zawiera jajka
+ \, pszenice) marchewka z groszkiem (zawiera pszenicę)\, ziemniaki z ziele
+ niną. Dieta wegetariańska : Kotlet z tofu (zawiera pszenica\, jajko\, so
+ ja)\,marchewka z groszkiem (zawiera pszenicę)\, ziemniaki z zieleniną. K
+ ompot owocowy/ woda .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250528T134000
+DTEND:20250528T140000
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym (zawiera sele
+ r\, pszenica ).\n\nRacuchy drożdżowe z jabłkiem (zawiera pszenica\, mle
+ ko\, jajko) polane jogurtem .Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250529T134000
+DTEND:20250529T140000
+DESCRIPTION:Zupa pieczarkowa zabielana z ziemniakami na wywarze warzywno- 
+ mięsnym (zawiera seler\, mleko).\n\nLeczo warzywne z kiełbasą wieprzow
+ ą \, kasza kuskus (zawiera pszenicę). Dieta wegetariańska : Leczo warzy
+ wne z zielonym groszkiem \, kasza kuskus ( zawiera pszenicę). Kompot owoc
+ owy/ woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250530T113000
+DTEND:20250530T115000
+DESCRIPTION:Zupa pomidorowa z makaronem \, zabielana na wywarze warzywnym 
+ (zawiera seler\, mleko\, pszenice\, jajko)\n\nPaluszki rybne z mintaja w c
+ hrupiącej panierce (zawiera jajko\, pszenica\, ryba) kolba kukurydzy \,zi
+ emniaki z zieleniną . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250519T134000
 DTEND:20250519T140000
 DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
