@@ -3,6 +3,53 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250609T134000
+DTEND:20250609T140000
+DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
+ awiera seler\, mleko).\n\nSpaghetti razowe (zawiera pszenicę)\, warzywne 
+ z mięsem wieprzowym (zawiera seler) pomidorami\, z serem żółtym (zawie
+ ra mleko). Dieta wegetariańska : Spaghetti razowe (zawiera pszenicę)\, w
+ arzywne (zawiera seler) z pomidorami\, z serem żółtym (zawiera mleko). 
+ Woda..
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250610T134000
+DTEND:20250610T140000
+DESCRIPTION:Zupa literkowa na wywarze warzywno – mięsnym.(zawiera seler
+ \, pszenica\, jajka).\n\nKotlet mielony z mięsa wieprzowego ( zawiera psz
+ enicę \, jajka) \,ziemniaki z zieleniną \,młoda kapusta (zawiera pszeni
+ ce). Dieta wegetariańska : Kotlet z groszku zielonego ( zawiera pszenice 
+ \, jajka) ziemniaki z zieleniną \,młoda kapusta ( zawiera pszenice). Kom
+ pot owocowy / woda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250611T134000
+DTEND:20250611T140000
+DESCRIPTION:Zupa meksykańska z ziemniakami na wywarze warzywnym (zawiera 
+ seler ).\n\nPierogi z jagodami (zawiera pszenica \, jajko) polane sosem jo
+ gurtowym ( zawiera mleko).Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250612T134000
+DTEND:20250612T140000
+DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
+ iera seler\, mleko).\n\nKurczak w sosie słodko – kwaśnym z warzywami i
+  ryżem podanym na sypko. Dieta wegetariańska : Cieciorka w sosie słodko
+ -kwaśnym z warzywami i ryżem podanym na sypko. Kompot wiśniowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250613T113000
+DTEND:20250613T115000
+DESCRIPTION:Zupa krem z białych warzyw zabielana na wywarze warzywnym (za
+ wiera seler\, mleko).\n\nŁosoś pieczony (zawiera rybę )\,surówka z sa
+ łaty lodowej \, ogórka i rzodkiewki \, ziemniaki z zieleniną .Woda .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250602T134000
 DTEND:20250602T140000
 DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym(zawiera seler
