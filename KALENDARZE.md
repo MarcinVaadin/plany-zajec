@@ -47,7 +47,6 @@
 - [Lato W Gminie Turnus 2 - 14-18.07.2025 Podróże Małe I Duże](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71419/71419.ics)
 - [Lato W Gminie Turnus 3 - 21-25.07.2025 Akademia Sportu I Zdrowia](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71420/71420.ics)
 - [Lato W Gminie Turnus 4 - 28.07-01.08.2025 Teatralno-Filmowe Przygody](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71423/71423.ics)
-- [Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6-8 Lat, Ii Gr. 9-12 Lat, Iii Gr.13-15Lat](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69805/69805.ics)
 - [Matplaneta Fermat , 5-6 Lat Godzina 12.50-13.55 Piątek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65075/65075.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 14.05-15.35](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/65023/65023.ics)
 - [Matplaneta Pascal, 7 -8 Lat, Piątek Godz. 15.00-16.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/66792/66792.ics)
