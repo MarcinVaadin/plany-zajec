@@ -11,12 +11,6 @@
             "title": "Angielski Z Native Speakerem- Kl. I-Iii, Kl. Iv-V, Kl. Iv-Vii, Kl. Viii Poniedziałek"
         },
         {
-            "id": "64827",
-            "ics": "calendars/strefazajec/864/64827/64827.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64827",
-            "title": "Eksperymenty-Mały Edison Dzieci 6-10 Lat, Poniedziałek, 15:00-15:45"
-        },
-        {
             "id": "64738",
             "ics": "calendars/strefazajec/864/64738/64738.ics",
             "url": "https://www.strefazajec.pl/course/view/id/64738",
@@ -33,12 +27,6 @@
             "ics": "calendars/strefazajec/864/63817/63817.ics",
             "url": "https://www.strefazajec.pl/course/view/id/63817",
             "title": "Gitara Zajęcia Indywidualn-Wtorek"
-        },
-        {
-            "id": "65497",
-            "ics": "calendars/strefazajec/864/65497/65497.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/65497",
-            "title": "Gotujmania Zajęcia Kulinarne 7-18 Lat, Piątek, Godz. 17:00-18:30"
         },
         {
             "id": "63621",
@@ -119,12 +107,6 @@
             "title": "Lato W Gminie Turnus 4 - 28.07-01.08.2025 Teatralno-Filmowe Przygody"
         },
         {
-            "id": "64876",
-            "ics": "calendars/strefazajec/864/64876/64876.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64876",
-            "title": "Mała Akademia Dzieci 3-5 Lat, Poniedziałek, 16:00-16:45"
-        },
-        {
             "id": "63636",
             "ics": "calendars/strefazajec/864/63636/63636.ics",
             "url": "https://www.strefazajec.pl/course/view/id/63636",
@@ -155,30 +137,6 @@
             "title": "Pianino - Zajęcia Indywidualne Wtorek"
         },
         {
-            "id": "65491",
-            "ics": "calendars/strefazajec/864/65491/65491.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/65491",
-            "title": "Programowanie W Minecraft (Podstawowy) 6-9 Lat Wtorek Godz. 15:30-16:30"
-        },
-        {
-            "id": "65496",
-            "ics": "calendars/strefazajec/864/65496/65496.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/65496",
-            "title": "Programowanie W Minecraft (Zaawansowany) 6-10 Lat, Wtorek Godz. 16:40-17:40"
-        },
-        {
-            "id": "65499",
-            "ics": "calendars/strefazajec/864/65499/65499.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/65499",
-            "title": "Robotyka Wedo2, 4-6 Lat, Środa Godz. 16:40-17:30"
-        },
-        {
-            "id": "65507",
-            "ics": "calendars/strefazajec/864/65507/65507.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/65507",
-            "title": "Robotyka Wedo2, 6-8 Lat, Środa Godz. 15:30-16:30"
-        },
-        {
             "id": "70226",
             "ics": "calendars/strefazajec/864/70226/70226.ics",
             "url": "https://www.strefazajec.pl/course/view/id/70226",
@@ -195,12 +153,6 @@
             "ics": "calendars/strefazajec/864/63844/63844.ics",
             "url": "https://www.strefazajec.pl/course/view/id/63844",
             "title": "Studio Wokalne,Środa, Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20"
-        },
-        {
-            "id": "64782",
-            "ics": "calendars/strefazajec/864/64782/64782.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/64782",
-            "title": "Taniec Towarzyski Dla Par Dorośli (Grupa Zaawansowana), Wtorek Godz. 20:30-22:00"
         },
         {
             "id": "73218",
@@ -225,12 +177,6 @@
             "ics": "calendars/strefazajec/864/73220/73220.ics",
             "url": "https://www.strefazajec.pl/course/view/id/73220",
             "title": "Wakacyjny Taniec Ladies Dance 25.08-28.08.2025 Środa Godz. 18:00-19:00"
-        },
-        {
-            "id": "70794",
-            "ics": "calendars/strefazajec/864/70794/70794.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/70794",
-            "title": "Warsztaty Z Podstaw Projektowania Graficznego I Komiksu Dla Młodzieży, Czwartek 17.15-18.45"
         }
     ]
 }
