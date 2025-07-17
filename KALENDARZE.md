@@ -11,7 +11,6 @@
 - [Gitara Zajęcia Indywidualn-Czwartek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63838/63838.ics)
 - [Keyboard Zajecia Indywidualne-Środy](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63621/63621.ics)
 - [Klub Gier Planszowych-Czwartek 18:00-21:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64715/64715.ics)
-- [Kreaktywne Szycie, Dorośli, Gr. Średniozaawansowana, Poniedziałek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64456/64456.ics)
 - [Kreatywne Szycie 9-16 Lat, Kontynuacja, Wtorek, Godz. 15.00-16.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64967/64967.ics)
 - [Kreatywne Szycie 9-16 Lat, Kontynuacja, Środa, Godz. 15.30-17.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64415/64415.ics)
 - [Kreatywne Szycie, Dorośli, Gr. Zaawansowana, Czwartek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64467/64467.ics)
