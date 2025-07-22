@@ -6,17 +6,10 @@
 
 ## Dom Kultury Stare Babice
 
-- [Angielski Z Native Speakerem- Kl. I-Iii, Kl. Iv-V, Kl. Iv-Vii, Kl. Viii Poniedziałek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64842/64842.ics)
 - [Fotografia Od Podstaw Czwartek 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64738/64738.ics)
 - [Gitara Zajęcia Indywidualn-Czwartek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63838/63838.ics)
 - [Keyboard Zajecia Indywidualne-Środy](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63621/63621.ics)
 - [Klub Gier Planszowych-Czwartek 18:00-21:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64715/64715.ics)
-- [Kreatywne Szycie 9-16 Lat, Kontynuacja, Wtorek, Godz. 15.00-16.30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64967/64967.ics)
-- [Kreatywne Szycie 9-16 Lat, Kontynuacja, Środa, Godz. 15.30-17.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64415/64415.ics)
-- [Kreatywne Szycie, Dorośli, Gr. Zaawansowana, Czwartek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64467/64467.ics)
-- [Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana, Poniedziałek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/69460/69460.ics)
-- [Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana,Wtorek, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64502/64502.ics)
-- [Kreatywne Szycie, Dorośli, Gr. Średniozaawansowana-Kontynuacja, Środa, Godz. 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64483/64483.ics)
 - [Lato W Gminie Turnus 1 - 7-11.07.2025 Pasjonujące Wakacje](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71417/71417.ics)
 - [Lato W Gminie Turnus 2 - 14-18.07.2025 Podróże Małe I Duże](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71419/71419.ics)
 - [Lato W Gminie Turnus 3 - 21-25.07.2025 Akademia Sportu I Zdrowia](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71420/71420.ics)
