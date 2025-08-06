@@ -6,21 +6,6 @@
 
 ## Dom Kultury Stare Babice
 
-- [Fotografia Od Podstaw Czwartek 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64738/64738.ics)
-- [Gitara Zajęcia Indywidualn-Czwartek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63838/63838.ics)
-- [Keyboard Zajecia Indywidualne-Środy](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63621/63621.ics)
-- [Klub Gier Planszowych-Czwartek 18:00-21:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/64715/64715.ics)
-- [Lato W Gminie Turnus 1 - 7-11.07.2025 Pasjonujące Wakacje](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71417/71417.ics)
-- [Lato W Gminie Turnus 2 - 14-18.07.2025 Podróże Małe I Duże](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71419/71419.ics)
-- [Lato W Gminie Turnus 3 - 21-25.07.2025 Akademia Sportu I Zdrowia](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71420/71420.ics)
-- [Lato W Gminie Turnus 4 - 28.07-01.08.2025 Teatralno-Filmowe Przygody](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/71423/71423.ics)
-- [Perkusja - Zajęcia Indywidualne 9 Lat+, Czwartki](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63636/63636.ics)
-- [Perkusja - Zajęcia Indywidualne 9 Lat+, Wtorek, Godz.13:00-20:15](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63640/63640.ics)
-- [Studio Wokalne,Czwartek Grupa I:16:30-17:30, Grupa Ii:17:30-18:30, Grupa Iii: 18:30-19:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/70226/70226.ics)
-- [Studio Wokalne,Piątek Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63846/63846.ics)
-- [Studio Wokalne,Środa, Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/63844/63844.ics)
-- [Wakacyjne Warsztaty Taneczne Z Happy Dance Studio (11-15 Lat) 25-28.08.2025 Godz.18:00 Do 19:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/73218/73218.ics)
-- [Wakacyjne Warsztaty Taneczne Z Happy Dance Studio (4-6 Lat) 25-28.08.2025 Godz.16:15 Do 17:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/72608/72608.ics)
 - [Wakacyjne Warsztaty Taneczne Z Happy Dance Studio (7-10 Lat) 25-28.08.2025 Godz.17:00 Do 18:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/73209/73209.ics)
 - [Wakacyjny Taniec Ladies Dance 25.08-28.08.2025 Środa Godz. 18:00-19:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/73220/73220.ics)
 # Tygodniowe menu szkoły w Zielonkach-Parceli
