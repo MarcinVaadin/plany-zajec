@@ -1,4 +1,51 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250901T123500
+DTEND:20250901T125500
+DESCRIPTION:Rosół z makaronem na wywarze warzywno- mięsnym (zawiera sel
+ er\, jajka\, pszenica).\n\nKotlet drobiowy w chrupiącej panierce ( zawier
+ a pszenice \, jajka) \,ziemniaki z zieleniną. Buraczki na ciepło ( zawie
+ ra pszenice). Napój owocowy.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250902T123500
+DTEND:20250902T125500
+DESCRIPTION:Zupa z soczewicy z papryką na wywarze warzywnym(zawiera seler
+ \, pszenica ).\n\nRyż gotowany na sypko z jabłkiem prażonym z cynamonem
+ \, polane jogurtemWoda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250903T123500
+DTEND:20250903T125500
+DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
+ awiera seler\, mleko).\n\nSpaghetti razowe (zawiera pszenice)\, warzywne z
+  mięsem wieprzowym (zawiera seler) pomidorami\, z serem żółtym (zawier
+ a mleko). Dieta wegetariańska : Spaghetti razowe (zawiera pszenice)\, war
+ zywne (zawiera seler) z pomidorami\, z serem żółtym (zawiera mleko). Ko
+ mpot owocowy / Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250904T123500
+DTEND:20250904T125500
+DESCRIPTION:Zupa ogórkowa zabielana na wywarze warzywno – mięsnym (zaw
+ iera seler\, pszenica\, mleko).\n\nPieczone podudzie z kurczaka\, ziemniak
+ i z zieleniną \, surówka warzywna. Dieta wegetariańska : Kotlety z tofu
+  ( zawiera pszenicę \, jajka\, soja)\, ziemniaki z zieleniną \, surówka
+  warzywna . Kompot owocowy/ Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250905T123500
+DTEND:20250905T125500
+DESCRIPTION:Zupa krem z dyni zabielana na wywarze warzywnym z mlekiem koko
+ sowym (zawiera seler\, mleko).\n\nPaluszki rybne z mintaja w chrupiącej p
+ anierce (zawiera jajko\, pszenica\, ryba)\,ziemniaki z zieleniną \, march
+ ewka z groszkiem ( zawiera pszenice ) . Woda.
+END:VEVENT
 END:VCALENDAR
