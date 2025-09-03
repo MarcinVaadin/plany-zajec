@@ -1,0 +1,644 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kalendarz Szkolny//example.com//
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20250919T191500
+DTEND:20250919T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20250919T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20250922T190000
+DTEND:20250922T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20250922T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20250926T191500
+DTEND:20250926T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20250926T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20250929T190000
+DTEND:20250929T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20250929T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251003T191500
+DTEND:20251003T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251003T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251006T190000
+DTEND:20251006T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251006T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251010T191500
+DTEND:20251010T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251010T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251013T190000
+DTEND:20251013T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251013T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251017T191500
+DTEND:20251017T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251017T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251020T190000
+DTEND:20251020T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251020T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251024T191500
+DTEND:20251024T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251024T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251027T190000
+DTEND:20251027T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251027T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251031T191500
+DTEND:20251031T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251031T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251103T190000
+DTEND:20251103T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251103T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251107T191500
+DTEND:20251107T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251107T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251110T190000
+DTEND:20251110T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251110T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251114T191500
+DTEND:20251114T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251114T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251117T190000
+DTEND:20251117T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251117T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251121T191500
+DTEND:20251121T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251121T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251124T190000
+DTEND:20251124T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251124T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251128T191500
+DTEND:20251128T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251128T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251201T190000
+DTEND:20251201T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251201T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251205T191500
+DTEND:20251205T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251205T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251208T190000
+DTEND:20251208T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251208T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251212T191500
+DTEND:20251212T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251212T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20251215T190000
+DTEND:20251215T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20251215T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260109T191500
+DTEND:20260109T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260109T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260112T190000
+DTEND:20260112T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260112T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260116T191500
+DTEND:20260116T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260116T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260202T190000
+DTEND:20260202T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260202T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260206T191500
+DTEND:20260206T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260206T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260209T190000
+DTEND:20260209T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260209T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260213T191500
+DTEND:20260213T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260213T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260216T190000
+DTEND:20260216T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260216T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260220T191500
+DTEND:20260220T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260220T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260223T190000
+DTEND:20260223T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260223T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260227T191500
+DTEND:20260227T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260227T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260302T190000
+DTEND:20260302T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260302T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260306T191500
+DTEND:20260306T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260306T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260309T190000
+DTEND:20260309T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260309T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260313T191500
+DTEND:20260313T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260313T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260316T190000
+DTEND:20260316T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260316T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260320T191500
+DTEND:20260320T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260320T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260323T190000
+DTEND:20260323T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260323T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260327T191500
+DTEND:20260327T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260327T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260330T190000
+DTEND:20260330T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260330T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260410T191500
+DTEND:20260410T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260410T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260413T190000
+DTEND:20260413T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260413T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260417T191500
+DTEND:20260417T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260417T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260420T190000
+DTEND:20260420T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260420T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260424T191500
+DTEND:20260424T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260424T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260427T190000
+DTEND:20260427T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260427T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260504T190000
+DTEND:20260504T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260504T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260508T191500
+DTEND:20260508T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260508T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260511T190000
+DTEND:20260511T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260511T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260515T191500
+DTEND:20260515T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260515T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260518T190000
+DTEND:20260518T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260518T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260522T191500
+DTEND:20260522T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260522T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260525T190000
+DTEND:20260525T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260525T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260529T191500
+DTEND:20260529T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260529T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260601T190000
+DTEND:20260601T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260601T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260605T191500
+DTEND:20260605T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260605T184500
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260608T190000
+DTEND:20260608T203000
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260608T183000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
+ młodzieży i dorosłych\, poniedziałek i piątek
+DTSTART:20260612T191500
+DTEND:20260612T204500
+BEGIN:VALARM
+ACTION:audio
+TRIGGER:20260612T184500
+END:VALARM
+END:VEVENT
+END:VCALENDAR

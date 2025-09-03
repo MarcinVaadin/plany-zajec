@@ -5,16 +5,388 @@
     "address": "\n        ul. Południowa 2a, 05-082 Zielonki-Parcela. NIP: 1182168472      ",
     "courses": [
         {
+            "id": "77714",
+            "ics": "calendars/strefazajec/864/77714/77714.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77714",
+            "title": "Angielski Z Native Speakerem- Kl. I-Iii, Kl. Iv-V, Kl. Iv-Vii, Kl. Viii Poniedziałek"
+        },
+        {
+            "id": "77026",
+            "ics": "calendars/strefazajec/864/77026/77026.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77026",
+            "title": "Balet Dla Dzieci 3-4 Lata Piątek Godz.17:00-17.45 (45Min)"
+        },
+        {
+            "id": "76961",
+            "ics": "calendars/strefazajec/864/76961/76961.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76961",
+            "title": "Balet Dla Dzieci 5-7 Lat Poniedziałek Godz.16:30-17.15 (45Min)"
+        },
+        {
+            "id": "77008",
+            "ics": "calendars/strefazajec/864/77008/77008.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77008",
+            "title": "Balet Dla Dzieci 7+ Lat Poniedziałek Godz.17:15-18.15 (60Min)"
+        },
+        {
+            "id": "77061",
+            "ics": "calendars/strefazajec/864/77061/77061.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77061",
+            "title": "Balet Grupa Konkursowa Pro 9+ Lat Piątek Godz.17:45-18.45 (60Min)"
+        },
+        {
+            "id": "79697",
+            "ics": "calendars/strefazajec/864/79697/79697.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79697",
+            "title": "Breakdance 10+ Wtorek, Godz. 18:00-19:00"
+        },
+        {
+            "id": "77810",
+            "ics": "calendars/strefazajec/864/77810/77810.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77810",
+            "title": "Breakdance Dla Dzieci 7-9 Lat, Wtorek, Godz. 15:30-16:30"
+        },
+        {
+            "id": "77844",
+            "ics": "calendars/strefazajec/864/77844/77844.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77844",
+            "title": "Breakdance Dla Dzieci 7-9 Lat, Wtorek, Godz. 17:00-18:00"
+        },
+        {
             "id": "78421",
             "ics": "calendars/strefazajec/864/78421/78421.ics",
             "url": "https://www.strefazajec.pl/course/view/id/78421",
             "title": "Budujemy Z Lego - Kościół Pw. Św. Wincentego Ferrariusza W Borzęcinie Dużym (7-14 Lat)"
         },
         {
+            "id": "77741",
+            "ics": "calendars/strefazajec/864/77741/77741.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77741",
+            "title": "Było Sobie Miasto - Warsztaty Architektoniczne 7-12 Lat, Sobota Godz. 10:30-11:30"
+        },
+        {
+            "id": "79523",
+            "ics": "calendars/strefazajec/864/79523/79523.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79523",
+            "title": "Bębny Afrykańskie ,,Djembe\" Wtorek 18.00-20.00"
+        },
+        {
+            "id": "77542",
+            "ics": "calendars/strefazajec/864/77542/77542.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77542",
+            "title": "Capoeira Grupa Początkująca Zajęcia Dla Dzieci 7 Lat+, Młodzieży I Dorosłych, Poniedziałek I Piątek"
+        },
+        {
+            "id": "77629",
+            "ics": "calendars/strefazajec/864/77629/77629.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77629",
+            "title": "Capoeira Grupa Średniozaawansowana Zajęcia Dla Dzieci 7 Lat+, Młodzieży I Dorosłych, Poniedziałek I Piątek"
+        },
+        {
+            "id": "77039",
+            "ics": "calendars/strefazajec/864/77039/77039.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77039",
+            "title": "Ceramika Dla Dorosłych Czwartek Godz. 18.00-20.30"
+        },
+        {
+            "id": "77156",
+            "ics": "calendars/strefazajec/864/77156/77156.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77156",
+            "title": "Ceramika Dla Dorosłych Sobota Godz 10.00 - 12.30"
+        },
+        {
+            "id": "77003",
+            "ics": "calendars/strefazajec/864/77003/77003.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77003",
+            "title": "Ceramika Dla Dorosłych Wtorek Godz. 17:00-19.30"
+        },
+        {
+            "id": "77020",
+            "ics": "calendars/strefazajec/864/77020/77020.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77020",
+            "title": "Ceramika Dla Dorosłych Środa Godz. 17:00-19.30"
+        },
+        {
+            "id": "77085",
+            "ics": "calendars/strefazajec/864/77085/77085.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77085",
+            "title": "Ceramika Dla Dzieci (10-15Lat) Czwartek Godz. 15.40-16.40"
+        },
+        {
+            "id": "76994",
+            "ics": "calendars/strefazajec/864/76994/76994.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76994",
+            "title": "Ceramika Dla Dzieci (10-15Lat) Wtorek Godz. 15.40-16.40"
+        },
+        {
+            "id": "77072",
+            "ics": "calendars/strefazajec/864/77072/77072.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77072",
+            "title": "Ceramika Dla Dzieci (10-15Lat) Środa Godz. 15.40-16.40"
+        },
+        {
+            "id": "77076",
+            "ics": "calendars/strefazajec/864/77076/77076.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77076",
+            "title": "Ceramika Dla Dzieci (6-9 Lat) Czwartek Godz. 13.15-14.15"
+        },
+        {
+            "id": "77081",
+            "ics": "calendars/strefazajec/864/77081/77081.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77081",
+            "title": "Ceramika Dla Dzieci (6-9 Lat) Czwartek Godz. 14.20-15.20"
+        },
+        {
+            "id": "79641",
+            "ics": "calendars/strefazajec/864/79641/79641.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79641",
+            "title": "Ceramika Dla Dzieci (6-9 Lat) Czwartek Godz. 16.50-17.50"
+        },
+        {
+            "id": "76822",
+            "ics": "calendars/strefazajec/864/76822/76822.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76822",
+            "title": "Ceramika Dla Dzieci (6-9 Lat) Wtorek Godz. 13.15-14:15"
+        },
+        {
+            "id": "76980",
+            "ics": "calendars/strefazajec/864/76980/76980.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76980",
+            "title": "Ceramika Dla Dzieci (6-9 Lat) Wtorek Godz. 14.20-15.20"
+        },
+        {
+            "id": "77055",
+            "ics": "calendars/strefazajec/864/77055/77055.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77055",
+            "title": "Ceramika Dla Dzieci (6-9 Lat) Środa Godz. 13.15-14.15"
+        },
+        {
+            "id": "77068",
+            "ics": "calendars/strefazajec/864/77068/77068.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77068",
+            "title": "Ceramika Dla Dzieci (6-9 Lat) Środa Godz. 14.20-15.20"
+        },
+        {
+            "id": "76753",
+            "ics": "calendars/strefazajec/864/76753/76753.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76753",
+            "title": "Gitara Zajęcia Indywidualn Poniedziałek"
+        },
+        {
+            "id": "76779",
+            "ics": "calendars/strefazajec/864/76779/76779.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76779",
+            "title": "Gitara Zajęcia Indywidualn Środa"
+        },
+        {
+            "id": "76792",
+            "ics": "calendars/strefazajec/864/76792/76792.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76792",
+            "title": "Gitara Zajęcia Indywidualne Czwartek"
+        },
+        {
+            "id": "77070",
+            "ics": "calendars/strefazajec/864/77070/77070.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77070",
+            "title": "Joga Powięziowa, 16 Lat+ Poniedziałek Godz. 19:00-20:00 I Środa Godz. 19:05-20:05"
+        },
+        {
+            "id": "77066",
+            "ics": "calendars/strefazajec/864/77066/77066.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77066",
+            "title": "Klub Gier Planszowych-Czwartek 18:00-21:00"
+        },
+        {
+            "id": "79632",
+            "ics": "calendars/strefazajec/864/79632/79632.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79632",
+            "title": "Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6- 9 Lat, Ii Gr. 10-13 Lat, Iii Gr.14-17 Lat"
+        },
+        {
+            "id": "76533",
+            "ics": "calendars/strefazajec/864/76533/76533.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76533",
+            "title": "Perkusja - Zajęcia Indywidualne 9 Lat+, Wtorek"
+        },
+        {
+            "id": "76516",
+            "ics": "calendars/strefazajec/864/76516/76516.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76516",
+            "title": "Perkusja - Zajęcia Indywidualne 9 Lat+, Środa"
+        },
+        {
+            "id": "76654",
+            "ics": "calendars/strefazajec/864/76654/76654.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/76654",
+            "title": "Pianino - Zajęcia Indywidualne Poniedziałek"
+        },
+        {
+            "id": "77734",
+            "ics": "calendars/strefazajec/864/77734/77734.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77734",
+            "title": "Roboprzedszkole - Robotyka Dla Przedszkolaków 5-6 Lat, Sobota Godz. 11:45-12:45 (1X/Miesiącu)"
+        },
+        {
+            "id": "77087",
+            "ics": "calendars/strefazajec/864/77087/77087.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77087",
+            "title": "Rysunek I Malarstwo Młodzież 12-17 Lat, Poniedziałek, Godz. 18:00-19:30"
+        },
+        {
+            "id": "78823",
+            "ics": "calendars/strefazajec/864/78823/78823.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/78823",
+            "title": "Studio Wokalne,Piątek Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20"
+        },
+        {
+            "id": "78808",
+            "ics": "calendars/strefazajec/864/78808/78808.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/78808",
+            "title": "Studio Wokalne,Środa, Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20"
+        },
+        {
+            "id": "78895",
+            "ics": "calendars/strefazajec/864/78895/78895.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/78895",
+            "title": "Studio Wokalne-Lekcje Indywidualne,Czwartek Od Godz.14.00"
+        },
+        {
+            "id": "77462",
+            "ics": "calendars/strefazajec/864/77462/77462.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77462",
+            "title": "Szachy I-V Klasa,Wtorek, Godz. 12.55-13.55"
+        },
+        {
+            "id": "77533",
+            "ics": "calendars/strefazajec/864/77533/77533.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77533",
+            "title": "Szachy I-V Klasa,Wtorek, Godz. 14.05-15.05"
+        },
+        {
+            "id": "77221",
+            "ics": "calendars/strefazajec/864/77221/77221.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77221",
+            "title": "Taniec Baby-Dance Happy Dance Dla 2-3 Latków Z Opiekunem, Sobota, Godz. 9:30 10:00"
+        },
+        {
+            "id": "77416",
+            "ics": "calendars/strefazajec/864/77416/77416.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77416",
+            "title": "Taniec Lekcje Indywidualne Dla Duetów I Trio Środa Gr.I 15.00, Gr.Ii 15.45-16.30,Gr.Iii 16.30-17.15"
+        },
+        {
+            "id": "77180",
+            "ics": "calendars/strefazajec/864/77180/77180.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77180",
+            "title": "Taniec Nowoczesny 4-6 Lat Sobota Przedszkolaki Happy Dance Godz. 10:00-10:45"
+        },
+        {
+            "id": "77239",
+            "ics": "calendars/strefazajec/864/77239/77239.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77239",
+            "title": "Taniec Nowoczesny 4-6 Lat Środa Przedszkolaki Happy Dance Godz. 16:45-17:30"
+        },
+        {
+            "id": "77195",
+            "ics": "calendars/strefazajec/864/77195/77195.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77195",
+            "title": "Taniec Nowoczesny Happy Dance Dzieci 7-10 Lat Sobota Godz. 10:45-11:30"
+        },
+        {
+            "id": "77236",
+            "ics": "calendars/strefazajec/864/77236/77236.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77236",
+            "title": "Taniec Nowoczesny Happy Dance Dzieci 7-10 Lat Środa Godz. 16:00-16:45"
+        },
+        {
+            "id": "77192",
+            "ics": "calendars/strefazajec/864/77192/77192.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77192",
+            "title": "Taniec Nowoczesny Happy Dance Dzieci 7-10 Lat Środa Godz. 16:00-16:45"
+        },
+        {
+            "id": "77403",
+            "ics": "calendars/strefazajec/864/77403/77403.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77403",
+            "title": "Taniec Nowoczesny Od Podstaw Happy Dance Środa Dzieci 11-15 Lat Godz. 17:15-18:00"
+        },
+        {
+            "id": "79715",
+            "ics": "calendars/strefazajec/864/79715/79715.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79715",
+            "title": "Warsztaty Linorytu Ogrody Sztuki, Środa, 10 Września 2025 R., Godz. 16.00 – 19.00"
+        },
+        {
+            "id": "79669",
+            "ics": "calendars/strefazajec/864/79669/79669.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79669",
+            "title": "Warsztaty Malowania Na Jedwabiu Ogrody Sztuki, Środa, 10 Września 2025 Godz. 18.00-20.00"
+        },
+        {
+            "id": "79723",
+            "ics": "calendars/strefazajec/864/79723/79723.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79723",
+            "title": "Warsztaty Malowania Śpiewających Aniołów Ogrody Sztuki, Czwartek, 11 Września 2025 Godz. 17.00-20.00"
+        },
+        {
             "id": "79320",
             "ics": "calendars/strefazajec/864/79320/79320.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79320",
             "title": "Warsztaty Po Spektaklu Zmień Się , Sobota, 27 Września 2025 R., Godz. 16.00 I 18.30"
+        },
+        {
+            "id": "79694",
+            "ics": "calendars/strefazajec/864/79694/79694.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79694",
+            "title": "Warsztaty Tkactwa Ogrody Sztuki, Wtorek, 9 Września 2025 R., Godz. 17.00 – 20.00"
+        },
+        {
+            "id": "77169",
+            "ics": "calendars/strefazajec/864/77169/77169.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77169",
+            "title": "Warsztaty Z Podstaw Projektowania Graficznego I Komiksu Dla Młodzieży, Czwartek 18.15-19.45"
+        },
+        {
+            "id": "77766",
+            "ics": "calendars/strefazajec/864/77766/77766.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77766",
+            "title": "Zajęcia Chóralne Dla Dorosłych, Poniedziałek I Czwartek, Godz.19.30, Aprobata"
+        },
+        {
+            "id": "77789",
+            "ics": "calendars/strefazajec/864/77789/77789.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77789",
+            "title": "Zajęcia Chóralne Dla Dzieci 6-9 Lat, Poniedziałek, Godz.15.30-16:30, Aprobata Kids"
+        },
+        {
+            "id": "77790",
+            "ics": "calendars/strefazajec/864/77790/77790.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77790",
+            "title": "Zajęcia Chóralne Dla Młodzieży 10-16 Lat, Poniedziałek, Godz.16.40-17:40, Apropos"
+        },
+        {
+            "id": "77214",
+            "ics": "calendars/strefazajec/864/77214/77214.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77214",
+            "title": "Zajęcia Plastyczne 7-11 Lat 16.00-17.00"
+        },
+        {
+            "id": "77228",
+            "ics": "calendars/strefazajec/864/77228/77228.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77228",
+            "title": "Zespół Dance To The Beat Happy Dance 11-17 Lat Środa Godz. 18.30-19.45 Sobota 12.30-13.45"
+        },
+        {
+            "id": "77378",
+            "ics": "calendars/strefazajec/864/77378/77378.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77378",
+            "title": "Zespół Dance To The Beat Happy Dance Liceum +(Od 15 Lat) Środa Godz.18.00-19.00 Oraz Sobota 13.45-14.45"
+        },
+        {
+            "id": "77198",
+            "ics": "calendars/strefazajec/864/77198/77198.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77198",
+            "title": "Zespół Dance To The Beat Junior Happy Dance 8-12 Lat Środa Godz. 17:30-18:30 I Sobota 11:30-12:30"
         }
     ]
 }
