@@ -197,6 +197,12 @@
             "title": "Klub Gier Planszowych-Czwartek 18:00-21:00"
         },
         {
+            "id": "79485",
+            "ics": "calendars/strefazajec/864/79485/79485.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79485",
+            "title": "Kurs Ósmoklasisty - Matematyka, Sobota (I Grupa Godz. 8:45-10:15, Ii Grupa Godz. 10:30-12:00"
+        },
+        {
             "id": "79632",
             "ics": "calendars/strefazajec/864/79632/79632.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79632",
@@ -269,6 +275,12 @@
             "title": "Taniec Baby-Dance Happy Dance Dla 2-3 Latków Z Opiekunem, Sobota, Godz. 9:30 10:00"
         },
         {
+            "id": "79924",
+            "ics": "calendars/strefazajec/864/79924/79924.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79924",
+            "title": "Taniec Ladies Dance Środa Godz. 19:45-20:45"
+        },
+        {
             "id": "77416",
             "ics": "calendars/strefazajec/864/77416/77416.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77416",
@@ -296,12 +308,6 @@
             "id": "77236",
             "ics": "calendars/strefazajec/864/77236/77236.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77236",
-            "title": "Taniec Nowoczesny Happy Dance Dzieci 7-10 Lat Środa Godz. 16:00-16:45"
-        },
-        {
-            "id": "77192",
-            "ics": "calendars/strefazajec/864/77192/77192.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/77192",
             "title": "Taniec Nowoczesny Happy Dance Dzieci 7-10 Lat Środa Godz. 16:00-16:45"
         },
         {
@@ -374,13 +380,7 @@
             "id": "77228",
             "ics": "calendars/strefazajec/864/77228/77228.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77228",
-            "title": "Zespół Dance To The Beat Happy Dance 11-17 Lat Środa Godz. 18.30-19.45 Sobota 12.30-13.45"
-        },
-        {
-            "id": "77378",
-            "ics": "calendars/strefazajec/864/77378/77378.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/77378",
-            "title": "Zespół Dance To The Beat Happy Dance Liceum +(Od 15 Lat) Środa Godz.18.00-19.00 Oraz Sobota 13.45-14.45"
+            "title": "Zespół Dance To The Beat Happy Dance 18:30-19:45 Oraz W Soboty W Godz. 12:30-13:45"
         },
         {
             "id": "77198",
