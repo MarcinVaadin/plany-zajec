@@ -38,6 +38,8 @@
 - [Gitara Zajęcia Indywidualne Czwartek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/76792/76792.ics)
 - [Joga Powięziowa, 16 Lat+ Poniedziałek Godz. 19:00-20:00 I Środa Godz. 19:05-20:05](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77070/77070.ics)
 - [Klub Gier Planszowych-Czwartek 18:00-21:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77066/77066.ics)
+- [Korki Z Polaka-Dla Klas Siódmych Piątek 17.00-18.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/80110/80110.ics)
+- [Korki Z Polaka-Przygotowanie Do Testu Ósmoklasisty Piątek 18.10-19.10](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/79873/79873.ics)
 - [Kurs Ósmoklasisty - Matematyka, Sobota (I Grupa Godz. 8:45-10:15, Ii Grupa Godz. 10:30-12:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/79485/79485.ics)
 - [Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6- 9 Lat, Ii Gr. 10-13 Lat, Iii Gr.14-17 Lat](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/79632/79632.ics)
 - [Perkusja - Zajęcia Indywidualne 9 Lat+, Wtorek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/76533/76533.ics)
@@ -45,6 +47,7 @@
 - [Pianino - Zajęcia Indywidualne Poniedziałek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/76654/76654.ics)
 - [Roboprzedszkole - Robotyka Dla Przedszkolaków 5-6 Lat, Sobota Godz. 11:45-12:45 (1X/Miesiącu)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77734/77734.ics)
 - [Rysunek I Malarstwo Młodzież 12-17 Lat, Poniedziałek, Godz. 18:00-19:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77087/77087.ics)
+- [Saksofon,Klarnet,Flet Wtorek Godz.12.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/79552/79552.ics)
 - [Studio Wokalne,Piątek Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/78823/78823.ics)
 - [Studio Wokalne,Środa, Grupa I:14:00-15:00, Grupa Ii:15:05-16:05, Grupa Iii: 16:10-17:10 Iv 17:15-18:15 V 18:20-19:20](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/78808/78808.ics)
 - [Studio Wokalne-Lekcje Indywidualne,Czwartek Od Godz.14.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/78895/78895.ics)
@@ -68,7 +71,8 @@
 - [Zajęcia Chóralne Dla Dzieci 6-9 Lat, Poniedziałek, Godz.15.30-16:30, Aprobata Kids](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77789/77789.ics)
 - [Zajęcia Chóralne Dla Młodzieży 10-16 Lat, Poniedziałek, Godz.16.40-17:40, Apropos](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77790/77790.ics)
 - [Zajęcia Plastyczne 7-11 Lat 16.00-17.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77214/77214.ics)
-- [Zespół Dance To The Beat Happy Dance 18:30-19:45 Oraz W Soboty W Godz. 12:30-13:45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77228/77228.ics)
+- [Zespół Dance To The Beat Happy Dance Liceum +(Od 15 Lat) Środa Godz.18.00-19.00 Oraz Sobota 13.45-14.45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77378/77378.ics)
+- [Zespół Dance To The Beat Happy Dance Środa 18:30-19:45 Oraz W Soboty W Godz. 12:30-13:45](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77228/77228.ics)
 - [Zespół Dance To The Beat Junior Happy Dance 8-12 Lat Środa Godz. 17:30-18:30 I Sobota 11:30-12:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77198/77198.ics)
 # Tygodniowe menu szkoły w Zielonkach-Parceli
 
