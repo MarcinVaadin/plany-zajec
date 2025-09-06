@@ -41,16 +41,16 @@
             "title": "Breakdance 10+ Wtorek, Godz. 18:00-19:00"
         },
         {
-            "id": "77810",
-            "ics": "calendars/strefazajec/864/77810/77810.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/77810",
-            "title": "Breakdance Dla Dzieci 7-9 Lat, Wtorek, Godz. 15:30-16:30"
-        },
-        {
             "id": "77844",
             "ics": "calendars/strefazajec/864/77844/77844.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77844",
             "title": "Breakdance Dla Dzieci 7-9 Lat, Wtorek, Godz. 17:00-18:00"
+        },
+        {
+            "id": "77810",
+            "ics": "calendars/strefazajec/864/77810/77810.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77810",
+            "title": "Breakdance Dla Dzieci 7-9 Lat,(Lokalizacja Koczargi Stare Szkoła Podstawowa) Wtorek, Godz. 15:30-16:30"
         },
         {
             "id": "78421",
@@ -185,6 +185,12 @@
             "title": "Gitara Zajęcia Indywidualne Czwartek"
         },
         {
+            "id": "80132",
+            "ics": "calendars/strefazajec/864/80132/80132.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80132",
+            "title": "Gordonki-Zajęcia Gordonowskie Dla Maluszków Sobota Godzina 9.00-9.30"
+        },
+        {
             "id": "77070",
             "ics": "calendars/strefazajec/864/77070/77070.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77070",
@@ -215,10 +221,52 @@
             "title": "Kurs Ósmoklasisty - Matematyka, Sobota (I Grupa Godz. 8:45-10:15, Ii Grupa Godz. 10:30-12:00"
         },
         {
+            "id": "80154",
+            "ics": "calendars/strefazajec/864/80154/80154.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80154",
+            "title": "Logorytmika Dla Maluszków Sobota Godzina 9.40-10.10"
+        },
+        {
             "id": "79632",
             "ics": "calendars/strefazajec/864/79632/79632.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79632",
             "title": "Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6- 9 Lat, Ii Gr. 10-13 Lat, Iii Gr.14-17 Lat"
+        },
+        {
+            "id": "80162",
+            "ics": "calendars/strefazajec/864/80162/80162.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80162",
+            "title": "Malowanie Dźwiękiem 3-6 Lat Sobota Godzina 11.00-11.30"
+        },
+        {
+            "id": "80212",
+            "ics": "calendars/strefazajec/864/80212/80212.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80212",
+            "title": "Matplaneta Euler, 11-12 Lat 16:30-18:10 Środa"
+        },
+        {
+            "id": "79906",
+            "ics": "calendars/strefazajec/864/79906/79906.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79906",
+            "title": "Matplaneta Fermat, 4-7 Lat, Środa Godz. 13:00-14:40"
+        },
+        {
+            "id": "80127",
+            "ics": "calendars/strefazajec/864/80127/80127.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80127",
+            "title": "Matplaneta Pascal, 7-8 Lat, Środy Godz. 14.45-16.25"
+        },
+        {
+            "id": "80149",
+            "ics": "calendars/strefazajec/864/80149/80149.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80149",
+            "title": "Matplaneta Pitagoras, 9-10 Lat 15:00-16:40 Piątki"
+        },
+        {
+            "id": "80158",
+            "ics": "calendars/strefazajec/864/80158/80158.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80158",
+            "title": "Muzyka Smyka 3-6 Lat Sobota Godzina 10.20-10.50"
         },
         {
             "id": "76533",
@@ -398,7 +446,7 @@
             "id": "77378",
             "ics": "calendars/strefazajec/864/77378/77378.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77378",
-            "title": "Zespół Dance To The Beat Happy Dance Liceum +(Od 15 Lat) Środa Godz.18.00-19.00 Oraz Sobota 13.45-14.45"
+            "title": "Zespół Dance To The Beat Happy Dance Liceum +(Od 15 Lat) Sobota 13.45-14.45"
         },
         {
             "id": "77228",
