@@ -14,7 +14,6 @@
 - [Breakdance 10+ Wtorek, Godz. 18:00-19:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/79697/79697.ics)
 - [Breakdance Dla Dzieci 7-9 Lat, Wtorek, Godz. 17:00-18:00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77844/77844.ics)
 - [Breakdance Dla Dzieci 7-9 Lat,(Lokalizacja Koczargi Stare Szkoła Podstawowa) Wtorek, Godz. 15:30-16:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77810/77810.ics)
-- [Budujemy Z Lego - Kościół Pw. Św. Wincentego Ferrariusza W Borzęcinie Dużym (7-14 Lat)](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/78421/78421.ics)
 - [Było Sobie Miasto - Warsztaty Architektoniczne 7-12 Lat, Sobota Godz. 10:30-11:30](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77741/77741.ics)
 - [Bębny Afrykańskie ,,Djembe" Wtorek 18.00-20.00](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/79523/79523.ics)
 - [Capoeira Grupa Początkująca Zajęcia Dla Dzieci 7 Lat+, Młodzieży I Dorosłych, Poniedziałek I Piątek](https://raw.githubusercontent.com/MarcinVaadin/plany-zajec/refs/heads/main/calendars/strefazajec/864/77542/77542.ics)
