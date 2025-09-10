@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
-SUMMARY:Warsztaty po spektaklu ZMIEŃ SIĘ \, sobota\, 27 września 2025 r
- .\, godz. 16.00 i 18.30
+SUMMARY:Warsztaty po spektaklu ZMIEŃ SIĘ 6-12 lat \, sobota\, 27 wrześn
+ ia 2025 r.\, godz. 16.00 i 18.30
 DTSTART:20250927T160000
 DTEND:20250927T170000
 BEGIN:VALARM
@@ -12,8 +12,8 @@ TRIGGER:20250927T153000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Warsztaty po spektaklu ZMIEŃ SIĘ \, sobota\, 27 września 2025 r
- .\, godz. 16.00 i 18.30
+SUMMARY:Warsztaty po spektaklu ZMIEŃ SIĘ 6-12 lat \, sobota\, 27 wrześn
+ ia 2025 r.\, godz. 16.00 i 18.30
 DTSTART:20250927T183000
 DTEND:20250927T193000
 BEGIN:VALARM

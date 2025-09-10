@@ -185,6 +185,12 @@
             "title": "Gordonki-Zajęcia Gordonowskie Dla Maluszków Sobota Godzina 9.00-9.30"
         },
         {
+            "id": "80337",
+            "ics": "calendars/strefazajec/864/80337/80337.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80337",
+            "title": "Ikona Od Podstaw (Dorośli) Czwartek Godz. 17:00-19:30"
+        },
+        {
             "id": "77070",
             "ics": "calendars/strefazajec/864/77070/77070.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77070",
@@ -200,7 +206,7 @@
             "id": "80110",
             "ics": "calendars/strefazajec/864/80110/80110.ics",
             "url": "https://www.strefazajec.pl/course/view/id/80110",
-            "title": "Korki Z Polaka-Dla Klas Siódmych Piątek 17.00-18.00"
+            "title": "Korki Z Polaka-Dla Klas Siódmych I Ósmych Piątek 17.00-18.00"
         },
         {
             "id": "79873",
@@ -263,6 +269,12 @@
             "title": "Muzyka Smyka 3-6 Lat Sobota Godzina 10.20-10.50"
         },
         {
+            "id": "80214",
+            "ics": "calendars/strefazajec/864/80214/80214.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80214",
+            "title": "Perkusja - Zajęcia Indywidualne 9 Lat+, Poniedziałek"
+        },
+        {
             "id": "76533",
             "ics": "calendars/strefazajec/864/76533/76533.ics",
             "url": "https://www.strefazajec.pl/course/view/id/76533",
@@ -299,6 +311,24 @@
             "title": "Saksofon,Klarnet,Flet Wtorek Godz.12.00"
         },
         {
+            "id": "80347",
+            "ics": "calendars/strefazajec/864/80347/80347.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80347",
+            "title": "Solo Latino Dorośli (Grupa Początkująca) Poniedziałek Godz. 19:30-20:30"
+        },
+        {
+            "id": "80346",
+            "ics": "calendars/strefazajec/864/80346/80346.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80346",
+            "title": "Solo Latino Dorośli (Grupa Zaawansowana) Czwartek Godz. 19:00-20:30"
+        },
+        {
+            "id": "80355",
+            "ics": "calendars/strefazajec/864/80355/80355.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80355",
+            "title": "Solo Latino Dorośli (Grupa Średniozaawansowana) Wtorek Godz. 18:30-19:30"
+        },
+        {
             "id": "78823",
             "ics": "calendars/strefazajec/864/78823/78823.ics",
             "url": "https://www.strefazajec.pl/course/view/id/78823",
@@ -326,7 +356,7 @@
             "id": "77533",
             "ics": "calendars/strefazajec/864/77533/77533.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77533",
-            "title": "Szachy I-V Klasa,Wtorek, Godz. 14.05-15.05"
+            "title": "Szachy I-V Klasa,Wtorek, Godz. 14.05-15.05 Grupa Kontynuująca"
         },
         {
             "id": "77221",
@@ -377,6 +407,36 @@
             "title": "Taniec Nowoczesny Od Podstaw Happy Dance Środa Dzieci 11-15 Lat Godz. 17:15-18:00"
         },
         {
+            "id": "80408",
+            "ics": "calendars/strefazajec/864/80408/80408.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80408",
+            "title": "Taniec Towarzyski Dla Par Dorośli (Grupa Początkująca), Poniedziałek Godz. 20:30-21:30"
+        },
+        {
+            "id": "80404",
+            "ics": "calendars/strefazajec/864/80404/80404.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80404",
+            "title": "Taniec Towarzyski Dla Par Dorośli (Grupa Turniejowa), Środa Godz. 20:50-21:50 I Piątek Godz. 20:25-21:55"
+        },
+        {
+            "id": "80403",
+            "ics": "calendars/strefazajec/864/80403/80403.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80403",
+            "title": "Taniec Towarzyski Dla Par Dorośli (Grupa Zaawansowana), Wtorek Godz. 20:30-21:50"
+        },
+        {
+            "id": "80402",
+            "ics": "calendars/strefazajec/864/80402/80402.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80402",
+            "title": "Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Czwartek Godz. 20:30-21:50"
+        },
+        {
+            "id": "79498",
+            "ics": "calendars/strefazajec/864/79498/79498.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/79498",
+            "title": "Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Wtorek Godz. 19:30-20:30"
+        },
+        {
             "id": "79715",
             "ics": "calendars/strefazajec/864/79715/79715.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79715",
@@ -398,7 +458,7 @@
             "id": "79320",
             "ics": "calendars/strefazajec/864/79320/79320.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79320",
-            "title": "Warsztaty Po Spektaklu Zmień Się , Sobota, 27 Września 2025 R., Godz. 16.00 I 18.30"
+            "title": "Warsztaty Po Spektaklu Zmień Się 6-12 Lat , Sobota, 27 Września 2025 R., Godz. 16.00 I 18.30"
         },
         {
             "id": "79694",
