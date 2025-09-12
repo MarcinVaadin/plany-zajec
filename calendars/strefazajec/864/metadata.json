@@ -227,6 +227,12 @@
             "title": "Logorytmika Dla Maluszków Sobota Godzina 9.40-10.10"
         },
         {
+            "id": "80629",
+            "ics": "calendars/strefazajec/864/80629/80629.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80629",
+            "title": "Magia Teatru --Bezpłatne Pokazowe Zajęcia Teatralne Grupa.14-17 Lat Środa 17 Września"
+        },
+        {
             "id": "79632",
             "ics": "calendars/strefazajec/864/79632/79632.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79632",
@@ -287,10 +293,22 @@
             "title": "Perkusja - Zajęcia Indywidualne 9 Lat+, Środa"
         },
         {
+            "id": "80646",
+            "ics": "calendars/strefazajec/864/80646/80646.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80646",
+            "title": "Pianino - Zajęcia Indywidualne Piątek"
+        },
+        {
             "id": "76654",
             "ics": "calendars/strefazajec/864/76654/76654.ics",
             "url": "https://www.strefazajec.pl/course/view/id/76654",
             "title": "Pianino - Zajęcia Indywidualne Poniedziałek"
+        },
+        {
+            "id": "80575",
+            "ics": "calendars/strefazajec/864/80575/80575.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80575",
+            "title": "Pianino - Zajęcia Indywidualne Wtorek"
         },
         {
             "id": "77734",
@@ -329,6 +347,18 @@
             "title": "Solo Latino Dorośli (Grupa Średniozaawansowana) Wtorek Godz. 18:30-19:30"
         },
         {
+            "id": "80510",
+            "ics": "calendars/strefazajec/864/80510/80510.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80510",
+            "title": "Somaflow-TwóRczy Musical 7-12 Lat Piątek Godz.15.30-18.00"
+        },
+        {
+            "id": "80519",
+            "ics": "calendars/strefazajec/864/80519/80519.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80519",
+            "title": "Stolarka-Wkręceni W Drewno Warsztaty Stolarskie Dla Dzieci 7-12 Lat, Piątek, Godz. 17:00-19:00"
+        },
+        {
             "id": "78823",
             "ics": "calendars/strefazajec/864/78823/78823.ics",
             "url": "https://www.strefazajec.pl/course/view/id/78823",
@@ -359,6 +389,18 @@
             "title": "Szachy I-V Klasa,Wtorek, Godz. 14.05-15.05 Grupa Kontynuująca"
         },
         {
+            "id": "80483",
+            "ics": "calendars/strefazajec/864/80483/80483.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80483",
+            "title": "Szkoła Filmowa Akcja! Grupa Młodsza 7-11 Lat ,,Filmowcy'' Sobota Godz.10.00-14.00"
+        },
+        {
+            "id": "80445",
+            "ics": "calendars/strefazajec/864/80445/80445.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80445",
+            "title": "Szkoła Filmowa Akcja! Grupa Starsza 12-18 Lat ,,Filmoznawcy'' Sobota Godz.10.00-14.00"
+        },
+        {
             "id": "77221",
             "ics": "calendars/strefazajec/864/77221/77221.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77221",
@@ -369,12 +411,6 @@
             "ics": "calendars/strefazajec/864/79924/79924.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79924",
             "title": "Taniec Ladies Dance Środa Godz. 19:45-20:45"
-        },
-        {
-            "id": "77416",
-            "ics": "calendars/strefazajec/864/77416/77416.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/77416",
-            "title": "Taniec Lekcje Indywidualne Dla Duetów I Trio Środa Gr.I 15.00, Gr.Ii 15.45-16.30,Gr.Iii 16.30-17.15"
         },
         {
             "id": "77180",
