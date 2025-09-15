@@ -3,6 +3,53 @@ VERSION:2.0
 PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Obiad
+DTSTART:20250915T123500
+DTEND:20250915T125500
+DESCRIPTION:Zupa koperkowa zabielana na wywarze warzywno – mięsnym.(zaw
+ iera seler\, mleko).\n\nStrogonow wołowy z warzywami (zawierapszenice)\, 
+ kopytka( zawiera pszenice\,jajko) ogórek kwaszony. Dieta wegetariańska :
+  Strogonow wegetariański z warzywami (zawiera pszenice) \,kopytka ( zawie
+ ra pszenice\, jajko) ogórek kwaszony . Napój owocowy/woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250916T123500
+DTEND:20250916T125500
+DESCRIPTION:Zupa grochówka na wywarze warzywnym (zawiera seler\, pszenica
+ ).\n\nNaleśniki (zawiera jajka\, pszenice) z białym serem (zawiera mleko
+ )\, polany sosem truskawkowym . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250917T123500
+DTEND:20250917T125500
+DESCRIPTION:Zupa literkowa na wywarze warzywno – mięsnym (zawiera seler
+ \, pszenica\, jajka).\n\nSznycel drobiowy w złocistej panierce ( zawiera 
+ pszenice \,jajko) \,surówka warzywna \, ziemniaki. Dieta wegetariańska: 
+ Sznycel wegetariański w złocistej panierce ( zawiera pszenice \, soja \,
+  jajko)\,surówka warzywna \, ziemniaki . Kompot owocowy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250918T123500
+DTEND:20250918T125500
+DESCRIPTION:Zupa kalafiorowa zabielana na wywarze warzywno – mięsnym.(z
+ awiera seler\, mleko).\n\nPulpety z mięsa wieprzowego ( zawiera pszenicę
+ \,jajka ) w sosie porowym \, kasza kuskus\, surówka warzywna.Dieta wegeta
+ riańska: Pulpety warzywne ( zawiera pszenicę\, jajka) w sosie porowym ( 
+ zawiera pszenicę\,mleko) \, kasza kuskus\, surówka warzywna. Kompot owoc
+ owy / woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
+DTSTART:20250919T123500
+DTEND:20250919T125500
+DESCRIPTION:Zupa kapuśniak ze słodkiej kapusty z ziemniakami na wywarze 
+ warzywnym (zawiera seler).\n\nMorszczuk pieczony w chrupiącej panierce\, 
+ fasolka szparagowa (zawiera pszenicę )\,ziemniaki z zieleniną . Woda.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obiad
 DTSTART:20250908T123500
 DTEND:20250908T125500
 DESCRIPTION:Zupa zacierkowa na wywarze warzywno – mięsnym(zawiera seler
