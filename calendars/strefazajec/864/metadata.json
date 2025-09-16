@@ -77,6 +77,12 @@
             "title": "Capoeira Grupa Średniozaawansowana Zajęcia Dla Dzieci 7 Lat+, Młodzieży I Dorosłych, Poniedziałek I Piątek"
         },
         {
+            "id": "80775",
+            "ics": "calendars/strefazajec/864/80775/80775.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80775",
+            "title": "Capoeira Zajęcia Pokazowe Dla Dzieci 7 Lat+, Młodzieży I Dorosłych, Poniedziałek 29-09-2025 Godz 18:00"
+        },
+        {
             "id": "77039",
             "ics": "calendars/strefazajec/864/77039/77039.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77039",
@@ -185,6 +191,12 @@
             "title": "Gordonki-Zajęcia Gordonowskie Dla Maluszków Sobota Godzina 9.00-9.30"
         },
         {
+            "id": "80778",
+            "ics": "calendars/strefazajec/864/80778/80778.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80778",
+            "title": "Haft, Igła I Przyjaciele 14 Lat+Poniedziałek Godz.17.00-19.00"
+        },
+        {
             "id": "80337",
             "ics": "calendars/strefazajec/864/80337/80337.ics",
             "url": "https://www.strefazajec.pl/course/view/id/80337",
@@ -237,6 +249,12 @@
             "ics": "calendars/strefazajec/864/79632/79632.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79632",
             "title": "Magia Teatru Zajęcia Teatralne Dla Dzieci I Młodzieży- Środa 3 Grupy Wiekowe : I Gr. 6- 9 Lat, Ii Gr. 10-13 Lat, Iii Gr.14-17 Lat"
+        },
+        {
+            "id": "80708",
+            "ics": "calendars/strefazajec/864/80708/80708.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80708",
+            "title": "Makrama 14 Lat+Środa Godz.17.00-19.00"
         },
         {
             "id": "80162",
@@ -293,22 +311,10 @@
             "title": "Perkusja - Zajęcia Indywidualne 9 Lat+, Środa"
         },
         {
-            "id": "80646",
-            "ics": "calendars/strefazajec/864/80646/80646.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/80646",
-            "title": "Pianino - Zajęcia Indywidualne Piątek"
-        },
-        {
             "id": "76654",
             "ics": "calendars/strefazajec/864/76654/76654.ics",
             "url": "https://www.strefazajec.pl/course/view/id/76654",
             "title": "Pianino - Zajęcia Indywidualne Poniedziałek"
-        },
-        {
-            "id": "80575",
-            "ics": "calendars/strefazajec/864/80575/80575.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/80575",
-            "title": "Pianino - Zajęcia Indywidualne Wtorek"
         },
         {
             "id": "77734",
@@ -413,6 +419,12 @@
             "title": "Taniec Ladies Dance Środa Godz. 19:45-20:45"
         },
         {
+            "id": "77416",
+            "ics": "calendars/strefazajec/864/77416/77416.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77416",
+            "title": "Taniec Lekcje Indywidualne Dla Duetów I Trio Środa Gr.I 15.00, Gr.Ii 15.45-16.30,Gr.Iii 16.30-17.15"
+        },
+        {
             "id": "77180",
             "ics": "calendars/strefazajec/864/77180/77180.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77180",
@@ -513,6 +525,12 @@
             "ics": "calendars/strefazajec/864/77378/77378.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77378",
             "title": "Zespół Dance To The Beat Happy Dance Liceum +(Od 15 Lat) Sobota 13.45-14.45"
+        },
+        {
+            "id": "80252",
+            "ics": "calendars/strefazajec/864/80252/80252.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80252",
+            "title": "Zespół Dance To The Beat Happy Dance Liceum +(Od 15 Lat) Środa Godz.18.00-19.00"
         },
         {
             "id": "77228",

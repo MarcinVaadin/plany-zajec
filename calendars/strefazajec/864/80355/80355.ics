@@ -4,16 +4,6 @@ PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Solo latino dorośli (grupa średniozaawansowana) wtorek godz. 18:
  30-19:30
-DTSTART:20250916T183000
-DTEND:20250916T193000
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250916T180000
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo latino dorośli (grupa średniozaawansowana) wtorek godz. 18:
- 30-19:30
 DTSTART:20250923T183000
 DTEND:20250923T193000
 BEGIN:VALARM
