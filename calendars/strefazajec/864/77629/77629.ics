@@ -4,46 +4,6 @@ PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
  młodzieży i dorosłych\, poniedziałek i piątek
-DTSTART:20250919T191500
-DTEND:20250919T204500
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250919T184500
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
- młodzieży i dorosłych\, poniedziałek i piątek
-DTSTART:20250922T190000
-DTEND:20250922T203000
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250922T183000
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
- młodzieży i dorosłych\, poniedziałek i piątek
-DTSTART:20250926T191500
-DTEND:20250926T204500
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250926T184500
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
- młodzieży i dorosłych\, poniedziałek i piątek
-DTSTART:20250929T190000
-DTEND:20250929T203000
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250929T183000
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capoeira grupa średniozaawansowana  zajęcia dla dzieci 7 lat+\, 
- młodzieży i dorosłych\, poniedziałek i piątek
 DTSTART:20251003T191500
 DTEND:20251003T204500
 BEGIN:VALARM

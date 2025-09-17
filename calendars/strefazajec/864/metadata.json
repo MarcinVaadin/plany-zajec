@@ -167,6 +167,12 @@
             "title": "Ceramika Dla Dzieci (6-9 Lat) Środa Godz. 14.20-15.20"
         },
         {
+            "id": "77766",
+            "ics": "calendars/strefazajec/864/77766/77766.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/77766",
+            "title": "Chór Aprobata Dla Dorosłych, Poniedziałek I Czwartek, Godz.19.15 Aprobata"
+        },
+        {
             "id": "76753",
             "ics": "calendars/strefazajec/864/76753/76753.ics",
             "url": "https://www.strefazajec.pl/course/view/id/76753",
@@ -497,10 +503,10 @@
             "title": "Warsztaty Z Podstaw Projektowania Graficznego I Komiksu Dla Młodzieży, Czwartek 18.15-19.45"
         },
         {
-            "id": "77766",
-            "ics": "calendars/strefazajec/864/77766/77766.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/77766",
-            "title": "Zajęcia Chóralne Dla Dorosłych, Poniedziałek I Czwartek, Godz.19.30, Aprobata"
+            "id": "80881",
+            "ics": "calendars/strefazajec/864/80881/80881.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80881",
+            "title": "Wykłady I Warsztaty Dla Seniorów Wtorek 16.30-18.30"
         },
         {
             "id": "77789",
@@ -519,6 +525,12 @@
             "ics": "calendars/strefazajec/864/77214/77214.ics",
             "url": "https://www.strefazajec.pl/course/view/id/77214",
             "title": "Zajęcia Plastyczne 7-11 Lat 16.00-17.00"
+        },
+        {
+            "id": "80805",
+            "ics": "calendars/strefazajec/864/80805/80805.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80805",
+            "title": "Zajęcia Soma Flow- Zajęcia Oddechowe Poniedziałek Godz.18.00-19.00"
         },
         {
             "id": "77378",

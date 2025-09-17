@@ -4,46 +4,6 @@ PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Capoeira grupa początkująca  zajęcia dla dzieci 7 lat+\, młodz
  ieży i dorosłych\, poniedziałek i piątek
-DTSTART:20250919T181500
-DTEND:20250919T191500
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250919T174500
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capoeira grupa początkująca  zajęcia dla dzieci 7 lat+\, młodz
- ieży i dorosłych\, poniedziałek i piątek
-DTSTART:20250922T180000
-DTEND:20250922T190000
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250922T173000
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capoeira grupa początkująca  zajęcia dla dzieci 7 lat+\, młodz
- ieży i dorosłych\, poniedziałek i piątek
-DTSTART:20250926T181500
-DTEND:20250926T191500
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250926T174500
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capoeira grupa początkująca  zajęcia dla dzieci 7 lat+\, młodz
- ieży i dorosłych\, poniedziałek i piątek
-DTSTART:20250929T180000
-DTEND:20250929T190000
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250929T173000
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capoeira grupa początkująca  zajęcia dla dzieci 7 lat+\, młodz
- ieży i dorosłych\, poniedziałek i piątek
 DTSTART:20251003T181500
 DTEND:20251003T191500
 BEGIN:VALARM
