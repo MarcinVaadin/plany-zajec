@@ -245,12 +245,6 @@
             "title": "Logorytmika Dla Maluszków Sobota Godzina 9.40-10.10"
         },
         {
-            "id": "80629",
-            "ics": "calendars/strefazajec/864/80629/80629.ics",
-            "url": "https://www.strefazajec.pl/course/view/id/80629",
-            "title": "Magia Teatru --Bezpłatne Pokazowe Zajęcia Teatralne Grupa.14-17 Lat Środa 17 Września"
-        },
-        {
             "id": "79632",
             "ics": "calendars/strefazajec/864/79632/79632.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79632",
@@ -419,6 +413,12 @@
             "title": "Taniec Baby-Dance Happy Dance Dla 2-3 Latków Z Opiekunem, Sobota, Godz. 9:30 10:00"
         },
         {
+            "id": "80998",
+            "ics": "calendars/strefazajec/864/80998/80998.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80998",
+            "title": "Taniec High Heels Piątek Godz. 19:00-20:30"
+        },
+        {
             "id": "79924",
             "ics": "calendars/strefazajec/864/79924/79924.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79924",
@@ -489,6 +489,12 @@
             "ics": "calendars/strefazajec/864/79498/79498.ics",
             "url": "https://www.strefazajec.pl/course/view/id/79498",
             "title": "Taniec Towarzyski Dla Par Dorośli (Grupa Średniozaawansowana), Wtorek Godz. 19:30-20:30"
+        },
+        {
+            "id": "80890",
+            "ics": "calendars/strefazajec/864/80890/80890.ics",
+            "url": "https://www.strefazajec.pl/course/view/id/80890",
+            "title": "Warsztaty Kreatywnego Pisania Środa 18.00-20.00"
         },
         {
             "id": "79320",
