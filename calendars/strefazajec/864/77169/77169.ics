@@ -4,26 +4,6 @@ PRODID:-//Kalendarz Szkolny//example.com//
 BEGIN:VEVENT
 SUMMARY:Warsztaty z podstaw projektowania graficznego i komiksu dla młodz
  ieży\, czwartek 18.15-19.45
-DTSTART:20250918T181500
-DTEND:20250919T121500
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250918T174500
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warsztaty z podstaw projektowania graficznego i komiksu dla młodz
- ieży\, czwartek 18.15-19.45
-DTSTART:20250925T181500
-DTEND:20250926T121500
-BEGIN:VALARM
-ACTION:audio
-TRIGGER:20250925T174500
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Warsztaty z podstaw projektowania graficznego i komiksu dla młodz
- ieży\, czwartek 18.15-19.45
 DTSTART:20251002T181500
 DTEND:20251003T121500
 BEGIN:VALARM
